@@ -14,6 +14,7 @@ Pros:
 
 * Nice UI
 * Decent free Basic plan
+  * Includes one free private book
 * No need to always use command line
 * Works well on iPad through Safari
 * Custom domains
