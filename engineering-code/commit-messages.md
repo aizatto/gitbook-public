@@ -117,7 +117,7 @@ Types:
 
 Describe in detail:
 
-* why this diff neccessary
+* why this diff necessary
 * what are the trade offs of your decisions
 
 if its a new feature:
@@ -147,7 +147,7 @@ if its a bug fix:
 if there is a performance improvement
 
 * give comparison of before/after. For example:
-  * how many miliseconds did it take before/after
+  * how many milliseconds did it take before/after
   * how much memory does it take before/after
 
 #### Test Plan
