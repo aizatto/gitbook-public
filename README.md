@@ -1,6 +1,6 @@
 # aizatto.com
 
-This is a braindump of all my thoughts.
+This is a public braindump of all my thoughts.
 
 Old thoughts:
 
