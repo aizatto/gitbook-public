@@ -7,25 +7,27 @@
 
 I'm interested in companies with products I used, so I reached out:
 
-* Github
-* Gitlab
-* Reddit
+* [GitHub](https://github.com/about/careers)
+* [Gitlab](https://about.gitlab.com/jobs/apply/)
+* [Reddit](https://www.redditinc.com/careers)
 * Bloombuilt \(for their DayOne Journaling app\)
 
 As you will be someone who is going through the job application process, you could focus on companies.
 
 ## Work Arrangements
 
-* Remote Freelancer
-* Remote Contractor
-* Contractor \(Full Time\)
-* Full Time Employee
+|  | Full Time | Part Time |
+| :--- | :--- | :--- |
+| Onsite | Full Time Onsite | Part Time Onsite |
+| Remote | Full Time Remote | Part Time Remote |
 
 ### Job Boards
 
 #### General
 
 * [https://whoishiring.io](https://whoishiring.io)
+* [https://kennytilton.github.io/whoishiring/](https://kennytilton.github.io/whoishiring/)
+* [https://jobs.github.com](https://jobs.github.com)
 
 #### Remote Work
 

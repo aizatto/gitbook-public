@@ -2,8 +2,13 @@
 
 Requirements:
 
+* Easy maintenance
 * Git/file system support
+  * Allows for easy migration
+  * Doesn't require me to have internet access
 * Markdown support
+  * Easy styling
+* Static
 
 Pros:
 
@@ -14,5 +19,11 @@ Pros:
 * Custom domains
 * Google Analytics support
 
-Previously using Phenomic. Fully manual
+I don't mind:
+
+* Single style
+
+Other static site generators: [https://www.staticgen.com](https://www.staticgen.com)
+
+Previously using Phenomic. Fully manual.
 
