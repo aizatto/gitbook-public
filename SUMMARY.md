@@ -1,6 +1,7 @@
 # Table of contents
 
 * [aizatto.com](README.md)
+* [Career Guide](career-guide.md)
 * [Engineering Code](engineering-code/README.md)
   * [Different Types of Coding](engineering-code/different-types-of-coding.md)
   * [Commit Messages](engineering-code/commit-messages.md)
