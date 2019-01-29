@@ -1,7 +1,5 @@
 # Career Guide
 
-
-
 ## Which Company?
 
 * [Breakout List](https://breakoutlist.com): List of companies with a breakout trajectory.
