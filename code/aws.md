@@ -6,10 +6,11 @@
 * [AWS Calculator](https://calculator.s3.amazonaws.com/index.html)
 * [Mapping of AWS to GCP](https://cloud.google.com/free/docs/map-aws-google-cloud-platform)
 
-|  | Features | Pricing | Getting Started |  |  |
+| Service | Features | Pricing | Getting Started | Resources | Limits |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [API Gateway](https://aws.amazon.com/api-gateway/) |  | [Pricing](https://aws.amazon.com/api-gateway/pricing/) |  |  |  |
 | Cognito | [Features](https://aws.amazon.com/cognito/details/) | [Pricing](https://aws.amazon.com/cognito/pricing/) | [Getting Started](https://aws.amazon.com/cognito/getting-started/) | [Resources](https://aws.amazon.com/cognito/dev-resources/) | [Limits](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html#limits_cognito_user_pools) |
-|  |  |  |  |  |  |
+| [CloudFormation](https://aws.amazon.com/cloudformation/) |  | [Pricing](https://aws.amazon.com/cloudformation/pricing/) |  |  |  |
 
 Cons:
 
