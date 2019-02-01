@@ -1,12 +1,11 @@
 # Go Lang
 
-
-
 * [https://golang.org/](https://golang.org/)
 * [https://golang.org/doc/code.html](https://golang.org/doc/code.html)
 * [https://golang.org/doc/effective\_go.html](https://golang.org/doc/effective_go.html)
 * [https://github.com/golang/go/wiki/Learn](https://github.com/golang/go/wiki/Learn)
 * [https://github.com/golang/go/wiki/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
+* Git [pre-commit hook](https://golang.org/misc/git/pre-commit)
 
 ## Set up
 

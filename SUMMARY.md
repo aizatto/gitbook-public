@@ -17,6 +17,7 @@
 * [AWS](code/aws.md)
 * [Go Lang](code/go-lang.md)
 * [JavaScript](code/javascript.md)
+* [New Mac](code/new-mac.md)
 * [Node.js](code/node.js.md)
 * [Repository Management](code/repository-management.md)
 * [Stripe](code/stripe.md)
