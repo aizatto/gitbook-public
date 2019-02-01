@@ -14,7 +14,10 @@
 
 ## Notes
 
+* [AWS](code/aws.md)
+* [Go Lang](code/go-lang.md)
 * [JavaScript](code/javascript.md)
 * [Node.js](code/node.js.md)
+* [Repository Management](code/repository-management.md)
 * [Stripe](code/stripe.md)
 
