@@ -12,8 +12,9 @@
   * [Pipelines](engineering-code/pipelines.md)
 * [Why GitBook?](why-gitbook.md)
 
-## Code
+## Notes
 
 * [JavaScript](code/javascript.md)
 * [Node.js](code/node.js.md)
+* [Stripe](code/stripe.md)
 
