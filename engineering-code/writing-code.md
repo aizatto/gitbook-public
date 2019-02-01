@@ -198,6 +198,11 @@ Exceptions:
 
 * URLs. Always try to use full URLs as much as possible as it helps the reader to intuit the purpose of the URL.
 
+Notes:
+
+* Python recommends [79 characters](https://www.python.org/dev/peps/pep-0008/#maximum-line-length)
+* I've [tested out character length](https://github.com/aizatto/character-length) on different sites
+
 ## Be careful about chaining conditions.
 
 This may dangerous, because it's hard to debug.
