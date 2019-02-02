@@ -24,6 +24,14 @@ Limitations:
 
 * Not everything lives in code
 
+## Tips
+
+[aws-shell](https://github.com/awslabs/aws-shell)
+
+```bash
+pip install aws-shell
+```
+
 ## Services
 
 ### API Gateway
