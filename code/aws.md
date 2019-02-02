@@ -24,13 +24,15 @@ Limitations:
 
 * Not everything lives in code
 
-## API Gateway
+## Services
+
+### API Gateway
 
 > Create, maintain, and secure APIs at any scale
 
 [https://aws.amazon.com/api-gateway/](https://aws.amazon.com/api-gateway/)
 
-## AppSync
+### AppSync
 
 [https://docs.aws.amazon.com/appsync/latest/devguide/designing-your-schema.html](https://docs.aws.amazon.com/appsync/latest/devguide/designing-your-schema.html)
 
@@ -77,19 +79,19 @@ Limitations:
 
 > If you're doing the advanced section with pagination and relations, you need to repeat the above with a table named Comments with a primary key of todoid and a sort key of commentid, where both are of type String. Additionally, you must create a global secondary index on the table called todoid-index with a partition key todoid of type String. You can create this manually in the Amazon DynamoDB console or using the following AWS CloudFormation stack:
 
-## Amplify
+### Amplify
 
 [https://aws-amplify.github.io/docs/js/api](https://aws-amplify.github.io/docs/js/api)
 
 > The foundation for your cloud-powered mobile & web apps
 
-## CloudFormation
+### CloudFormation
 
 > Model and provision all your cloud infrastructure resources
 
 [http://aws.amazon.com/cloudformation/](http://aws.amazon.com/cloudformation/)
 
-## Cognito
+### Cognito
 
 [https://aws.amazon.com/cognito/](https://aws.amazon.com/cognito/)
 
@@ -131,7 +133,7 @@ Only supports:
 * Facebook
 * Google
 
-## DynamoDB
+### DynamoDB
 
 > Amazon DynamoDB is a nonrelational database that delivers reliable performance at any scale.
 
@@ -139,41 +141,50 @@ Only supports:
 * NoSQL Database
 * Partition Key, Sort Key
 
-## Search / Filter
+### Search / Filter
 
-## Sort
+### Sort
 
-## Fargate
+### Fargate
 
 > Run containers without managing servers or clusters
 
-## IAM \(Identity and Access Management\)
+### IAM \(Identity and Access Management\)
 
-## Lambda
+### Lambda
 
 > Run code without thinking about servers. Pay only for the compute time you consume.
 
-## Pinpoint
+### Pinpoint
 
 > Engage your customers by sending them targeted and transactional email, SMS, push notifications, and voice messages.
 
-## Redshift
+### Redshift
 
 > Amazon Redshift is a fast, scalable data warehouse that makes it simple and cost-effective to analyze all your data across your data warehouse and data lake.
 
-## SES \(Simple Email Service\)
+### SES \(Simple Email Service\)
 
 > Flexible, affordable, and highly-scalable email sending and receiving platform for businesses and developers
 
-## Simple Notification Service
+### Simple Notification Service
 
 > Fully managed pub/sub messaging for microservices, distributed systems, and serverless applications
 
 [https://stackoverflow.com/questions/13681213/what-is-the-difference-between-amazon-sns-and-amazon-sqs](https://stackoverflow.com/questions/13681213/what-is-the-difference-between-amazon-sns-and-amazon-sqs)
 
-## Simple Queue System
+### Simple Queue System
 
 > Fully managed message queues for microservices, distributed systems, and serverless applications
 
 [https://aws.amazon.com/sqs/](https://aws.amazon.com/sqs/)
+
+## Glossary
+
+[https://docs.aws.amazon.com/general/latest/gr/glos-chap.html](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html)
+
+| Term | Definition |
+| :--- | :--- |
+| ARN | Amazon Resource Name |
+| IAM | Identity and Access Management |
 
