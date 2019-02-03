@@ -13,7 +13,9 @@
 
 * `counter`
 * `name`
+* `url`
 * `uuid`
+* `value`
 
 ### [PutItem](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_PutItem.html)
 
@@ -54,5 +56,20 @@ Sample error:
     "statusCode":400,
     "retryable":false
 }
+```
+
+### Promises \(async/await\)
+
+```javascript
+const { promisify } = require('util');
+...
+dynamodb.putPromise = promisify(dynamodb.put);
+dynamodb.updatePromise = promisify(dynamodb.update);
+dynamodb.getPromise = promisify(dynamodb.get);
+...
+result = await dynamodb.putPromise({});
+result = await dynamodb.updatePromise({});
+result = await dynamodb.getPromise({});
+
 ```
 
