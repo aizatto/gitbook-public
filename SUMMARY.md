@@ -14,7 +14,8 @@
 
 ## Notes
 
-* [AWS](code/aws.md)
+* [AWS](code/aws/README.md)
+  * [DynamoDB](code/aws/dynamodb.md)
 * [Go Lang](code/go-lang.md)
 * [JavaScript](code/javascript.md)
 * [New Mac](code/new-mac.md)
