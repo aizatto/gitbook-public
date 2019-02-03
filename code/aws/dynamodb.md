@@ -4,6 +4,10 @@
 
 ## Gotchas
 
+### Serverless
+
+WARNING: Changing the table name in `serverless.yml` will drop the table.
+
 ### DynamoDB Shell
 
 * [http://localhost:8000/shell](http://localhost:8000/shell)
@@ -42,6 +46,8 @@ if (!result.Item) {
   // exit early
 }
 ```
+
+Cannot be preformed on a `Global Secondary Index`.
 
 ### [PutItem](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_PutItem.html)
 
@@ -83,4 +89,8 @@ Sample error:
     "retryable":false
 }
 ```
+
+### Global Secondary Index
+
+Cannot perform `GetItem`. Use `Query` or `Scan`.
 
