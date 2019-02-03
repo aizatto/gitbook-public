@@ -14,13 +14,13 @@
 
 ## Notes
 
-* [AWS](code/aws/README.md)
-  * [DynamoDB](code/aws/dynamodb.md)
-* [Go Lang](code/go-lang.md)
-* [JavaScript](code/javascript.md)
-* [New Mac](code/new-mac.md)
-* [Node.js](code/node.js.md)
-* [Repository Management](code/repository-management.md)
-* [Stripe](code/stripe.md)
-* [Serverless](code/serverless.md)
+* [AWS](notes/aws/README.md)
+  * [DynamoDB](notes/aws/dynamodb.md)
+* [Go Lang](notes/go-lang.md)
+* [JavaScript](notes/javascript.md)
+* [New Mac](notes/new-mac.md)
+* [Node.js](notes/node.js.md)
+* [Repository Management](notes/repository-management.md)
+* [Stripe](notes/stripe.md)
+* [Serverless](notes/serverless.md)
 
