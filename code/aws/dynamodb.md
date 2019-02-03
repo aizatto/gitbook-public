@@ -17,6 +17,32 @@
 * `uuid`
 * `value`
 
+### Promises \(async/await\)
+
+```javascript
+const { promisify } = require('util');
+...
+dynamodb.putPromise = promisify(dynamodb.put);
+dynamodb.updatePromise = promisify(dynamodb.update);
+dynamodb.getPromise = promisify(dynamodb.get);
+...
+result = await dynamodb.putPromise({});
+result = await dynamodb.updatePromise({});
+result = await dynamodb.getPromise({});
+
+```
+
+### [GetItem](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_GetItem.html)
+
+```javascript
+// Does not throw an exception if record does not exist
+const result = await dynamodb.getPromise({});
+
+if (!result.Item) {
+  // exit early
+}
+```
+
 ### [PutItem](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_PutItem.html)
 
 Will overwrite values if the key is the same; unless you define a ConditionalExpression
@@ -56,20 +82,5 @@ Sample error:
     "statusCode":400,
     "retryable":false
 }
-```
-
-### Promises \(async/await\)
-
-```javascript
-const { promisify } = require('util');
-...
-dynamodb.putPromise = promisify(dynamodb.put);
-dynamodb.updatePromise = promisify(dynamodb.update);
-dynamodb.getPromise = promisify(dynamodb.get);
-...
-result = await dynamodb.putPromise({});
-result = await dynamodb.updatePromise({});
-result = await dynamodb.getPromise({});
-
 ```
 
