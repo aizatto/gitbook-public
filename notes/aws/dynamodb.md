@@ -1,6 +1,6 @@
 # DynamoDB
 
-* * [Best Practices](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html)
+* [Best Practices](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html)
 
 ## Gotchas
 
