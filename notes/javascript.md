@@ -334,6 +334,12 @@ assert(expected2, input2);
 assert(expected3, input3);
 ```
 
+## \`\`[`querystring`](https://nodejs.org/api/querystring.html)\`\`
+
+Warning:  `querystring.stringify` does not stringify deeply nested objects.
+
+* GitHub Gist: [Merge Query Strings](https://gist.github.com/aizatto/c1f42416034cf0e3303c85f4dd251334)
+
 ## `Class`es
 
 ```javascript
