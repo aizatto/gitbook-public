@@ -302,7 +302,7 @@ Result:
 
 Note the trailing `/g`
 
-* You cannot select indivudal groups while using `g`
+* You cannot select individual groups while using `g`
 
 ### Simple Assert
 
