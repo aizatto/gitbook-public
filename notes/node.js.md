@@ -121,3 +121,11 @@ yarn run flow init
 * Transpile it to a version browsers can use
 * Has to use transpiled server side version
 
+## Support
+
+[https://github.com/nodejs/Release](https://github.com/nodejs/Release)
+
+| version | Support |
+| :--- | :--- |
+| 8.10 | AWS Lamba Support |
+
