@@ -74,6 +74,18 @@ const b = (param1, param2) => param1 + param2;
 Array.isArray(array)
 ```
 
+This does not work to test if its an array.
+
+```javascript
+if (array) {
+  // empty arrays evaluate as false
+}
+
+if (array && array.length > 0) {
+  // you may still want to capture the array
+}
+```
+
 ### Clone an array
 
 ```javascript
@@ -191,6 +203,19 @@ for (let value of set.values()) {
 
 ```javascript
 Array.from(new Set())
+```
+
+### Differences
+
+[https://github.com/aizatto/nodejs/blob/master/src/fn.js\#L42](https://github.com/aizatto/nodejs/blob/master/src/fn.js#L42)
+
+```javascript
+function setMath<T>(a: Set<T>, b: Set<T>) {
+  return {
+    remove: [...a].filter(x => !b.has(x)),
+    add: [...b].filter(x => !a.has(x)),
+  };
+}
 ```
 
 ## Async
