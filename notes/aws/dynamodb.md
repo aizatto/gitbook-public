@@ -47,7 +47,7 @@ if (!result.Item) {
 }
 ```
 
-Cannot be preformed on a `Global Secondary Index`.
+`GetItem` cannot be preformed on a `Global Secondary Index`.
 
 ### [PutItem](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_PutItem.html)
 
