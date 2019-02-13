@@ -52,6 +52,10 @@ Common in:
 
 #### Microservices
 
+Pros:
+
+* Lighter weight deployments
+
 Cons:
 
 * Many repositories
@@ -85,6 +89,7 @@ Good for:
 Pros:
 
 * DevOps is not required
+* Reduce security footprint
 * Isolated
 * Pay for what you use
 
