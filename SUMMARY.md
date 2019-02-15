@@ -21,6 +21,7 @@
 * [New Mac](notes/new-mac.md)
 * [Node.js](notes/node.js.md)
 * [Repository Management](notes/repository-management.md)
-* [Stripe](notes/stripe.md)
 * [Serverless](notes/serverless.md)
+* [Software Architectures](notes/software-architectures.md)
+* [Stripe](notes/stripe.md)
 
