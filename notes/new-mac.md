@@ -23,6 +23,12 @@ brew install \
   mariadb
 ```
 
+[Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli):
+
+```bash
+brew tap heroku/brew && brew install heroku
+```
+
 * [Generate SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 
 ## Apps
