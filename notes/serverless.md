@@ -30,7 +30,13 @@ Then:
 serverless invoke local --function functionName --data $string
 ```
 
-## serverless-dynamodb-local
+## DynamoDB
+
+WARNING: Changing table names drops the original database.
+
+Be very careful.
+
+### Plugin: serverless-dynamodb-local
 
 [https://www.npmjs.com/package/serverless-dynamodb-local](https://www.npmjs.com/package/serverless-dynamodb-local)
 
@@ -59,7 +65,5 @@ yarn add --dev serverless-dynamodb-local@0.2.30
 
 * [URL Shortener](https://github.com/aizatto/url-shortener/)
 
-WARNING: Changing table names drops the original database.
 
-Be very careful.
 
