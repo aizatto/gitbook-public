@@ -4,13 +4,15 @@ description: 'Notes for https://serverless.com'
 
 # Serverless
 
+## Commands
+
+```bash
+serverless create --template aws-nodejs-typescript --path project-name
+```
+
 ## Gotchas
 
 ### DynamoDB
-
-WARNING: Changing table names drops the original database.
-
-Be very careful.
 
 Use `v0.2.30`, there are problems with the latest version.
 
@@ -26,4 +28,8 @@ yarn add --dev serverless-dynamodb-local@0.2.30
 ## Personal Prototypes / Toys / Experiments
 
 * [URL Shortener](https://github.com/aizatto/url-shortener/)
+
+WARNING: Changing table names drops the original database.
+
+Be very careful.
 

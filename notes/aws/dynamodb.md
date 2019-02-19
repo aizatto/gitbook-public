@@ -2,6 +2,14 @@
 
 * [Best Practices](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html)
 
+## Node.js
+
+To store Timestamp:
+
+```javascript
+new Date().toISOString()
+```
+
 ## Gotchas
 
 ### Serverless
