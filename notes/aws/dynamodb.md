@@ -25,6 +25,7 @@ WARNING: Changing the table name in `serverless.yml` will drop the table.
 
 * `counter`
 * `name`
+* `source`
 * `url`
 * `uuid`
 * `value`
@@ -98,7 +99,29 @@ Sample error:
 }
 ```
 
+### Query vs Scan
+
+[https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API\_Query.html](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_Query.html)  
+[https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API\_Scan.html](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_Scan.html)
+
+| Query | Scan |
+| :--- | :--- |
+| The Query operation finds items based on primary key values. You can query any table or secondary index that has a composite primary key \(a partition key and a sort key\). | The `Scan` operation returns one or more items and item attributes by accessing every item in a table or a secondary index. To have DynamoDB return fewer items, you can provide a `FilterExpression` operation.  |
+
+## Indexes
+
+[https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-indexes-general.html](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-indexes-general.html)
+
+[https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html)
+
+| Global Secondary Index | Local Secondary Index |
+| :--- | :--- |
+| An index with a partition key and a sort key that can be different from those on the base table. | An index that has the same partition key as the base table, but a different sort key. |
+| A global secondary index has no size limitations and has its own provisioned throughput settings for read and write activity that are separate from those of the table. | As a result, the total size of indexed items for any one partition key value can't exceed 10 GB. Also, a local secondary index shares provisioned throughput settings for read and write activity with the table it is indexing. |
+| Each table in DynamoDB is limited to 20 global secondary indexes \(default limit\) | Each table in DynamoDB is limited to 5 local secondary indexes. |
+
 ### Global Secondary Index
 
-Cannot perform `GetItem`. Use `Query` or `Scan`.
+Cannot perform `GetItem`. Use `Query` or `Scan`.  
+[https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-indexes-general.html](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-indexes-general.html)
 
