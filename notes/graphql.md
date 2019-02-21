@@ -1,7 +1,6 @@
 # GraphQL
 
-
-
+* [Presentation](https://docs.google.com/presentation/d/1d96DiC58RuIOK-fTElhLtg6Jf7WhThu_mpzrlCfXTsk/edit#slide=id.p)
 * [https://facebook.github.io/relay/docs/fragment-container.html](https://facebook.github.io/relay/docs/fragment-container.html)
 * [https://facebook.github.io/relay/docs/refetch-container.html](https://facebook.github.io/relay/docs/refetch-container.html)
 * [https://facebook.github.io/relay/docs/pagination-container.html](https://facebook.github.io/relay/docs/pagination-container.html)
