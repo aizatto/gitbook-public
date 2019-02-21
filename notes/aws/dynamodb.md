@@ -110,9 +110,11 @@ Sample error:
 
 ## Indexes
 
-[https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-indexes-general.html](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-indexes-general.html)
+Sorting is all done on the same partition.
 
-[https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html)
+Have to partition wisely.
+
+[https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-indexes-general.html](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-indexes-general.html)[https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html)
 
 | Global Secondary Index | Local Secondary Index |
 | :--- | :--- |
