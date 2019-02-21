@@ -11,6 +11,7 @@
   * [Engineering Data](engineering-code/engineering-data.md)
   * [Pipelines](engineering-code/pipelines.md)
 * [Why GitBook?](why-gitbook.md)
+* [Projects / Tools / Toys](projects-tools-toys.md)
 
 ## Notes
 
