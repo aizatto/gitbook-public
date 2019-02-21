@@ -1,6 +1,8 @@
 # DynamoDB
 
 * [Best Practices](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html)
+* [https://aws.amazon.com/dynamodb/getting-started/](https://aws.amazon.com/dynamodb/getting-started/)
+* [https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-general-nosql-design.html](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-general-nosql-design.html)
 
 ## Node.js
 
@@ -9,6 +11,11 @@ To store Timestamp:
 ```javascript
 new Date().toISOString()
 ```
+
+## Designing Your Tables
+
+* Unlike traditional RDBMs, DynamoDB groups sorts by partitions.
+  * Each partition returns sorted result.
 
 ## Gotchas
 
