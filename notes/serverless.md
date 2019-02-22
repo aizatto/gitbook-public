@@ -10,6 +10,14 @@ description: 'Notes for https://serverless.com'
 serverless create --template aws-nodejs-typescript --path project-name
 ```
 
+## Best Practices / Learnings So Far
+
+* Don't overload your `serverless.yml` with many services.
+  * See DynamoDB gotcha
+* Failures can leave your deployment in an uncertain state
+* Rename your Amazon API Gateway
+  * [https://github.com/aizatto/serverless-prototypes/tree/master/aws-apigateway-proxy](https://github.com/aizatto/serverless-prototypes/tree/master/aws-apigateway-proxy)
+
 ## AWS - Invoke Local
 
 [https://serverless.com/framework/docs/providers/aws/cli-reference/invoke-local/](https://serverless.com/framework/docs/providers/aws/cli-reference/invoke-local/)
@@ -38,9 +46,14 @@ WARNING: Changing table names drops the original database.
 
 Be very careful.
 
+#### Cannot reuse existing DynamoDBs
+
 Serverless cannot reuse existing DyanmoDB tables. It will error our if you try to use it:
 
 > An error occurred: eventsTable - $table already exists.
+
+[https://github.com/serverless/serverless/issues/3183](https://github.com/serverless/serverless/issues/3183)  
+
 
 ### Plugin: serverless-dynamodb-local
 
