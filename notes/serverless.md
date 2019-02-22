@@ -70,6 +70,7 @@ yarn add --dev serverless-dynamodb-local@0.2.30
 * [https://github.com/awslabs/serverless-application-model](https://github.com/awslabs/serverless-application-model)
 * [https://www.netlify.com/docs/functions/](https://www.netlify.com/docs/functions/)
 * [https://workers.dev/](https://workers.dev/)
+* [http://fnproject.io/](http://fnproject.io/)
 
 ### AWS Serverless Application Model \(SAM\)
 
