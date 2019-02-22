@@ -32,9 +32,15 @@ serverless invoke local --function functionName --data $string
 
 ## DynamoDB
 
+### Gotchas
+
 WARNING: Changing table names drops the original database.
 
 Be very careful.
+
+Serverless cannot reuse existing DyanmoDB tables. It will error our if you try to use it:
+
+> An error occurred: eventsTable - $table already exists.
 
 ### Plugin: serverless-dynamodb-local
 
@@ -44,6 +50,7 @@ This seems like a poor plugin.
 
 * Have to use `v0.2.30`
 * Constantly has problems running
+  * Have to consistently remove and install
 
 Useful locally for:
 
