@@ -6,6 +6,8 @@ Requirements:
 * Git/file system support
   * Allows for easy migration
   * Doesn't require me to have internet access
+  * I can easily do a `grep` or `ack` locally to find information.
+  * In theory, easy migration to different platforms
 * Markdown support
   * Easy styling
 * Static
