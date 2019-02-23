@@ -21,10 +21,12 @@ Pros:
 * Works well on iPad through Safari
 * Custom domains
 * Google Analytics support
+* Syncs with GitHub
 
-I don't mind:
+Limitations:
 
-* Single style
+* Single theme
+  * I don't really mind it. It's a decent but most importantly, usable theme.
 
 Other static site generators: [https://www.staticgen.com](https://www.staticgen.com)
 
