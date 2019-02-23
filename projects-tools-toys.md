@@ -19,7 +19,7 @@ A place for me to reflect on my thoughts, and hopefully learn from others as wel
 
 ### Timestamps
 
-I use timestamps a lot to journal, write notes or reports. It helps me organize my document, and to help me keep track of time.
+I use timestamps a lot to journal, write notes or reports. It helps me organize my documents and thoughts, and to help me keep track of time.
 
 * [https://vigilant-hodgkin-ddfa51.netlify.com/](https://vigilant-hodgkin-ddfa51.netlify.com/)
 * [https://github.com/aizatto/timestamp-js](https://github.com/aizatto/timestamp-js)
