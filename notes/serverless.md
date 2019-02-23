@@ -52,7 +52,7 @@ resources:
     ApiGatewayRestApi:
       Type: AWS::ApiGateway::RestApi
       Properties:
-        Name: ${self:service}-${self:provider.stage}
+        Name: ${self:service}-${opt:stage}
 ```
 
 ## DynamoDB
