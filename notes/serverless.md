@@ -98,6 +98,12 @@ Use `v0.2.30`, there are problems with the latest version.
 yarn add --dev serverless-dynamodb-local@0.2.30
 ```
 
+## Roles
+
+By default, the roles you create apply to all functions.
+
+You can define individual roles to functions via [https://github.com/functionalone/serverless-iam-roles-per-function](https://github.com/functionalone/serverless-iam-roles-per-function)
+
 ## Serverless Alternatives
 
 * [https://up.docs.apex.sh/](https://up.docs.apex.sh/)
