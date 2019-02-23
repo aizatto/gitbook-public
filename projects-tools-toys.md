@@ -49,7 +49,7 @@ I create a lot of experimental repositories to test out and save information.
 
 ### **Character Length**
 
-I use this to determine how many characters fit when working with code on GitHub or Git Lab
+I use this to determine how many characters fit when working with code on different platforms \(GitHub, GitLab, Phabricator, CLI, Editors\)
 
 * [https://github.com/aizatto/character-length](https://github.com/aizatto/character-length)
 
@@ -67,7 +67,7 @@ I use SVG to generate PDFs, and need a resource to test how some attributes work
 
 ### git-mv
 
-Test GitHub and GitLab's ability at display `git mv`.
+Test different platforms \(GitHub, and GitLab\) ability to display `git mv`.
 
 * [https://github.com/aizatto/git-mv](https://github.com/aizatto/git-mv)
 
