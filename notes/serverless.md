@@ -38,6 +38,23 @@ Then:
 serverless invoke local --function functionName --data $string
 ```
 
+## API Gateway Gotchas
+
+### API Gateway Bad Naming
+
+By default Serverless names the API Gateway as `$stage-$service`
+
+This is not scaleable when you have many services. To fix this update your `serverless.yml`:
+
+```yaml
+resources:
+  Resources:
+    ApiGatewayRestApi:
+      Type: AWS::ApiGateway::RestApi
+      Properties:
+        Name: ${self:service}-${self:provider.stage}
+```
+
 ## DynamoDB
 
 ### Gotchas
@@ -52,8 +69,13 @@ Serverless cannot reuse existing DyanmoDB tables. It will error our if you try t
 
 > An error occurred: eventsTable - $table already exists.
 
-[https://github.com/serverless/serverless/issues/3183](https://github.com/serverless/serverless/issues/3183)  
+[https://github.com/serverless/serverless/issues/3183](https://github.com/serverless/serverless/issues/3183)
 
+#### Billing Mode: Pay Per Request
+
+I ran into bugs trying to move to "PAY\_PER\_REQUEST" mode, and then I couldn't deploy, and when I think I fixed this, I got this error:
+
+> An error occurred: $table - Subscriber limit exceeded: Update to PayPerRequest mode are limited to once in 1 day\(s\). Last update at Sat Feb 23 03:07:45 UTC 2019. Next update can be made at Sun Feb 24 03:07:45 UTC 2019 \(Service: AmazonDynamoDBv2; Status Code: 400; Error Code: LimitExceededException; Request ID: E2GS9JLCCLIUH8BNIPQN32UEDBVV4KQNSO5AEMVJF66Q9ASUAAJG\).
 
 ### Plugin: serverless-dynamodb-local
 
