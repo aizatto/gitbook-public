@@ -27,6 +27,7 @@ Limitations:
 
 * Single theme
   * I don't really mind it. It's a decent but most importantly, usable theme.
+* Logs to git commit history could be nicer
 
 Other static site generators: [https://www.staticgen.com](https://www.staticgen.com)
 
