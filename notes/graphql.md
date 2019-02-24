@@ -7,7 +7,7 @@
 
 ## Cons of REST
 
-Cons of rest, composition of multiple resources requires multiple network requests
+* composition of multiple resources requires multiple network requests
 
 ## Fragment  Container
 
