@@ -15,6 +15,13 @@ A place for me to reflect on my thoughts, and hopefully learn from others as wel
 
 [https://www.deepthoughtapp.com/](https://www.deepthoughtapp.com/)
 
+### build.my
+
+Malaysian event aggregator for technology and startup communities.
+
+* [https://build.my/](https://build.my/)
+* [https://github.com/aizatto/build.my](https://github.com/aizatto/build.my)
+
 ## Tools
 
 ### Timestamps
