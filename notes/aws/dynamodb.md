@@ -24,7 +24,9 @@ new Date().toISOString()
 DyanmoDB cannot do large "UPDATE queries", for example you cannot do:
 
 ```sql
-UPDATE events SET status = "past" WHERE end_time < NOW();
+UPDATE events
+SET status = "past"
+WHERE status = "upcoming" AND end_time < NOW();
 ```
 
 You have to query each individual event. In this scenario, potentially look at storing the `status` as a Global Secondary Index. For example:
@@ -33,34 +35,36 @@ You have to query each individual event. In this scenario, potentially look at s
 const response = await dynamodb.queryPromise({
   TableName: process.env.EVENTS_TABLE,
   IndexName: process.env.EVENTS_STATUS_INDEX,
-  KeyConditionExpression: "#s = :status and #e <= :end_time",
+  KeyConditionExpression: "#s = :status AND #e <= :end_time",
   ExpressionAttributeNames:{
     "#s": "status",
     "#e": "end_time", 
   },
   ExpressionAttributeValues: {
-    ":status": "upcoming"
+    ":status": "upcoming",
     ":end_time": new Date().toISOString(),
   },
+  ProjectionExpression: "id",
 });
 
 // We can use either a single BatchWriteItem or multiple UpdateItems
-const promises = response.Items.map(({ event }) => 
+const promises = response.Items.map((event) =>
   dynamodb.updatePromise({
     TableName: process.env.EVENTS_TABLE,
     Key: {
       id: event.id,
-    UpdateExpression: "SET :s = :status",
+    },
+    UpdateExpression: "SET #s = :status",
     ExpressionAttributeNames:{
       "#s": "status",
     },
     ExpressionAttributeValues: {
-      ":status": "upcoming"
+      ":status": "upcoming",
     },
-  });
+  })
 );
 
-const Promise.all(promises);
+await Promise.all(promises);
 ```
 
 ### Serverless
