@@ -129,6 +129,8 @@ Cons:
 ## Personal Prototypes / Toys / Experiments
 
 * [URL Shortener](https://github.com/aizatto/url-shortener/)
+* [build.my](https://github.com/aizatto/build.my)
+* [https://github.com/aizatto/serverless-prototypes](https://github.com/aizatto/serverless-prototypes)
 
 
 
