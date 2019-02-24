@@ -171,7 +171,19 @@ z: c
 
 ### Iterate values in an object `(for...of)`
 
- Do not use \`\(for...of\)\` with \`objects\`. This will fatal with: Safari: \`\`\` TypeError: page\[Symbol.iterator\] is not a function. \(In 'page\[Symbol.iterator\]\(\)', 'page\[Symbol.iterator\]' is undefined\) \`\`\` Chrome: \`\`\` Uncaught TypeError: page\[Symbol.iterator\] is not a function \`\`\`
+ Do not use \`\(for...of\)\` with \`objects\`. This will fatal with:
+
+Safari:
+
+```text
+TypeError: page[Symbol.iterator] is not a function. (In 'page[Symbol.iterator]()', 'page[Symbol.iterator]' is undefined)
+```
+
+Chrome: 
+
+```text
+Uncaught TypeError: page[Symbol.iterator] is not a function
+```
 
 ## Set
 
