@@ -17,6 +17,7 @@
 
 * [AWS](notes/aws/README.md)
   * [DynamoDB](notes/aws/dynamodb.md)
+  * [Lambda](notes/aws/lambda.md)
 * [Go Lang](notes/go-lang.md)
 * [GraphQL](notes/graphql.md)
 * [JavaScript](notes/javascript.md)

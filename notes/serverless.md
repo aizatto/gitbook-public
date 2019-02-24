@@ -22,6 +22,8 @@ serverless create --template aws-nodejs-typescript --path project-name
 
 [https://serverless.com/framework/docs/providers/aws/cli-reference/invoke-local/](https://serverless.com/framework/docs/providers/aws/cli-reference/invoke-local/)
 
+Great for testing functions locally.
+
 ```bash
 serverless invoke local --function functionName
 ```
