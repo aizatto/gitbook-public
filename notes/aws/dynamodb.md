@@ -27,7 +27,41 @@ DyanmoDB cannot do large "UPDATE queries", for example you cannot do:
 UPDATE events SET status = "past" WHERE end_time < NOW();
 ```
 
-You have to query each individual event. In this scenario, potentially look at storing the `status` as a Global Secondary Index.
+You have to query each individual event. In this scenario, potentially look at storing the `status` as a Global Secondary Index. For example:
+
+```javascript
+const response = await dynamodb.queryPromise({
+  TableName: process.env.EVENTS_TABLE,
+  IndexName: process.env.EVENTS_STATUS_INDEX,
+  KeyConditionExpression: "#s = :status and #e <= :end_time",
+  ExpressionAttributeNames:{
+    "#s": "status",
+    "#e": "end_time", 
+  },
+  ExpressionAttributeValues: {
+    ":status": "upcoming"
+    ":end_time": new Date().toISOString(),
+  },
+});
+
+// We can use either a single BatchWriteItem or multiple UpdateItems
+const promises = response.Items.map(({ event }) => 
+  dynamodb.updatePromise({
+    TableName: process.env.EVENTS_TABLE,
+    Key: {
+      id: event.id,
+    UpdateExpression: "SET :s = :status",
+    ExpressionAttributeNames:{
+      "#s": "status",
+    },
+    ExpressionAttributeValues: {
+      ":status": "upcoming"
+    },
+  });
+);
+
+const Promise.all(promises);
+```
 
 ### Serverless
 
