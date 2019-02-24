@@ -99,6 +99,29 @@ WARNING: Changing the table name in `serverless.yml` will drop the table.
 
 ### [Reserved Words](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/ReservedWords.html)
 
+Work around is to use `ExpressionAttributeNames` and `ExpressionAttributeValues`
+
+Example of using the keys:
+
+```javascript
+dynamodb.query({
+  TableName: process.env.EVENTS_TABLE,
+  IndexName: process.env.EVENTS_STATUS_INDEX,
+  KeyConditionExpression: "#s = :status AND #e <= :end_time",
+  ExpressionAttributeNames:{
+    "#s": "status",
+    "#e": "end_time",
+  },
+  ExpressionAttributeValues: {
+    ":status": "upcoming",
+    ":end_time": new Date().toISOString(),
+  },
+  ProjectionExpression: "id",
+});
+```
+
+Examples of Reserved Words:
+
 * `counter`
 * `name`
 * `source`
