@@ -155,7 +155,7 @@ if (!result.Item) {
 }
 ```
 
-`GetItem` cannot be preformed on a `Global Secondary Index`.
+`GetItem` cannot be preformed on a `Global Secondary Index`. You can't use `IndexName`.
 
 ### [PutItem](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_PutItem.html)
 
