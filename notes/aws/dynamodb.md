@@ -4,6 +4,27 @@
 * [https://aws.amazon.com/dynamodb/getting-started/](https://aws.amazon.com/dynamodb/getting-started/)
 * [https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-general-nosql-design.html](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-general-nosql-design.html)
 
+## Pricing
+
+### Reads
+
+1 Read Request Unit: Maximum of 4KB
+
+| Read Type | Units |
+| :--- | :--- |
+| Strongly Consistent | 1 Unit |
+| Eventually Consistent Read | 1/2 Unit |
+| Transactional Read | 2 Units |
+
+### Writes
+
+1 Write Request Unit: Maximum of 1KB
+
+| Write Type | Units |
+| :--- | :--- |
+| Standard Write Request | 1 Unit |
+| Transactional Write | 2 Units |
+
 ## Node.js
 
 To store Timestamp:
