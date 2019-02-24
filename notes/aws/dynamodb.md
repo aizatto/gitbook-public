@@ -19,6 +19,16 @@ new Date().toISOString()
 
 ## Gotchas
 
+### vs RDBMS
+
+DyanmoDB cannot do large "UPDATE queries", for example you cannot do:
+
+```sql
+UPDATE events SET status = "past" WHERE end_time < NOW();
+```
+
+You have to query each individual event. In this scenario, potentially look at storing the `status` as a Global Secondary Index.
+
 ### Serverless
 
 WARNING: Changing the table name in `serverless.yml` will drop the table.
