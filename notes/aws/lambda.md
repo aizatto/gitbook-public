@@ -40,6 +40,18 @@ Debugging
   * `sls invoke local —function $f —data $d`
   * `aws lambda invoke —function-name $f —post`
 
+## **When not to use Lambda?**
+
+* You have more than 1000 concurrent connections
+* When you have predictable traffic
+* You need something that lasts longer than 15minutes
+* The latency to fire has to be fast
+* The deployed code is larger than 50mb
+
+## Why I like lambda \(or faas in general\)
+
+I can treat it as a script that doesn’t have a dependency on my computer
+
 ## Prototype Projects
 
 * [URL Shortener](https://github.com/aizatto/url-shortener/)
