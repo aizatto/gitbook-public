@@ -28,4 +28,5 @@
 * [Serverless](notes/serverless.md)
 * [Software Architectures](notes/software-architectures.md)
 * [Stripe](notes/stripe.md)
+* [TypeScript](notes/typescript.md)
 
