@@ -14,9 +14,14 @@ serverless create --template aws-nodejs-typescript --path project-name
 
 * Don't overload your `serverless.yml` with many services.
   * See DynamoDB gotcha
+
+
+
 * Failures can leave your deployment in an uncertain state
 * Rename your Amazon API Gateway
   * [https://github.com/aizatto/serverless-prototypes/tree/master/aws-apigateway-proxy](https://github.com/aizatto/serverless-prototypes/tree/master/aws-apigateway-proxy)
+* Errors with your cloudformation can really put you in an inconsistent state
+* Cannot update more than one GSI at a time
 
 ## AWS - Invoke Local
 
@@ -68,6 +73,7 @@ Be very careful.
 * Cannot rename tables \(also a dynamodb restriction\)
 * Cannot change indices
   * I wanted to created a new index from `end_time` to `start_time`  but it told me to create a new index
+* Changing/adding/remove indexes is painful
 
 #### Cannot reuse existing DynamoDBs
 
