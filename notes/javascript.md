@@ -5,6 +5,8 @@
 
 ## Versions
 
+This is a mess
+
 | Version | Year | Name |  |
 | :--- | :--- | :--- | :--- |
 | ES5 |  | ECMAScript 2009 | ECMAScript 5 |
@@ -16,6 +18,7 @@
 * [https://babeljs.io/docs/en/babel-preset-env](https://babeljs.io/docs/en/babel-preset-env)
 * [https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c)
 * [https://benmccormick.org/2015/09/14/es5-es6-es2016-es-next-whats-going-on-with-javascript-versioning](https://benmccormick.org/2015/09/14/es5-es6-es2016-es-next-whats-going-on-with-javascript-versioning)
+* [https://en.wikipedia.org/wiki/ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)
 
 ## Resources
 
@@ -455,6 +458,17 @@ export function types() { }
 * [http://2ality.com/2014/09/es6-modules-final.html](http://2ality.com/2014/09/es6-modules-final.html)
 * [https://stackoverflow.com/questions/40294870/module-exports-vs-export-default-in-node-js-and-es6](https://stackoverflow.com/questions/40294870/module-exports-vs-export-default-in-node-js-and-es6)
 
+#### Clearing Confusing
+
+|  |  |  | Goals |  |
+| :--- | :--- | :--- | :--- | :--- |
+| CommonJs | `module.exports = ...` | `var module = require('module')` |  |  |
+| AMD |  | define\(\['dependency1'\], function\(dependency1 | Load synchronously | Asynchronous Module Definition |
+| UMD |  |  |  | Universal Module Definition |
+| ESM |  |  |  |  |
+
+* [https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc](https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc)
+
 ## Cons / Dislikes
 
 * No conventions.
@@ -517,4 +531,6 @@ export function types() { }
 ## To add
 
 * `async`/`await`
+
+\`\`
 
