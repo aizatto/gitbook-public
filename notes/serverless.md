@@ -65,6 +65,10 @@ WARNING: Changing table names drops the original database.
 
 Be very careful.
 
+* Cannot rename tables \(also a dynamodb restriction\)
+* Cannot change indices
+  * I wanted to created a new index from `end_time` to `start_time`  but it told me to create a new index
+
 #### Cannot reuse existing DynamoDBs
 
 Serverless cannot reuse existing DyanmoDB tables. It will error our if you try to use it:
