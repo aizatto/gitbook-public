@@ -23,6 +23,38 @@ serverless create --template aws-nodejs-typescript --path project-name
 * Errors with your cloudformation can really put you in an inconsistent state
 * Cannot update more than one GSI at a time
 
+### One or many \`serverless.yml\`
+
+When working on a project, should you use one or many `serverless.yml` files?
+
+* For demos, its easier to just use one.
+* For production use many.
+
+#### One serverless.yml
+
+Pros:
+
+* Great for demonstrating a single concept
+
+Cons:
+
+* Hard to isolate services when needing to upgrade
+
+Great for demoing a serverless project.
+
+#### Many serverless.yml
+
+Pros:
+
+* Distribute your services across multiple `serverless.yml`
+* Easier to limit deployments
+
+Cons:
+
+* Requires more configuration
+
+Necessary when you need to deploy across different regions. For example: `ap-southeast-1` and `us-esat-1,` this is needed because SES only works in certain regions.
+
 ## AWS - Invoke Local
 
 [https://serverless.com/framework/docs/providers/aws/cli-reference/invoke-local/](https://serverless.com/framework/docs/providers/aws/cli-reference/invoke-local/)
