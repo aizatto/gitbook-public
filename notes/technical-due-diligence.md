@@ -16,8 +16,17 @@ To answer this, I need to identify:
   * What are potential dealbreakers they may not even realize?
   * What is an investors investment thesis?
 * What are the potential dealbreakers in this company?
+* Is there anything specific you'd like me to investigate?
+* How would they like me to deliver findings?
 
-When I am connected with a potential company, I provide a timeline.
+## Goals of a Technical Due Diligence
+
+* Identify risks for Investors
+  * Find Deal Breakers, and Red Flags
+
+## Timeline
+
+When I am connected with a potential company, I provide a timeline:
 
 Call:
 
@@ -47,4 +56,37 @@ Onsite:
   * Understand data structure
 * Let me know if any meetings are with remote employees
   * I can schedule my time better knowing so
+
+## Findings
+
+Categorize findings into:
+
+1. Red Flags, Problems, Issues
+2. Deal Breakers, Show Stoppers
+
+### Red Flags, Problems, Issues
+
+If I find any of these, for the most part, I find these as a "pass". I do note them down, but everything has a problem. I only escalate these findings into "Deal Breakers" if upon diving a little deeper into it, you discover deep fundamental problems.
+
+For example:
+
+> Everyone has technical debt, but does the technical debt slow them down?
+
+### Deal Breakers, Show Stoppers
+
+As the name suggests, these are the reasons why the deal should not be made. These are the risks that an investor has to be really aware of when investing.
+
+Examples:
+
+* They are doing something illegal
+* They are outsourcing their work
+* They don't have the technical ability to deliver on their roadmap
+* They claim to be doing something they are not actually doing, or don't have the competency to
+* They are investing into new technology, they are not familiar with
+
+"Deal Breakers" may not stop the deal, but do have a discussion with the investor about the investment thesis.
+
+* Are you investing into it being a profitable business?
+  * These business may still be making money.
+* Are you investing into the company into building their technical expertise?
 
