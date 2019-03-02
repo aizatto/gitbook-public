@@ -42,6 +42,18 @@ new Date().toISOString()
 
 ## Gotchas
 
+### Naming
+
+For all things naming regarding `DynamoDB`.
+
+* DynamoDB doesn't allow you to rename tables
+* DynamoDB has Reserved Words, so you'll need to use ExpressionAttributeNames to work around them.
+* Table names should be prefixed when deploying. Suggested `$service-$stage-$table,` for example `build-my-prod-events`
+* Index names don’t need to be prefixed.
+* Index names can be reused across tables.For example:
+  1. Table Events, indexname: updated at
+  2. Table organizations, indexname: updated at
+
 ### vs RDBMS
 
 DyanmoDB cannot do large "UPDATE queries", for example you cannot do:
@@ -227,4 +239,12 @@ Have to partition wisely.
 
 Cannot perform `GetItem`. Use `Query` or `Scan`.  
 [https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-indexes-general.html](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-indexes-general.html)
+
+## Reducing DynamoDB costs
+
+* Look for batch fetch
+* Look for batch writes
+* Look for scans
+* Look for large queries
+* Check projections
 
