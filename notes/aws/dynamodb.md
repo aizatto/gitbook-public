@@ -37,6 +37,8 @@ new Date().toISOString()
 
 * Unlike traditional RDBMs, DynamoDB groups sorts by partitions.
   * Each partition returns sorted result.
+* You cannot change the values for fields which make up the partition key
+  * Bad idea to use `name` as the partition key, because you won't be able to change the name of an object.
 
 ## Gotchas
 
