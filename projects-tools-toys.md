@@ -1,4 +1,4 @@
-# Projects / Tools / Toys
+# Portfolio, Projects, Tools, Toys
 
 * Deep Thought
 * Timestamps 
@@ -6,6 +6,8 @@
 * URL Shortener
 * GitHub Repositories
 * Datasets
+* [GitHub](https://www.github.com/aizatto/)
+* [LinkedIn](https://www.linkedin.com/in/aizatto)
 
 ## Projects
 
