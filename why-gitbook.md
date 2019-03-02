@@ -21,7 +21,8 @@ Pros:
 * Works well on iPad through Safari
 * Custom domains
 * Google Analytics support
-* Syncs with GitHub
+* [Syncs with GitHub](https://docs.gitbook.com/integrations/github)
+  * Bi-directional support
 
 Limitations:
 
