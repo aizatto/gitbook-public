@@ -6,6 +6,11 @@ Every page here is a [living document](https://en.wikipedia.org/wiki/Living_docu
 
 If you are reading this from GitHub, for a better UX experience visit [https://www.aizatto.com/](https://www.aizatto.com/)
 
+## Services
+
+* Technical Due Diligence
+* Startup Consulting, on Engineering
+
 ## Recent Portfolio
 
 Visit the [Portfolio, Projects, Tools, Toys](projects-tools-toys.md) page for more.
