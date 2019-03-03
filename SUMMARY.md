@@ -16,6 +16,7 @@
 ## Notes
 
 * [AWS](notes/aws/README.md)
+  * [Cognito](notes/aws/cognito.md)
   * [DynamoDB](notes/aws/dynamodb.md)
   * [IAM](notes/aws/iam.md)
   * [Lambda](notes/aws/lambda.md)
