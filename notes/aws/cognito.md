@@ -10,6 +10,10 @@
 * No option to delete users from frontend
 * Naming doesn't follow Amazon naming conventions
 
+## Questions I Need To Answer:
+
+* How much can I customize the login page?
+
 
 
 <table>
