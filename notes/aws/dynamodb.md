@@ -37,7 +37,8 @@ new Date().toISOString()
 
 * Unlike traditional RDBMs, DynamoDB groups sorts by partitions.
   * Each partition returns sorted result.
-* You cannot change the values for fields which make up the partition key
+* Fields used for partition keys are immutable.
+  * You cannot change the values for fields which make up the partition key
   * Bad idea to use `name` as the partition key, because you won't be able to change the name of an object.
 
 ## Gotchas
@@ -247,4 +248,11 @@ Cannot perform `GetItem`. Use `Query` or `Scan`.
 * Look for scans
 * Look for large queries
 * Check projections
+
+## Alternatives
+
+* [Google Cloud Firestore](https://cloud.google.com/firestore/)
+* [Google Cloud Bigtable](https://cloud.google.com/bigtable/)
+* [Google Cloud Datastore](https://cloud.google.com/datastore/)
+* [Azure Table Storage](https://azure.microsoft.com/en-us/services/storage/tables/)
 
