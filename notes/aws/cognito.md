@@ -8,6 +8,7 @@
 
 * Complicated as hell
 * No option to delete users from frontend
+* Naming doesn't follow Amazon naming conventions
 
 
 
