@@ -14,14 +14,13 @@ serverless create --template aws-nodejs-typescript --path project-name
 
 * Don't overload your `serverless.yml` with many services.
   * See DynamoDB gotcha
-
-
-
 * Failures can leave your deployment in an uncertain state
+  * You may have to delete the file from S3
 * Rename your Amazon API Gateway
   * [https://github.com/aizatto/serverless-prototypes/tree/master/aws-apigateway-proxy](https://github.com/aizatto/serverless-prototypes/tree/master/aws-apigateway-proxy)
 * Errors with your cloudformation can really put you in an inconsistent state
 * Cannot update more than one GSI at a time
+* Use `tags` in your `serverless.yml` 
 
 ### One or many \`serverless.yml\`
 
