@@ -20,6 +20,7 @@
   * [DynamoDB](notes/aws/dynamodb.md)
   * [IAM](notes/aws/iam.md)
   * [Lambda](notes/aws/lambda.md)
+* [Facebook for Developers](notes/facebook-for-developers.md)
 * [Go Lang](notes/go-lang.md)
 * [GraphQL](notes/graphql.md)
 * [JavaScript](notes/javascript.md)
