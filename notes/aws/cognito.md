@@ -1,6 +1,10 @@
 # Cognito
 
-Cons:
+## Pros:
+
+* Give IAM access to other users
+
+## Cons:
 
 * Complicated as hell
 * No option to delete users from frontend
