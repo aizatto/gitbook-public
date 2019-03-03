@@ -12,9 +12,13 @@
 | Cognito | [Features](https://aws.amazon.com/cognito/details/) | [Pricing](https://aws.amazon.com/cognito/pricing/) | [Getting Started](https://aws.amazon.com/cognito/getting-started/) | [Resources](https://aws.amazon.com/cognito/dev-resources/) | [Limits](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html#limits_cognito_user_pools) |
 | [CloudFormation](https://aws.amazon.com/cloudformation/) |  | [Pricing](https://aws.amazon.com/cloudformation/pricing/) |  |  |  |
 
+Pros:
+
+* Flexibility of AWS's IAM Permissions and Roles
+
 Cons:
 
-* No ability to export an application and view at a glance settings, or to recreate a service easily
+* No ability to export an application and view at a glance settings,
 
 Comments:
 

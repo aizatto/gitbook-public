@@ -31,6 +31,12 @@ brew tap heroku/brew && brew install heroku
 
 * [Generate SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 
+```bash
+curl https://sdk.cloud.google.com | bash
+```
+
+
+
 ## Apps
 
 * [1Password](https://1password.com)
