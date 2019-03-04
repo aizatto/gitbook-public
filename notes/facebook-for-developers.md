@@ -1,4 +1,7 @@
 # Facebook for Developers
 
-Getting access to Groups and Pages is difficult.
+## Limitations
+
+* Restrictions on getting access to Groups and Pages
+  * Have to request access and go through an "App Review"
 
