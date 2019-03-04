@@ -12,7 +12,7 @@ Being deprecated for Firestore
 
 * API Gateway
   * No GCP Equivalent
-  * No Custom domains
+  * Custom domains have to go through Firebase Hosting
   * GCP Cloud Functions can be automatically deployed to an endpoint with a flag
 * Firestore has better free rates
   * No on-demand/provisioned limitations

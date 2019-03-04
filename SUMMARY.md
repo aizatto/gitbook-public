@@ -27,6 +27,7 @@
 * [JavaScript](notes/javascript.md)
 * [New Mac](notes/new-mac.md)
 * [Node.js](notes/node.js.md)
+* [Prototyping](notes/prototyping.md)
 * [React](notes/react.md)
 * [Repository Management](notes/repository-management.md)
 * [Serverless](notes/serverless.md)
