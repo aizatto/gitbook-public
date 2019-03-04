@@ -7,6 +7,13 @@
 * When should I not use it?
 * How much will it cost?
 
+### Datastores
+
+* How is the data model?
+* How is the data accessed?
+* How easy is it to export the data?
+* How easy is it to import the data?
+
 ## What I want to play around with:
 
 * AWS
@@ -27,4 +34,10 @@
   * Cloud functions
     * Testing async/await
     * Hosting a GraphQL instance on it
+
+### Toys I want to build
+
+* Note Taking App
+  * With tags/taxonomies
+  * Editing interface similar to GitBook WYSIWYG
 
