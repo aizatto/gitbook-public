@@ -41,3 +41,27 @@
   * With tags/taxonomies
   * Editing interface similar to GitBook WYSIWYG
 
+### Logistics
+
+Considerations \(for pickup and delivery\):
+
+* number of vehicles/manpower
+* time
+* location
+* weather
+* difficulty , for example
+  * front door vs
+  * apartment vs
+  * office unit
+
+Algorithms
+
+* Traveling salesman
+* Route optimization
+  * [https://developers.google.com/optimization/routing/tsp](https://developers.google.com/optimization/routing/tsp)
+
+Goals
+
+* Save time
+* Save fuel costs
+
