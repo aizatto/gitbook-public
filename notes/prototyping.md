@@ -57,6 +57,7 @@ Considerations \(for pickup and delivery\):
 Algorithms
 
 * Traveling salesman
+* Vehicle routign problem
 * Route optimization
   * [https://developers.google.com/optimization/routing/tsp](https://developers.google.com/optimization/routing/tsp)
 
