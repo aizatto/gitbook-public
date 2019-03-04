@@ -21,6 +21,7 @@ serverless create --template aws-nodejs-typescript --path project-name
 * Errors with your cloudformation can really put you in an inconsistent state
 * Cannot update more than one GSI at a time
 * Use `tags` in your `serverless.yml` 
+  * You'll have to manually tag your IAM roles. AWS doesn't currently support cloudformation tagging of IAM roles.
 
 ### One or many \`serverless.yml\`
 
@@ -75,6 +76,8 @@ Then:
 ```bash
 serverless invoke local --function functionName --data $string
 ```
+
+
 
 ## API Gateway Gotchas
 
