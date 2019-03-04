@@ -54,10 +54,11 @@ Considerations \(for pickup and delivery\):
   * apartment vs
   * office unit
 
-Algorithms
+Algorithms/keywords
 
 * Traveling salesman
-* Vehicle routign problem
+* Vehicle routing problem
+* Fleet management
 * Route optimization
   * [https://developers.google.com/optimization/routing/tsp](https://developers.google.com/optimization/routing/tsp)
 
