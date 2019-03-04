@@ -1,8 +1,11 @@
 # Prototyping
 
-## Questions to ask:
+## Questions to ask when Prototyping
 
 * What are the limitations?
+* When should I use it?
+* When should I not use it?
+* How much will it cost?
 
 ## What I want to play around with:
 
@@ -21,4 +24,7 @@
     * When, where should I use it?
   * Firestore
     * How does it compare to AWS DynamoDB?
+  * Cloud functions
+    * Testing async/await
+    * Hosting a GraphQL instance on it
 
