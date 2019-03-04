@@ -24,6 +24,7 @@
 * [GCP](notes/gcp.md)
 * [Go Lang](notes/go-lang.md)
 * [GraphQL](notes/graphql.md)
+* [Hapi](notes/hapi.md)
 * [JavaScript](notes/javascript.md)
 * [New Mac](notes/new-mac.md)
 * [Node.js](notes/node.js.md)

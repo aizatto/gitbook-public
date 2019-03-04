@@ -4,9 +4,11 @@
 
 | Feature | Koa | Express | Hapi |
 | :--- | :--- | :--- | :--- |
-| async/await | yes | no | no |
+| async/await | yes | no | yes |
 | Routing | no | yes | yes |
 | Templating | no | yes |  |
+| Typescript | yes | yes | `@types/hapi` |
+| Runs easily on AWS Lambda |  | yes |  |
 
 * Koa vs Express
   * [https://github.com/koajs/koa/blob/master/docs/koa-vs-express.md](https://github.com/koajs/koa/blob/master/docs/koa-vs-express.md)
