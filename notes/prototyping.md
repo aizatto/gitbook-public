@@ -14,6 +14,10 @@
 * How easy is it to export the data?
 * How easy is it to import the data?
 
+### Web App
+
+* Prototype frontend with create-react-app
+
 ## What I want to play around with:
 
 * AWS
