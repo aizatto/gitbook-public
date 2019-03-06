@@ -30,6 +30,7 @@
 * [New Mac](notes/new-mac.md)
 * [Node.js](notes/node.js.md)
 * [Koa](notes/koa.md)
+* [Progressive Web App](notes/progressive-web-app.md)
 * [Prototyping](notes/prototyping.md)
 * [React](notes/react.md)
 * [Repository Management](notes/repository-management.md)

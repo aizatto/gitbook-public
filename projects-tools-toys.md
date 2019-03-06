@@ -30,7 +30,7 @@ Malaysian event aggregator for technology and startup communities.
 
 I use timestamps a lot to journal, write notes or reports. It helps me organize my documents and thoughts, and to help me keep track of time.
 
-* [https://vigilant-hodgkin-ddfa51.netlify.com/](https://vigilant-hodgkin-ddfa51.netlify.com/)
+* [http://timestamps.aizatto.com/](http://timestamps.aizatto.com/)
 * [https://github.com/aizatto/timestamp-js](https://github.com/aizatto/timestamp-js)
 
 ### WhatsApp
@@ -39,7 +39,7 @@ I sometimes have to message people on WhatsApp, but I don't necessarily want to 
 
 You can use a WhatsApp "API" to open up message to a phone number, without having it in your phone book
 
-* [https://xenodochial-swartz-bbfbb7.netlify.com/](https://xenodochial-swartz-bbfbb7.netlify.com/)
+* [https://whatsapp.aizatto.com/](https://whatsapp.aizatto.com/)
 * [https://github.com/aizatto/whatsapp](https://github.com/aizatto/whatsapp)
 
 ## Toys
