@@ -30,3 +30,18 @@ Difficult and heavy
 yarn create react-app my-app --typescript
 ```
 
+## useEffect with async/await
+
+```javascript
+function Render() {
+  const [data, setData] = useState(null);
+  const fetchData = async() => {
+    const response = await fetch(`https://www.example.com/`);
+    const json = await response.json();
+    setData(json);
+  };
+  useEffect(() => { fetchData() });
+  return <div>Test</div>
+}
+```
+

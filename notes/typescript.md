@@ -22,13 +22,15 @@ Enable in your compiler option:
 
 * [https://www.sitepen.com/blog/typescript-cheat-sheet](https://www.sitepen.com/blog/typescript-cheat-sheet)
 
-### function
+#### function and object destructuring
 
 ```typescript
 function Render(props: {uri?: string}) {
 ```
 
-### children
+### React
+
+#### children
 
 ```typescript
 interface Props {
@@ -37,4 +39,28 @@ interface Props {
 ```
 
 Recommended [https://github.com/Microsoft/TypeScript/issues/6471\#issuecomment-171456118](https://github.com/Microsoft/TypeScript/issues/6471#issuecomment-171456118)
+
+#### useRef
+
+```typescript
+export default function UriField() {
+  const [uri, setURI] = useState<string | null>(null);
+  const inputRef = useRef<HTMLInputElement>(null);
+  const onClick = () => {
+    if (!inputRef ||
+        !inputRef.current) {
+      return;
+    }
+
+    setURI(inputRef.current.value);
+  }
+
+  return (
+    <>
+      <input ref={inputRef} type="text" />
+      <input onClick={onClick} type="submit" value="Submit"/>
+    </>
+  );
+}
+```
 
