@@ -1,6 +1,14 @@
 # TypeScript
 
-Useful for preventing me from pushing the quick hacks I'm trying to commit in JavaScript.
+#### Pros:
+
+* Useful for preventing me from pushing the quick hacks I'm trying to commit in JavaScript.
+
+#### Cons:
+
+* Modules you depend on may not have typescript definitions
+  * To avoid typing, you may have to go backwards `const ... = require()`
+* Definition hell
 
 ## Compiler Options
 
