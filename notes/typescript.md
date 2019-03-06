@@ -18,3 +18,15 @@ Enable in your compiler option:
 * `declaration: true` 
 * `jsx: react` 
 
+## Typing
+
+### children
+
+```typescript
+interface Props {
+  children?: any;
+}
+```
+
+Recommended [https://github.com/Microsoft/TypeScript/issues/6471\#issuecomment-171456118](https://github.com/Microsoft/TypeScript/issues/6471#issuecomment-171456118)
+
