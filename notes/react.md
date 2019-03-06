@@ -1,5 +1,11 @@
 # React
 
+## Glossary
+
+| Name | Definition |  |
+| :--- | :--- | :--- |
+| [function component](https://reactjs.org/docs/components-and-props.html#function-and-class-components) | React components created with a function\(\) |  |
+
 ## Create React App
 
 * TypeScript support
