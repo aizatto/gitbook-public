@@ -21,6 +21,7 @@
   * [IAM](notes/aws/iam.md)
   * [Lambda](notes/aws/lambda.md)
 * [Facebook for Developers](notes/facebook-for-developers.md)
+* [fetch](notes/fetch.md)
 * [GCP](notes/gcp.md)
 * [Go Lang](notes/go-lang.md)
 * [GraphQL](notes/graphql.md)

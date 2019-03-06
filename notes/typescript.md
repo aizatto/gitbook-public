@@ -20,6 +20,14 @@ Enable in your compiler option:
 
 ## Typing
 
+* [https://www.sitepen.com/blog/typescript-cheat-sheet](https://www.sitepen.com/blog/typescript-cheat-sheet)
+
+### function
+
+```typescript
+function Render(props: {uri?: string}) {
+```
+
 ### children
 
 ```typescript

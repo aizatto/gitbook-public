@@ -1,0 +1,21 @@
+# fetch
+
+* [https://developer.mozilla.org/en-US/docs/Web/API/Fetch\_API/Using\_Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+* [https://www.npmjs.com/package/node-fetch](https://www.npmjs.com/package/node-fetch)
+
+Text:
+
+```javascript
+const response = await fetch(url);
+const json = await response.text();
+```
+
+JSON:
+
+```javascript
+const response = await fetch(url);
+const json = await response.json();
+```
+
+Errors:
+
