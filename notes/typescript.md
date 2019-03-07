@@ -10,6 +10,24 @@
   * To avoid typing, you may have to go backwards `const ... = require()`
 * Definition hell
 
+## Versioning
+
+| Node | TypeScript Target | Support |
+| :--- | :--- | :--- |
+| 6.17 | es5 | AWS Lambda Node v6.10 suppor |
+|  | es6  |  |
+| 8.10-9.11.2 | es2016 |  |
+| 8.10-9.11.2 | es2017 | AWS Lambda Node v8.10 support |
+|  | es2018 |  |
+|  | es2019 |  |
+
+General Rules:
+
+* If you are targeting for web set target to `es5`
+* If you targeting for AWS Lambda, set your target to `es2017`
+  * `Node.js v8.10` supports `es2017`
+* If you are targeting for local, go for `es2018`
+
 ## Compiler Options
 
 [https://www.typescriptlang.org/docs/handbook/compiler-options.html](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
