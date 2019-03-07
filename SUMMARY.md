@@ -39,4 +39,5 @@
 * [Stripe](notes/stripe.md)
 * [Technical Due Diligence](notes/technical-due-diligence.md)
 * [TypeScript](notes/typescript.md)
+* [UX](notes/ux.md)
 
