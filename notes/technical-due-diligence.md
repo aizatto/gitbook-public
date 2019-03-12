@@ -33,6 +33,7 @@ To answer this, I need to identify:
 
 * A TDD can also turn into a Product Due Diligence
   * How well can the tech team support their product?
+  * Be prepared to discuss about product roadmap if there are no technical problems.
 
 ## Timeline
 
@@ -54,22 +55,22 @@ Onsite:
   * Helps to inform architecture and infrastructure questions
 * Demo of the internal tools
 * Product roadmap
+* Individual meetings with heads of different product. Departments
+  * 30 minutes max
 * Architecture review
 * Understanding Development process
 * Individual meetings with senior leadership
   * Members: CTO, CPO, senior engineers
-  * 1 hour max
-* Individual meetings with heads of different product. Departments
   * 30 minutes max
 * Join release/deployment process
-* ERD of database
+* ERD of databases
   * Understand data structure
 * Let me know if any meetings are with remote employees
   * I can schedule my time better knowing so
 
 ## Findings
 
-Categorize findings into:
+I categorize findings into two areas:
 
 1. Red Flags, Problems, Issues
 2. Deal Breakers, Show Stoppers
