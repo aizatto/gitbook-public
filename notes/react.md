@@ -30,11 +30,19 @@ Difficult and heavy
 
 ### TypeScript
 
-[https://facebook.github.io/create-react-app/docs/adding-typescript](https://facebook.github.io/create-react-app/docs/adding-typescript)
+#### Creating
 
 ```text
 yarn create react-app my-app --typescript
 ```
+
+#### Adding
+
+[https://facebook.github.io/create-react-app/docs/adding-typescript](https://facebook.github.io/create-react-app/docs/adding-typescript)
+
+#### Does Not Support
+
+* No `const enum`
 
 ## useEffect with async/await
 
