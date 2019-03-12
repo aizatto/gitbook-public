@@ -6,7 +6,7 @@ description: >-
 
 # Technical Due Diligence
 
-When conduction a Technical Due Diligence \(DD\), the question I am trying to answer is:
+When conduction a Technical Due Diligence \(DD or TDD\), the question I am trying to answer is:
 
 > What are the deal breakers in this investment?
 
@@ -23,6 +23,16 @@ To answer this, I need to identify:
 
 * Identify risks for Investors
   * Find Deal Breakers, and Red Flags
+
+### Sub Goals
+
+* Can the tech team deliver on the product roadmap?
+  * What is the product roadmap?
+
+### Caveats
+
+* A TDD can also turn into a Product Due Diligence
+  * How well can the tech team support their product?
 
 ## Timeline
 
