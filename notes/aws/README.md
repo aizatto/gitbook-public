@@ -61,7 +61,7 @@ Pros:
 
 Cons:
 
-* Does not support a dyanmic GraphQL Schema
+* Does not support a dynamic GraphQL Schema
 * Will expose all of a GraphQL Schema
 * Point and click engineering
 
