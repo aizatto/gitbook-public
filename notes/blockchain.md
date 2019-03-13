@@ -29,10 +29,11 @@
 | Chain | Transactions per Second | Size |
 | :--- | :--- | :--- |
 | Bitcoin | 7 tx/s | 197 GB \(Jan 2019\) |
-| Etherium | 25 tx/s | 670 GB \(Jan 2019\) |
+| Etherium | 25 tx/s | 670 GB \(Jan 2019\) or 20 GB ... |
 | Ripple | 40,000 tx/s |  |
 
-[http://bc.daniel.net.nz/](http://bc.daniel.net.nz/)
+* [http://bc.daniel.net.nz/](http://bc.daniel.net.nz/)
+* [https://dev.to/5chdn/the-ethereum-blockchain-size-will-not-exceed-1tb-anytime-soon-58a](https://dev.to/5chdn/the-ethereum-blockchain-size-will-not-exceed-1tb-anytime-soon-58a)
 
 ## **Thoughts:**
 
@@ -51,4 +52,8 @@ Blockchain is not used in the porn industry.
 Requires you to think of:
 
 * what is on chain, and what is off chain
+
+### Questions:
+
+What can you prototype faster with blockchain?
 
