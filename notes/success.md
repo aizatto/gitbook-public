@@ -13,6 +13,7 @@ Depending on the kind of success you want, it requires:
 * Feedback
 * Grit
 * Growth
+* Iteration
 * Kindness
 * Learning
 * Perseverance
