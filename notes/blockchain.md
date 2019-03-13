@@ -29,11 +29,10 @@
 | Chain | Transactions per Second | Size |
 | :--- | :--- | :--- |
 | Bitcoin | 7 tx/s | 197 GB \(Jan 2019\) |
-| Etherium | 25 tx/s | 670 GB \(Jan 2019\) or 20 GB ... |
+| Etherium | 25 tx/s | 670 GB \(Jan 2019\) |
 | Ripple | 40,000 tx/s |  |
 
-* [http://bc.daniel.net.nz/](http://bc.daniel.net.nz/)
-* [https://dev.to/5chdn/the-ethereum-blockchain-size-will-not-exceed-1tb-anytime-soon-58a](https://dev.to/5chdn/the-ethereum-blockchain-size-will-not-exceed-1tb-anytime-soon-58a)
+[http://bc.daniel.net.nz/](http://bc.daniel.net.nz/)
 
 ## **Thoughts:**
 
