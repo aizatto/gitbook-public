@@ -25,14 +25,16 @@
   * transactions per second
   * size of the chain \(in Gigabytes\)
 * Introduces complexity without reducing it
+* Financial cost of Proof of Work
 
 | Chain | Transactions per Second | Size |
 | :--- | :--- | :--- |
 | Bitcoin | 7 tx/s | 197 GB \(Jan 2019\) |
-| Etherium | 25 tx/s | 670 GB \(Jan 2019\) |
+| Etherium | 25 tx/s | 670 GB \(Jan 2019\) or 20 GB ... |
 | Ripple | 40,000 tx/s |  |
 
-[http://bc.daniel.net.nz/](http://bc.daniel.net.nz/)
+* [http://bc.daniel.net.nz/](http://bc.daniel.net.nz/)
+* [https://dev.to/5chdn/the-ethereum-blockchain-size-will-not-exceed-1tb-anytime-soon-58a](https://dev.to/5chdn/the-ethereum-blockchain-size-will-not-exceed-1tb-anytime-soon-58a)
 
 ## **Thoughts:**
 
@@ -55,4 +57,10 @@ Requires you to think of:
 ### Questions:
 
 What can you prototype faster with blockchain?
+
+When is trust broken?
+
+* When one actor has more than 33% or 50% \(depending on implementation\) of the nodes
+  * Forks; Bitcoin Cash, Ethereum Classic, etc
+* Requires adoption by all parties
 
