@@ -43,4 +43,5 @@
 * [Technical Due Diligence](notes/technical-due-diligence.md)
 * [TypeScript](notes/typescript.md)
 * [UX](notes/ux.md)
+* [Venture Builder](notes/venture-builder.md)
 

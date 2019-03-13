@@ -7,4 +7,6 @@
   * Some Modal dialogs should rewrite browser url to a page that can load it
   * Modal dialogs are great for small interstitials, not whole pages
 * URLs that don't return back to a useful page
+* Making websites that don't fit in a resolution of `960x600`
+  * This is the resolution of half my laptop screen \(`1920x1200`\)
 
