@@ -20,6 +20,7 @@
   * [DynamoDB](notes/aws/dynamodb.md)
   * [IAM](notes/aws/iam.md)
   * [Lambda](notes/aws/lambda.md)
+  * [Blockchain](notes/aws/blockchain.md)
 * [Cloud Providers](notes/cloud-providers.md)
 * [eslint](notes/eslint.md)
 * [Facebook for Developers](notes/facebook-for-developers.md)
