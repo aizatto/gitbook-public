@@ -10,6 +10,7 @@ Depending on the kind of success you want, it requires:
 * Discipline
 * Empathy
 * Faith
+* Feedback
 * Grit
 * Growth
 * Kindness
@@ -17,4 +18,5 @@ Depending on the kind of success you want, it requires:
 * Perseverance
 * Resilience
 * Support
+* Validation
 

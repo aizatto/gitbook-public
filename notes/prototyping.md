@@ -18,6 +18,10 @@
 
 * Prototype frontend with create-react-app
 
+### Requires
+
+* Document learning to prototype faster
+
 ## What I want to play around with:
 
 * AWS
