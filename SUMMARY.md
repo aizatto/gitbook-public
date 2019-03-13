@@ -41,6 +41,7 @@
 * [Serverless](notes/serverless.md)
 * [Software Architectures](notes/software-architectures.md)
 * [Stripe](notes/stripe.md)
+* [Success](notes/success.md)
 * [Technical Due Diligence](notes/technical-due-diligence.md)
 * [TypeScript](notes/typescript.md)
 * [UX](notes/ux.md)
