@@ -63,4 +63,5 @@ When is trust broken?
 * When one actor has more than 33% or 50% \(depending on implementation\) of the nodes
   * Forks; Bitcoin Cash, Ethereum Classic, etc
 * Requires adoption by all parties
+  * Including competitors, which will most likely not adopt your solution
 
