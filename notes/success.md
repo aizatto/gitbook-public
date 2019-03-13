@@ -21,3 +21,5 @@ Depending on the kind of success you want, it requires:
 * Support
 * Validation
 
+[https://www.deepthoughtapp.com/en/keywords/success/](https://www.deepthoughtapp.com/en/keywords/success/)
+
