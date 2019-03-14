@@ -48,6 +48,8 @@
 * Note Taking App
   * With tags/taxonomies
   * Editing interface similar to GitBook WYSIWYG
+    * Possibly using [draft-js](http://facebook.github.io/draft-js)
+* Slido clone
 
 ### Logistics
 
