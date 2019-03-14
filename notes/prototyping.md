@@ -1,5 +1,16 @@
 # Prototyping
 
+### Benefits of Prototyping:
+
+* Quick evaluation
+* Quick iteration
+* Can build breadth of skills
+
+### Cons of Prototyping:
+
+* Can't build deep skills
+  * Can narrow what you are prototyping to build deep skills
+
 ## Questions to ask when Prototyping
 
 * What are the limitations?
