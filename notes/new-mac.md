@@ -88,3 +88,9 @@ curl https://sdk.cloud.google.com | bash
 
 * [Shell Integration](https://iterm2.com/shell_integration.html)
 
+Alternative Terminals
+
+* [alacritty](https://github.com/jwilm/alacritty)
+* [Hyper](https://hyper.is/)
+* [kitty](https://sw.kovidgoyal.net/kitty/)
+
