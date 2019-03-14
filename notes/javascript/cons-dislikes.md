@@ -23,7 +23,8 @@
 * Was design for client side browsing, not server side
 * It has both `null` and `undefined`
 * No native `sprintf`
-* Browser support is differet. I ran into a problem with fetch\(\) not being supported. [https://github.com/github/fetch\#browser-support](https://github.com/github/fetch#browser-support)
+* Browser support is inconsistent.
+  * I ran into a problem with fetch\(\) not being supported. [https://github.com/github/fetch\#browser-support](https://github.com/github/fetch#browser-support)
 * Requires a lot of static analysis tools.
   * jshint [http://jshint.com/about/](http://jshint.com/about/) 
   * flow

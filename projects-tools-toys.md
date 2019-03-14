@@ -1,14 +1,5 @@
 # Portfolio, Projects, Tools, Toys
 
-* Deep Thought
-* Timestamps 
-* WhatsApp
-* URL Shortener
-* GitHub Repositories
-* Datasets
-* [GitHub](https://www.github.com/aizatto/)
-* [LinkedIn](https://www.linkedin.com/in/aizatto)
-
 ## Projects
 
 ### Deep Thought
@@ -30,7 +21,7 @@ Malaysian event aggregator for technology and startup communities.
 
 I use timestamps a lot to journal, write notes or reports. It helps me organize my documents and thoughts, and to help me keep track of time.
 
-* [http://timestamps.aizatto.com/](http://timestamps.aizatto.com/)
+* [https://timestamps.aizatto.com/](https://timestamps.aizatto.com/)
 * [https://github.com/aizatto/timestamp-js](https://github.com/aizatto/timestamp-js)
 
 ### WhatsApp
