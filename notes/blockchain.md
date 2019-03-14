@@ -64,4 +64,5 @@ When is trust broken?
   * Forks; Bitcoin Cash, Ethereum Classic, etc
 * Requires adoption by all parties
   * Including competitors, which will most likely not adopt your solution
+* This is so new and complex, how can you be an expert at this?
 
