@@ -1,9 +1,11 @@
 # Set
 
+* [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
+
 ## Notes:
 
-* Use `size` vs `length`.
-* To add: use `add`
+* Use `Set.add` vs `Map.set`
+* Use `Set.size` vs `Array.length`
 * To remove/delete: use `delete`
 
 ## Set Cloning

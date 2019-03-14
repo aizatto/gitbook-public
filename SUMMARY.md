@@ -31,6 +31,7 @@
 * [Hapi](notes/hapi.md)
 * [JavaScript](notes/javascript/README.md)
   * [Array](notes/javascript/array.md)
+  * [Collections](notes/javascript/collections.md)
   * [Cons/Dislikes](notes/javascript/cons-dislikes.md)
   * [fetch](notes/javascript/fetch.md)
   * [Modules](notes/javascript/modules.md)
