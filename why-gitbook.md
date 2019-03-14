@@ -24,6 +24,16 @@ Pros:
 * [Syncs with GitHub](https://docs.gitbook.com/integrations/github)
   * Bi-directional support
 
+Cons:
+
+* Organizing a lot of pages is difficult, even if nested
+  * I currently have 59 pages and its difficult
+  * I may have to organize things on the filesystem/markdown
+  * I could potentially move to a second gitbook, but I like everything organized in one for now
+* Long pages can be very confusing
+  * Better to break out the content into different pages
+  * Increases the problem of above
+
 Limitations:
 
 * Single theme
