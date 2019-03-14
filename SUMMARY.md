@@ -20,7 +20,7 @@
   * [DynamoDB](notes/aws/dynamodb.md)
   * [IAM](notes/aws/iam.md)
   * [Lambda](notes/aws/lambda.md)
-  * [B2B/B2C](notes/aws/b2b-b2c.md)
+* [B2B/B2C](notes/b2b-b2c.md)
 * [Blockchain](notes/blockchain.md)
 * [Cloud Providers](notes/cloud-providers.md)
 * [eslint](notes/eslint.md)
