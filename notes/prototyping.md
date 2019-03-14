@@ -6,6 +6,9 @@
 * When should I use it?
 * When should I not use it?
 * How much will it cost?
+* How small can I start?
+* How can I make an MVP?
+* How can I make it lean?
 
 ### Datastores
 
