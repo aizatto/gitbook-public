@@ -33,5 +33,11 @@ Depending on the kind of success you want, it requires:
 * [Support](https://www.deepthoughtapp.com/en/keywords/support/)
 * [Validation](https://www.deepthoughtapp.com/en/keywords/validation/)
 
+Manage your:
+
+* Energy
+* Frustration
+* [Motivation](https://www.deepthoughtapp.com/en/keywords/motivation/)
+
 [https://www.deepthoughtapp.com/en/keywords/success/](https://www.deepthoughtapp.com/en/keywords/success/)
 
