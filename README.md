@@ -8,10 +8,12 @@ If you are reading this from GitHub, for a better user experience visit [https:/
 
 View the [Table of Contents](table-of-contents.md) to quickly see all available documents and the directory structure of this GitBook. Hopefully this can help you find something relevant to you faster.
 
-## Services
+Part of the purpose of this site is to provide quick references for myself, and other people. Document the knowledge I know, so that I can scale myself.
+
+## Services I Offer
 
 * Technical Due Diligence
-* Startup Consulting, on Engineering
+* Startup Consulting, on Software Engineering
 
 ## Recent Portfolio
 
