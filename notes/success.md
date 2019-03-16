@@ -13,6 +13,7 @@ Depending on the kind of success you want, it requires:
 * [Discipline](https://www.deepthoughtapp.com/en/keywords/discipline/)
 * [Empathy](https://www.deepthoughtapp.com/en/keywords/empathy/)
 * [Expectations](https://www.deepthoughtapp.com/en/keywords/expectations/)
+* [Experimentation](https://www.deepthoughtapp.com/en/keywords/experiments/)
 * [Failure](https://www.deepthoughtapp.com/en/keywords/failure/)
   * Comfortable with Failure
 * [Faith](https://www.deepthoughtapp.com/en/keywords/faith/)
@@ -35,8 +36,8 @@ Depending on the kind of success you want, it requires:
 
 Manage your:
 
-* Energy
-* Frustration
+* [Energy](https://www.deepthoughtapp.com/en/keywords/energy/)
+* [Frustration](https://www.deepthoughtapp.com/en/keywords/frustration/)
 * [Motivation](https://www.deepthoughtapp.com/en/keywords/motivation/)
 
 [https://www.deepthoughtapp.com/en/keywords/success/](https://www.deepthoughtapp.com/en/keywords/success/)
