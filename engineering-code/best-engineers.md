@@ -11,6 +11,7 @@ I think the best engineers are those that can properly balance:
 * Doesn't over engineer, doesn't under engineer
 * Understand the necessity of technical debt, and when to clean it
 * Understand what fires to let burn, and which ones to put out
+* Have developed a philosophy of engineering with answers that goes "it depends"
 
 They realize that all code will be refactored eventually, so you need to write code that delivers a product ASAP but with just enough abstractions that allow it to be easily refactored in the future.
 
