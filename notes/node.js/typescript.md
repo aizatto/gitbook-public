@@ -55,6 +55,22 @@ Enable in your compiler option:
 function Render(props: {uri?: string}) {
 ```
 
+### Objects
+
+```typescript
+interface LRUHashMap  {
+  [value: number]: DoublyLinkedList;
+}
+
+class LRUHash {
+  private hash: LRUHashMap;
+
+  construct() {
+    this.hash = {};
+  }
+}
+```
+
 ### React
 
 #### children

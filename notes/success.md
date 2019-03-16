@@ -12,6 +12,7 @@ Depending on the kind of success you want, it requires:
 * [Courage](https://www.deepthoughtapp.com/en/keywords/courage/)
 * [Discipline](https://www.deepthoughtapp.com/en/keywords/discipline/)
 * [Empathy](https://www.deepthoughtapp.com/en/keywords/empathy/)
+* [Expectations](https://www.deepthoughtapp.com/en/keywords/expectations/)
 * [Failure](https://www.deepthoughtapp.com/en/keywords/failure/)
   * Comfortable with Failure
 * [Faith](https://www.deepthoughtapp.com/en/keywords/faith/)
@@ -21,6 +22,7 @@ Depending on the kind of success you want, it requires:
 * [Habit](https://www.deepthoughtapp.com/en/keywords/habit/)
 * [Iteration](https://www.deepthoughtapp.com/en/keywords/iteration/)
 * [Kindness](https://www.deepthoughtapp.com/en/keywords/kindness/)
+* [Leverage](https://www.deepthoughtapp.com/en/keywords/leverage/)
 * [Momentum](https://www.deepthoughtapp.com/en/keywords/momentum/)
 * [Motivation](https://www.deepthoughtapp.com/en/keywords/motivation/)
 * [Learning](https://www.deepthoughtapp.com/en/keywords/learning/)
