@@ -9,7 +9,7 @@
 * [InterviewBit](https://www.interviewbit.com/)
 * [https://www.quora.com/HackerRank-What-are-the-coding-contests-sites-where-companies-hire-from](https://www.quora.com/HackerRank-What-are-the-coding-contests-sites-where-companies-hire-from)
 
-### Offline Practice
+## Offline Practice
 
 Go to [meetups](https://www.meetup.com)
 

@@ -14,7 +14,7 @@ In general:
 
 * Join a rocket ship company
 
-Erich Schmidt \(as CEO of Google\) to Sheryl Sandberg when deciding to join Google, and now COO of Facebook:
+Eric Schmidt \(as CEO of Google\) to Sheryl Sandberg when deciding to join Google, and now COO of Facebook:
 
 > 'If you're offered a seat on a rocket ship, get on, don't ask what seat.' I tell people in their careers, ‘look for growth.’ Look for the teams that are growing quickly. Look for the companies that are doing well. Look for a place where you feel that you can have a lot of impact.”
 
@@ -50,7 +50,7 @@ Cons:
 Note:
 
 * Large companies can also have rocketship growth
-  * Example Amazon
+  * Example: Amazon
   * Some teams may have rocketship growth, some teams not
   * Established teams, most likely will not have rocketship growth
   * New teams may have rocketship growth, looking to prove themselves

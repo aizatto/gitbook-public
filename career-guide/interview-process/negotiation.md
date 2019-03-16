@@ -1,6 +1,21 @@
-# Negotiation
+# Negotiation / Deciding
+
+## Market Rates
+
+* [Glassdoor](http://glassdoor.com/)
+* [Paysa](https://www.paysa.com/salary-rank)
+* Interview with other companies to better calibrate Market Rates
+
+Understand your Compensation:
+
+* Signing bonus?
+* Base salary?
+* Equity?
+* Total compensation?
 
 ## Deciding
+
+### General
 
 * What are you prioritizing for?
 * Choose a team for growth
@@ -101,13 +116,8 @@
 * How do you balance delivering business value and managing technical debt?
 * How do you reduce the technical debt?
 * Do you have monitoring/alerts?
-* How is knowlede shared? PResentations/Demos/Repositories
+* How is knowledge shared? Presentations/Demos/Repositories
 * How "open" is the company?
 * How is feedback managed?
 * How well do the executives steer the company?
-
-## Market Rates
-
-* [Glassdoor](http://glassdoor.com/)
-* [Paysa](https://www.paysa.com/salary-rank)
 

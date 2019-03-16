@@ -1,4 +1,4 @@
-# Accepting
+# Accepting, Joining
 
 ## After Joining / Accepting / Acceptance
 
