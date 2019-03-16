@@ -3,7 +3,7 @@
 This includes:
 
 * Archived Notes
-  * Notes used infrequently
+* Notes used infrequently
 * Random thoughts that I'm developing
 
 Purpose:

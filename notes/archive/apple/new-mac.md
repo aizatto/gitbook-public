@@ -2,7 +2,7 @@
 description: For when I have to setup a new Mac
 ---
 
-# New Mac
+# macOS
 
 [https://brew.sh](https://brew.sh)
 
