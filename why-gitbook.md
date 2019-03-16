@@ -22,6 +22,8 @@ Pros:
 * Google Analytics support
 * [Syncs with GitHub](https://docs.gitbook.com/integrations/github)
   * Bi-directional support
+* Renaming pages appears to maintain old URLs
+  * Only if it is not moved to a different folder
 
 Cons:
 
@@ -40,6 +42,9 @@ Limitations:
 * Logs to git commit history could be nicer
 * No offline read/write support
   * Workaround is to download the repository
+* Moving pages doesn't redirect to new URL
+  * For renaming pages in the same directory structure, the old url still works
+  * For moving pages into a different directory, the old url will not work
 
 Other static site generators: [https://www.staticgen.com](https://www.staticgen.com)
 
