@@ -63,6 +63,16 @@ Includes:
 
 * Architecture
 
+### Maintainability
+
+Cons:
+
+* Reduces speed
+
+Notes:
+
+* Speed can be improved with proper testing
+
 ## Product Engineering
 
 From [Forbes](https://www.forbes.com/sites/quora/2017/09/06/how-is-a-product-engineer-different-from-a-full-stack-engineer/#5d7b526a26e7):
