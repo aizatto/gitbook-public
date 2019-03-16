@@ -34,7 +34,9 @@ Cons:
 * Long pages can be very confusing
   * Better to break out the content into different pages
   * Increases the problem of organizing a lot of pages
-* Content is really "static"
+* Content is not really "static"
+* No sitemap.xml
+  * Feature Request [https://gitbook.canny.io/feature-requests/p/sitemap](https://gitbook.canny.io/feature-requests/p/sitemap)
 
 Limitations:
 
