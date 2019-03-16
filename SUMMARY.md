@@ -50,6 +50,8 @@
 * [Archive](notes/archive/README.md)
   * [Apple](notes/archive/apple/README.md)
     * [Apple Watch](notes/archive/apple/apple-watch.md)
+    * [iPad Pro](notes/archive/apple/ipad-pro.md)
+    * [MacBook Pro](notes/archive/apple/macbook-pro.md)
     * [macOS](notes/archive/apple/new-mac.md)
   * [B2B/B2C](notes/archive/b2b-b2c.md)
   * [Blockchain](notes/archive/blockchain.md)
