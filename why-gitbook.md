@@ -51,3 +51,7 @@ Other static site generators: [https://www.staticgen.com](https://www.staticgen.
 
 Previously using Phenomic. Fully manual.
 
+Other notable GitBooks:
+
+* [Nikita Voloboev](https://wiki.nikitavoloboev.xyz/)
+

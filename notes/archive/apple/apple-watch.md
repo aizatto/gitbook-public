@@ -1,5 +1,7 @@
 # Apple Watch Series 4
 
+I own the Apple Watch Series 4 44mm Aluminum.
+
 Overall review:
 
 * It's just a watch. Nothing fancy, and nice to have.
@@ -14,6 +16,12 @@ Pros:
   * Notify myself when I need to do something in X minutes
     * For example: Remind me that I need to leave in 40 minutes
 * Health tracking keeps me accountable when used with exercise
+
+Cons:
+
+* Enabling DND in watch, also enable it on phone. Alternative is to use Airplane mode
+* Airplane mode doesn’t have similar DND feature if “Turn off in 1 hour”
+* Glass seems to get easily scratched
 
 Uses:
 
