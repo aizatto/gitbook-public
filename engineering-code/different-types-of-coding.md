@@ -32,6 +32,9 @@ Properties you should balance when writing code:
 
 * Code Longevity
 * Time to write code
+* Maintainability
+* Code complexity
+* Short term vs long term
 
 ### Code Longevity
 
@@ -65,6 +68,10 @@ Includes:
 
 ### Maintainability
 
+Pros:
+
+* Better for long term
+
 Cons:
 
 * Reduces speed
@@ -72,6 +79,26 @@ Cons:
 Notes:
 
 * Speed can be improved with proper testing
+
+### What benefits Short Term
+
+* Shortcuts
+* Speed
+* Reusing abstractions or existing frameworks
+
+### What benefits Long Term
+
+* Reduced complexity
+* Easy to read code
+  * Consistent styling
+  * Stylized with a prettier
+* Tests
+  * Unittesting
+  * Continuous integration
+* Documentation
+  * Design documentation, why certain design decisions were made
+* Tooling
+* Refactoring, or rebuilding as needed
 
 ## Product Engineering
 
@@ -81,5 +108,11 @@ From [Forbes](https://www.forbes.com/sites/quora/2017/09/06/how-is-a-product-eng
 >
 > "product engineering" focuses on an engineer's capability to deliver the end goal: a product.
 
-Needed for an early stage startup
+Needed for an early stage startup.
+
+* Delivers "good enough" solutions
+* Less focused on technical numbers questions:
+  * For example: Design a cache that can support 10TB.
+    * How many machines?
+    * How many queries can each machine handle?
 
