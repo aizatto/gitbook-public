@@ -10,7 +10,6 @@ Requirements:
   * In theory, easy migration to different platforms
 * Markdown support
   * Easy styling
-* Static
 
 Pros:
 
@@ -32,13 +31,15 @@ Cons:
   * I could potentially move to a second gitbook, but I like everything organized in one for now
 * Long pages can be very confusing
   * Better to break out the content into different pages
-  * Increases the problem of above
+  * Increases the problem of organizing a lot of pages
 
 Limitations:
 
 * Single theme
   * I don't really mind it. It's a decent but most importantly, usable theme.
 * Logs to git commit history could be nicer
+* No offline read/write support
+  * Workaround is to download the repository
 
 Other static site generators: [https://www.staticgen.com](https://www.staticgen.com)
 
