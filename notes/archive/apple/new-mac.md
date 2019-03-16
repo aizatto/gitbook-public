@@ -4,6 +4,13 @@ description: For when I have to setup a new Mac
 
 # macOS
 
+Wants:
+
+* Apple Health app for iPad
+  * I want to be able to view my Apple Health information on my iPad
+
+## New Mac Setup
+
 [https://brew.sh](https://brew.sh)
 
 ```bash
