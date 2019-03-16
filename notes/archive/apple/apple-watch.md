@@ -3,12 +3,16 @@
 Overall review:
 
 * It's just a watch. Nothing fancy, and nice to have.
+* Most things you can already do on your phone
+  * But my phone is already a distracting device, so let's limit me even accessing it
 
 Pros:
 
 * Removes me from the addiction/distraction of my phone
 * Easy access to a timer
   * I usually set timers so that I can help focus for a certain period of time
+  * Notify myself when I need to do something in X minutes
+    * For example: Remind me that I need to leave in 40 minutes
 * Health tracking keeps me accountable when used with exercise
 
 Uses:
