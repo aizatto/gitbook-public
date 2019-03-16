@@ -1,4 +1,8 @@
-# Apple Watch
+# Apple Watch Series 4
+
+Overall review:
+
+* It's just a watch. Nothing fancy, and nice to have.
 
 Pros:
 

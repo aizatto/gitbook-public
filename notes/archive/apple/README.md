@@ -48,6 +48,7 @@ Wants:
 * Cheaper devices
 * Apple Health app for iPad, and macOS
   * I want to be able to view my Apple Health information on my different devices
+* MacBook Air 15"
 
 ## Buying a Device
 

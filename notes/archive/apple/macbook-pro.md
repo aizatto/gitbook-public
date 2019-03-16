@@ -2,7 +2,17 @@
 description: Anything about Apple Laptops
 ---
 
-# MacBook Pro
+# MacBook Pro 15" 2017
+
+My main workhorse when I need to do anything serious.
+
+I go for the 15" for the ability to put two windows side by side. Unfortunately more and more UI is not being friendly to this layout style.
+
+I use my iPad Pro 11" 2018 primarily for note taking and doing something I need to focus on.
+
+The laptop can be very distracting as I can easily switch between applications. The laptop is designed for multitasking, and unfortunately allows me to do it seamlessly.
+
+The iPad doesn't do multitasking as well, and thus forces me to focus.
 
 ## MacBook Pro 15" 2017
 

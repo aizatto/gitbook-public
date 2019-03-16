@@ -1,4 +1,4 @@
-# iPad Pro
+# iPad Pro 11" 2018
 
 My main note taking device. For anything serious, I go to my MacBook Pro 15", for its larger screen, and mouse support.
 
