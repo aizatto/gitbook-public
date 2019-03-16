@@ -55,6 +55,16 @@ Note:
   * Established teams, most likely will not have rocketship growth
   * New teams may have rocketship growth, looking to prove themselves
 
+### Lifestyle Company:
+
+Pros:
+
+* Potentially more comfortable pace
+
+Cons:
+
+* Don't expect rapid growth
+
 ### Size: Small, Angel, Seed
 
 Pros:

@@ -4,8 +4,6 @@ description: Useful if you don't know what company you'd like to join.
 
 # Job Boards
 
-
-
 ### General
 
 * [https://whoishiring.io](https://whoishiring.io)
