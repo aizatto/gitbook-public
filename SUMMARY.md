@@ -1,6 +1,7 @@
 # Table of contents
 
 * [aizatto.com](README.md)
+* [Table of Contents](table-of-contents.md)
 * [Interview Guide](career-guide/README.md)
   * [Choosing A Company](career-guide/choosing-a-company.md)
   * [Job Boards](career-guide/job-boards.md)
