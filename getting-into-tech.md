@@ -2,11 +2,11 @@
 
 ## How do you want to get involved?
 
-* Technical?
+* Just Technical?
   * Front end?
   * Back end?
-  * Manager?
 * Mixed with Soft Skills?
+  * Engineering Manager?
   * Product Manager?
   * Technical Program Manager?
 
