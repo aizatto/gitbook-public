@@ -9,6 +9,8 @@ I think the best engineers are those that can properly balance:
 * Understand how code complexity can increase/decrease problems
   * Complex code may be good for the short term, terrible for the long term
 * Doesn't over engineer, doesn't under engineer
+* Understand the necessity of technical debt, and when to clean it
+* Understand what fires to let burn, and which ones to put out
 
 They realize that all code will be refactored eventually, so you need to write code that delivers a product ASAP but with just enough abstractions that allow it to be easily refactored in the future.
 
