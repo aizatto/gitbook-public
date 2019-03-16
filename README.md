@@ -6,6 +6,8 @@ Every page here is a [living document](https://en.wikipedia.org/wiki/Living_docu
 
 If you are reading this from GitHub, for a better user experience visit [https://www.aizatto.com/](https://www.aizatto.com/)
 
+View the [SUMMARY.md](https://github.com/aizatto/gitbook-public/blob/master/SUMMARY.md) to quickly see all available documents and the directory structure of this GitBook. Hopefully this can help you find something relevant to you faster.
+
 ## Services
 
 * Technical Due Diligence
