@@ -30,10 +30,11 @@ Cons:
 * Organizing a lot of pages is difficult, even if nested
   * I currently have 59 pages and its difficult to reorganize
   * I may have to organize things on the filesystem/markdown
-  * I could potentially move to a second gitbook, but I like everything organized in one for now
+  * I could potentially move to a second GitBook, but I like everything organized in one for now
 * Long pages can be very confusing
   * Better to break out the content into different pages
   * Increases the problem of organizing a lot of pages
+* Content is really "static"
 
 Limitations:
 
