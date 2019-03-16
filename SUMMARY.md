@@ -1,7 +1,12 @@
 # Table of contents
 
 * [aizatto.com](README.md)
-* [Career Guide](career-guide.md)
+* [Career Guide](career-guide/README.md)
+  * [Choosing A Company](career-guide/choosing-a-company.md)
+  * [Job Boards](career-guide/job-boards.md)
+  * [Practice](career-guide/practice.md)
+  * [Interview Process](career-guide/interview-process.md)
+  * [FAQ](career-guide/faq.md)
 * [Engineering Code](engineering-code/README.md)
   * [Different Types of Coding](engineering-code/different-types-of-coding.md)
   * [Commit Messages](engineering-code/commit-messages.md)
