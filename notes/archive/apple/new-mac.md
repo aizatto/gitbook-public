@@ -1,7 +1,3 @@
----
-description: For when I have to setup a new Mac
----
-
 # macOS
 
 Wants:
@@ -44,7 +40,7 @@ curl https://sdk.cloud.google.com | bash
 
 
 
-## Apps
+### Apps
 
 * [1Password](https://1password.com)
 * * [https://agilebits.com/onepassword/extensions](https://agilebits.com/onepassword/extensions)
@@ -63,12 +59,12 @@ curl https://sdk.cloud.google.com | bash
 * [VLC](http://www.videolan.org)
 * [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 
-## Programming
+### Programming
 
 * Node.js: [nvm](https://github.com/creationix/nvm)
 * Ruby: [rvm](https://rvm.io/)
 
-## System Preferences
+### System Preferences
 
 * Displays &gt; Scaled &gt; More Space
 * Keyboard &gt; Text &gt; Disable Correct spelling automatically
@@ -81,7 +77,7 @@ curl https://sdk.cloud.google.com | bash
 * Sound &gt; Show volume in menu bar
 * Sharing &gt; Name
 
-## Contacts
+### Contacts
 
 * Sort By &gt; First Name
 
