@@ -6,9 +6,11 @@ I enjoy the Apple ecosystem for its integration. I won't say I'm an Apple enthus
 
 Pros:
 
-* Copy/pasting works seamlessly across devices
-  * Handover is nice
-  * Airdrop is convenient
+* Integration across devices
+  * Easy to switch devices which your AirPods are connected to
+  * Copy/pasting works seamlessly across devices
+    * Handover is nice
+    * Airdrop is convenient
 * Devices retains value
 * Thieves nowadays are less inclined to steal Apple devices as they hard more difficult to unlock
 * Apple Health integration
@@ -35,7 +37,8 @@ Cons:
     * Apple Watch Series 4: $399
     * iPhone X 256GB: $1149
     * iPad 2018 256GB: $949
-    * Total: $4,496
+    * AirPods: $159
+    * Total: $4,655
   * Subscriptions
     * Apple Family: $2.99/month for 200GB
       * I personally think this is reasonable
