@@ -27,6 +27,7 @@ Succeeding in the long term requires:
 Depending on the kind of success you want, it requires:
 
 * [Acceptance](https://www.deepthoughtapp.com/en/keywords/acceptance/)
+* [Attitude](https://www.deepthoughtapp.com/en/keywords/attitude/)
 * [Belief](https://www.deepthoughtapp.com/en/keywords/beliefs/)
 * [Consistency](https://www.deepthoughtapp.com/en/keywords/consistency/)
   * Small improvements over a large period of time
@@ -47,6 +48,7 @@ Depending on the kind of success you want, it requires:
 * [Iteration](https://www.deepthoughtapp.com/en/keywords/iteration/)
 * [Kindness](https://www.deepthoughtapp.com/en/keywords/kindness/)
 * [Leverage](https://www.deepthoughtapp.com/en/keywords/leverage/)
+* [Mindset](https://www.deepthoughtapp.com/en/keywords/mindset/)
 * [Momentum](https://www.deepthoughtapp.com/en/keywords/momentum/)
 * [Motivation](https://www.deepthoughtapp.com/en/keywords/motivation/)
 * [Learning](https://www.deepthoughtapp.com/en/keywords/learning/)
