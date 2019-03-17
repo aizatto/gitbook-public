@@ -67,6 +67,8 @@
     * [iPad Pro 11" 2018](notes/archive/apple/ipad-pro.md)
     * [MacBook Pro 15" 2017](notes/archive/apple/macbook-pro.md)
     * [macOS](notes/archive/apple/new-mac.md)
+  * [Balance](notes/archive/balance/README.md)
+    * [Leading vs Following](notes/archive/balance/leading-vs-following.md)
   * [B2B/B2C](notes/archive/b2b-b2c.md)
   * [Blockchain](notes/archive/blockchain.md)
   * [Cloud Providers](notes/archive/cloud-providers/README.md)
