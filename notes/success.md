@@ -1,6 +1,28 @@
+---
+description: I spend a lot of time thinking about life.
+---
+
 # Life
 
-Define what success means to you.
+Define what [success](https://www.deepthoughtapp.com/en/keywords/success/) means to you.
+
+## Near/Short Term
+
+Properties:
+
+* Doesn't require much
+* More predictable
+
+## Long Term
+
+Succeeding in the long term requires:
+
+* Knowing your cycles. The ups and downs
+* Predictability
+* Stability
+* Faith
+* Consistency
+* The compound interest out of your short term goals
 
 Depending on the kind of success you want, it requires:
 
@@ -29,6 +51,7 @@ Depending on the kind of success you want, it requires:
 * [Motivation](https://www.deepthoughtapp.com/en/keywords/motivation/)
 * [Learning](https://www.deepthoughtapp.com/en/keywords/learning/)
 * [Perseverance](https://www.deepthoughtapp.com/en/keywords/perseverance)
+* [Philosophy](https://www.deepthoughtapp.com/en/keywords/philosophy/)
 * [Prototyping](https://www.deepthoughtapp.com/en/keywords/prototype/)
 * [Resilience](https://www.deepthoughtapp.com/en/keywords/resilience/)
 * [Routine](https://www.deepthoughtapp.com/en/keywords/routine/)
