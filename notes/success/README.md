@@ -1,4 +1,4 @@
-# Success
+# Life
 
 Define what success means to you.
 
@@ -18,6 +18,7 @@ Depending on the kind of success you want, it requires:
   * Comfortable with Failure
 * [Faith](https://www.deepthoughtapp.com/en/keywords/faith/)
 * [Feedback](https://www.deepthoughtapp.com/en/keywords/feedback/)
+* [Goals](https://www.deepthoughtapp.com/en/keywords/goals/)
 * [Grit](https://www.deepthoughtapp.com/en/keywords/grit/)
 * [Growth](https://www.deepthoughtapp.com/en/keywords/growth/)
 * [Habit](https://www.deepthoughtapp.com/en/keywords/habit/)
