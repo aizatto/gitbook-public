@@ -7,7 +7,7 @@
 
 ```typescript
 const response = await fetch(url);
-const json = await response.text();
+const text = await response.text();
 console.log(response);
 ```
 
