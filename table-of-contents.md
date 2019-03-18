@@ -11,84 +11,89 @@ View document in [GitHub](https://github.com/aizatto/gitbook-public/blob/master/
 | Name | GitHub | GitBook | Page |
 | :--- | :--- | :--- | :--- |
 | `1` aizatto.com | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/README.md) | [GitBook](https://www.aizatto.com/README.md) | `1` |
-| `2` Interview Guide | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/career-guide/README.md) | [GitBook](https://www.aizatto.com/career-guide/README.md) | `2` |
-| `2.1` Choosing A Company | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/career-guide/choosing-a-company.md) | [GitBook](https://www.aizatto.com/career-guide/choosing-a-company.md) | `3` |
-| `2.2` Job Boards | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/career-guide/job-boards.md) | [GitBook](https://www.aizatto.com/career-guide/job-boards.md) | `4` |
-| `2.3` Practice | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/career-guide/practice.md) | [GitBook](https://www.aizatto.com/career-guide/practice.md) | `5` |
-| `2.4` Interview Process | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/career-guide/interview-process/README.md) | [GitBook](https://www.aizatto.com/career-guide/interview-process/README.md) | `6` |
-| `2.4.1` Questions to Ask | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/career-guide/interview-process/questions-to-ask.md) | [GitBook](https://www.aizatto.com/career-guide/interview-process/questions-to-ask.md) | `7` |
-| `2.4.2` Coding | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/career-guide/interview-process/coding.md) | [GitBook](https://www.aizatto.com/career-guide/interview-process/coding.md) | `8` |
-| `2.4.3` Soft Skills | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/career-guide/interview-process/soft-skills.md) | [GitBook](https://www.aizatto.com/career-guide/interview-process/soft-skills.md) | `9` |
-| `2.4.4` Rejection | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/career-guide/interview-process/rejection.md) | [GitBook](https://www.aizatto.com/career-guide/interview-process/rejection.md) | `10` |
-| `2.4.5` Negotiation / Deciding | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/career-guide/interview-process/negotiation.md) | [GitBook](https://www.aizatto.com/career-guide/interview-process/negotiation.md) | `11` |
-| `2.4.6` Accepting, Joining | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/career-guide/interview-process/accepting.md) | [GitBook](https://www.aizatto.com/career-guide/interview-process/accepting.md) | `12` |
-| `2.5` FAQ | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/career-guide/faq.md) | [GitBook](https://www.aizatto.com/career-guide/faq.md) | `13` |
-| `3` Engineering Code | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/README.md) | [GitBook](https://www.aizatto.com/engineering-code/README.md) | `14` |
-| `3.1` Different Types of Coding | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/different-types-of-coding.md) | [GitBook](https://www.aizatto.com/engineering-code/different-types-of-coding.md) | `15` |
-| `3.2` Commit Messages | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/commit-messages.md) | [GitBook](https://www.aizatto.com/engineering-code/commit-messages.md) | `16` |
-| `3.3` Reviewing Code | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/reviewing-code.md) | [GitBook](https://www.aizatto.com/engineering-code/reviewing-code.md) | `17` |
-| `3.4` Writing Code | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/writing-code.md) | [GitBook](https://www.aizatto.com/engineering-code/writing-code.md) | `18` |
-| `3.5` Engineering Code | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/engineering-code-1.md) | [GitBook](https://www.aizatto.com/engineering-code/engineering-code-1.md) | `19` |
-| `3.6` Engineering Data | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/engineering-data.md) | [GitBook](https://www.aizatto.com/engineering-code/engineering-data.md) | `20` |
-| `3.7` Pipelines | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/pipelines.md) | [GitBook](https://www.aizatto.com/engineering-code/pipelines.md) | `21` |
-| `3.8` Best Engineers | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/best-engineers.md) | [GitBook](https://www.aizatto.com/engineering-code/best-engineers.md) | `22` |
-| `4` Why GitBook? | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/why-gitbook.md) | [GitBook](https://www.aizatto.com/why-gitbook.md) | `23` |
-| `5` Portfolio, Projects, Tools, Toys | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/projects-tools-toys.md) | [GitBook](https://www.aizatto.com/projects-tools-toys.md) | `24` |
-| `6` Getting into Tech | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/getting-into-tech.md) | [GitBook](https://www.aizatto.com/getting-into-tech.md) | `25` |
+| `2` Table of Contents | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/table-of-contents.md) | [GitBook](https://www.aizatto.com/table-of-contents.md) | `2` |
+| `3` Interview Guide | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/interview-guide/README.md) | [GitBook](https://www.aizatto.com/interview-guide/README.md) | `3` |
+| `3.1` Choosing A Company | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/interview-guide/choosing-a-company.md) | [GitBook](https://www.aizatto.com/interview-guide/choosing-a-company.md) | `4` |
+| `3.2` Job Boards | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/interview-guide/job-boards.md) | [GitBook](https://www.aizatto.com/interview-guide/job-boards.md) | `5` |
+| `3.3` Practice | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/interview-guide/practice.md) | [GitBook](https://www.aizatto.com/interview-guide/practice.md) | `6` |
+| `3.4` Interview Process | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/interview-guide/interview-process/README.md) | [GitBook](https://www.aizatto.com/interview-guide/interview-process/README.md) | `7` |
+| `3.4.1` Questions to Ask | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/interview-guide/interview-process/questions-to-ask.md) | [GitBook](https://www.aizatto.com/interview-guide/interview-process/questions-to-ask.md) | `8` |
+| `3.4.2` Coding | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/interview-guide/interview-process/coding.md) | [GitBook](https://www.aizatto.com/interview-guide/interview-process/coding.md) | `9` |
+| `3.4.3` Soft Skills | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/interview-guide/interview-process/soft-skills.md) | [GitBook](https://www.aizatto.com/interview-guide/interview-process/soft-skills.md) | `10` |
+| `3.4.4` Rejection | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/interview-guide/interview-process/rejection.md) | [GitBook](https://www.aizatto.com/interview-guide/interview-process/rejection.md) | `11` |
+| `3.4.5` Negotiation / Deciding | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/interview-guide/interview-process/negotiation.md) | [GitBook](https://www.aizatto.com/interview-guide/interview-process/negotiation.md) | `12` |
+| `3.4.6` Accepting, Joining | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/interview-guide/interview-process/accepting.md) | [GitBook](https://www.aizatto.com/interview-guide/interview-process/accepting.md) | `13` |
+| `3.5` FAQ | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/interview-guide/faq.md) | [GitBook](https://www.aizatto.com/interview-guide/faq.md) | `14` |
+| `4` Engineering Code | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/README.md) | [GitBook](https://www.aizatto.com/engineering-code/README.md) | `15` |
+| `4.1` Different Types of Coding | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/different-types-of-coding.md) | [GitBook](https://www.aizatto.com/engineering-code/different-types-of-coding.md) | `16` |
+| `4.2` Commit Messages | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/commit-messages.md) | [GitBook](https://www.aizatto.com/engineering-code/commit-messages.md) | `17` |
+| `4.3` Reviewing Code | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/reviewing-code.md) | [GitBook](https://www.aizatto.com/engineering-code/reviewing-code.md) | `18` |
+| `4.4` Writing Code | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/writing-code.md) | [GitBook](https://www.aizatto.com/engineering-code/writing-code.md) | `19` |
+| `4.5` Engineering Code | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/engineering-code-1.md) | [GitBook](https://www.aizatto.com/engineering-code/engineering-code-1.md) | `20` |
+| `4.6` Engineering Data | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/engineering-data.md) | [GitBook](https://www.aizatto.com/engineering-code/engineering-data.md) | `21` |
+| `4.7` Pipelines | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/pipelines.md) | [GitBook](https://www.aizatto.com/engineering-code/pipelines.md) | `22` |
+| `4.8` Best Engineers | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/engineering-code/best-engineers.md) | [GitBook](https://www.aizatto.com/engineering-code/best-engineers.md) | `23` |
+| `5` Why GitBook? | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/why-gitbook.md) | [GitBook](https://www.aizatto.com/why-gitbook.md) | `24` |
+| `6` Portfolio, Projects, Tools, Toys | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/projects-tools-toys.md) | [GitBook](https://www.aizatto.com/projects-tools-toys.md) | `25` |
+| `7` Getting into Tech | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/getting-into-tech.md) | [GitBook](https://www.aizatto.com/getting-into-tech.md) | `26` |
 
-### Notes
+## Notes
 
 | Name | GitHub | GitBook | Page |
 | :--- | :--- | :--- | :--- |
-| `1` AWS | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/aws/README.md) | [GitBook](https://www.aizatto.com/notes/aws/README.md) | `26` |
-| `1.1` Cognito | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/aws/cognito.md) | [GitBook](https://www.aizatto.com/notes/aws/cognito.md) | `27` |
-| `1.2` DynamoDB | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/aws/dynamodb.md) | [GitBook](https://www.aizatto.com/notes/aws/dynamodb.md) | `28` |
-| `1.3` IAM | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/aws/iam.md) | [GitBook](https://www.aizatto.com/notes/aws/iam.md) | `29` |
-| `1.4` Lambda | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/aws/lambda.md) | [GitBook](https://www.aizatto.com/notes/aws/lambda.md) | `30` |
-| `2` GraphQL | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/graphql.md) | [GitBook](https://www.aizatto.com/notes/graphql.md) | `31` |
-| `3` JavaScript | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/README.md) | [GitBook](https://www.aizatto.com/notes/javascript/README.md) | `32` |
-| `3.1` Array | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/array.md) | [GitBook](https://www.aizatto.com/notes/javascript/array.md) | `33` |
-| `3.2` Collections | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/collections.md) | [GitBook](https://www.aizatto.com/notes/javascript/collections.md) | `34` |
-| `3.3` Cons/Dislikes | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/cons-dislikes.md) | [GitBook](https://www.aizatto.com/notes/javascript/cons-dislikes.md) | `35` |
-| `3.4` fetch | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/fetch.md) | [GitBook](https://www.aizatto.com/notes/javascript/fetch.md) | `36` |
-| `3.5` Modules | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/modules.md) | [GitBook](https://www.aizatto.com/notes/javascript/modules.md) | `37` |
-| `3.6` Object | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/object.md) | [GitBook](https://www.aizatto.com/notes/javascript/object.md) | `38` |
-| `3.7` Regex | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/regex.md) | [GitBook](https://www.aizatto.com/notes/javascript/regex.md) | `39` |
-| `3.8` Set | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/set.md) | [GitBook](https://www.aizatto.com/notes/javascript/set.md) | `40` |
-| `3.9` Style Guides | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/style-guides.md) | [GitBook](https://www.aizatto.com/notes/javascript/style-guides.md) | `41` |
-| `3.10` Versions | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/versions.md) | [GitBook](https://www.aizatto.com/notes/javascript/versions.md) | `42` |
-| `4` Node.js | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/node.js/README.md) | [GitBook](https://www.aizatto.com/notes/node.js/README.md) | `43` |
-| `4.1` eslint | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/node.js/eslint.md) | [GitBook](https://www.aizatto.com/notes/node.js/eslint.md) | `44` |
-| `4.2` Hapi | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/node.js/hapi.md) | [GitBook](https://www.aizatto.com/notes/node.js/hapi.md) | `45` |
-| `4.3` Koa | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/node.js/koa.md) | [GitBook](https://www.aizatto.com/notes/node.js/koa.md) | `46` |
-| `4.4` TypeScript | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/node.js/typescript.md) | [GitBook](https://www.aizatto.com/notes/node.js/typescript.md) | `47` |
-| `5` Prototyping | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/prototyping.md) | [GitBook](https://www.aizatto.com/notes/prototyping.md) | `48` |
-| `6` Serverless | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/serverless.md) | [GitBook](https://www.aizatto.com/notes/serverless.md) | `49` |
-| `7` Software Engineering | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/software-engineering/README.md) | [GitBook](https://www.aizatto.com/notes/software-engineering/README.md) | `50` |
-| `7.1` Software Architectures | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/software-engineering/software-architectures.md) | [GitBook](https://www.aizatto.com/notes/software-engineering/software-architectures.md) | `51` |
-| `7.2` Repository Management | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/software-engineering/repository-management.md) | [GitBook](https://www.aizatto.com/notes/software-engineering/repository-management.md) | `52` |
-| `8` Success | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/success.md) | [GitBook](https://www.aizatto.com/notes/success.md) | `53` |
-| `9` Technical Due Diligence | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/technical-due-diligence.md) | [GitBook](https://www.aizatto.com/notes/technical-due-diligence.md) | `54` |
-| `10` Web Development | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/web-development/README.md) | [GitBook](https://www.aizatto.com/notes/web-development/README.md) | `55` |
-| `10.1` Progressive Web App | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/web-development/progressive-web-app.md) | [GitBook](https://www.aizatto.com/notes/web-development/progressive-web-app.md) | `56` |
-| `10.2` React | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/web-development/react.md) | [GitBook](https://www.aizatto.com/notes/web-development/react.md) | `57` |
-| `11` Archive | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/README.md) | [GitBook](https://www.aizatto.com/notes/archive/README.md) | `58` |
-| `11.1` Apple | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/apple/README.md) | [GitBook](https://www.aizatto.com/notes/archive/apple/README.md) | `59` |
-| `11.1.1` Apple Watch Series 4 | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/apple/apple-watch.md) | [GitBook](https://www.aizatto.com/notes/archive/apple/apple-watch.md) | `60` |
-| `11.1.2` iPad Pro 11" 2018 | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/apple/ipad-pro.md) | [GitBook](https://www.aizatto.com/notes/archive/apple/ipad-pro.md) | `61` |
-| `11.1.3` MacBook Pro 15" 2017 | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/apple/macbook-pro.md) | [GitBook](https://www.aizatto.com/notes/archive/apple/macbook-pro.md) | `62` |
-| `11.1.4` macOS | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/apple/new-mac.md) | [GitBook](https://www.aizatto.com/notes/archive/apple/new-mac.md) | `63` |
-| `11.2` B2B/B2C | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/b2b-b2c.md) | [GitBook](https://www.aizatto.com/notes/archive/b2b-b2c.md) | `64` |
-| `11.3` Blockchain | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/blockchain.md) | [GitBook](https://www.aizatto.com/notes/archive/blockchain.md) | `65` |
-| `11.4` Cloud Providers | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/cloud-providers/README.md) | [GitBook](https://www.aizatto.com/notes/archive/cloud-providers/README.md) | `66` |
-| `11.4.1` GCP | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/cloud-providers/gcp.md) | [GitBook](https://www.aizatto.com/notes/archive/cloud-providers/gcp.md) | `67` |
-| `11.5` Cheap, Good, Fast | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/cheap-good-fast.md) | [GitBook](https://www.aizatto.com/notes/archive/cheap-good-fast.md) | `68` |
-| `11.6` Facebook for Developers | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/facebook-for-developers.md) | [GitBook](https://www.aizatto.com/notes/archive/facebook-for-developers.md) | `69` |
-| `11.7` git | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/git.md) | [GitBook](https://www.aizatto.com/notes/archive/git.md) | `70` |
-| `11.8` Go Lang | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/go-lang.md) | [GitBook](https://www.aizatto.com/notes/archive/go-lang.md) | `71` |
-| `11.9` Property | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/property.md) | [GitBook](https://www.aizatto.com/notes/archive/property.md) | `72` |
-| `11.10` UX | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/ux.md) | [GitBook](https://www.aizatto.com/notes/archive/ux.md) | `73` |
-| `11.11` Stripe | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/stripe.md) | [GitBook](https://www.aizatto.com/notes/archive/stripe.md) | `74` |
-| `11.12` Venture Builder | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/venture-builder.md) | [GitBook](https://www.aizatto.com/notes/archive/venture-builder.md) | `75` |
-| `11.13` xargs | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/xargs.md) | [GitBook](https://www.aizatto.com/notes/archive/xargs.md) | `76` |
+| `1` AWS | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/aws/README.md) | [GitBook](https://www.aizatto.com/notes/aws/README.md) | `27` |
+| `1.1` API Gateway | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/aws/api-gateway.md) | [GitBook](https://www.aizatto.com/notes/aws/api-gateway.md) | `28` |
+| `1.2` Cognito | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/aws/cognito.md) | [GitBook](https://www.aizatto.com/notes/aws/cognito.md) | `29` |
+| `1.3` DynamoDB | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/aws/dynamodb.md) | [GitBook](https://www.aizatto.com/notes/aws/dynamodb.md) | `30` |
+| `1.4` IAM | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/aws/iam.md) | [GitBook](https://www.aizatto.com/notes/aws/iam.md) | `31` |
+| `1.5` Lambda | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/aws/lambda.md) | [GitBook](https://www.aizatto.com/notes/aws/lambda.md) | `32` |
+| `2` GraphQL | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/graphql.md) | [GitBook](https://www.aizatto.com/notes/graphql.md) | `33` |
+| `3` JavaScript | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/README.md) | [GitBook](https://www.aizatto.com/notes/javascript/README.md) | `34` |
+| `3.1` Array | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/array.md) | [GitBook](https://www.aizatto.com/notes/javascript/array.md) | `35` |
+| `3.2` Collections | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/collections.md) | [GitBook](https://www.aizatto.com/notes/javascript/collections.md) | `36` |
+| `3.3` Cons/Dislikes | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/cons-dislikes.md) | [GitBook](https://www.aizatto.com/notes/javascript/cons-dislikes.md) | `37` |
+| `3.4` fetch | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/fetch.md) | [GitBook](https://www.aizatto.com/notes/javascript/fetch.md) | `38` |
+| `3.5` Modules | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/modules.md) | [GitBook](https://www.aizatto.com/notes/javascript/modules.md) | `39` |
+| `3.6` Object | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/object.md) | [GitBook](https://www.aizatto.com/notes/javascript/object.md) | `40` |
+| `3.7` Regex | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/regex.md) | [GitBook](https://www.aizatto.com/notes/javascript/regex.md) | `41` |
+| `3.8` Set | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/set.md) | [GitBook](https://www.aizatto.com/notes/javascript/set.md) | `42` |
+| `3.9` Style Guides | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/style-guides.md) | [GitBook](https://www.aizatto.com/notes/javascript/style-guides.md) | `43` |
+| `3.10` Versions | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/javascript/versions.md) | [GitBook](https://www.aizatto.com/notes/javascript/versions.md) | `44` |
+| `4` Life | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/success.md) | [GitBook](https://www.aizatto.com/notes/success.md) | `45` |
+| `5` Node.js | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/node.js/README.md) | [GitBook](https://www.aizatto.com/notes/node.js/README.md) | `46` |
+| `5.1` eslint | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/node.js/eslint.md) | [GitBook](https://www.aizatto.com/notes/node.js/eslint.md) | `47` |
+| `5.2` Hapi | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/node.js/hapi.md) | [GitBook](https://www.aizatto.com/notes/node.js/hapi.md) | `48` |
+| `5.3` Koa | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/node.js/koa.md) | [GitBook](https://www.aizatto.com/notes/node.js/koa.md) | `49` |
+| `5.4` TypeScript | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/node.js/typescript.md) | [GitBook](https://www.aizatto.com/notes/node.js/typescript.md) | `50` |
+| `6` Prototyping | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/prototyping.md) | [GitBook](https://www.aizatto.com/notes/prototyping.md) | `51` |
+| `7` Serverless | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/serverless.md) | [GitBook](https://www.aizatto.com/notes/serverless.md) | `52` |
+| `8` Software Engineering | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/software-engineering/README.md) | [GitBook](https://www.aizatto.com/notes/software-engineering/README.md) | `53` |
+| `8.1` Software Architectures | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/software-engineering/software-architectures.md) | [GitBook](https://www.aizatto.com/notes/software-engineering/software-architectures.md) | `54` |
+| `8.2` Repository Management | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/software-engineering/repository-management.md) | [GitBook](https://www.aizatto.com/notes/software-engineering/repository-management.md) | `55` |
+| `9` Technical Due Diligence | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/technical-due-diligence.md) | [GitBook](https://www.aizatto.com/notes/technical-due-diligence.md) | `56` |
+| `10` Web Development | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/web-development/README.md) | [GitBook](https://www.aizatto.com/notes/web-development/README.md) | `57` |
+| `10.1` Progressive Web App | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/web-development/progressive-web-app.md) | [GitBook](https://www.aizatto.com/notes/web-development/progressive-web-app.md) | `58` |
+| `10.2` React | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/web-development/react.md) | [GitBook](https://www.aizatto.com/notes/web-development/react.md) | `59` |
+| `11` Archive | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/README.md) | [GitBook](https://www.aizatto.com/notes/archive/README.md) | `60` |
+| `11.1` Apple | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/apple/README.md) | [GitBook](https://www.aizatto.com/notes/archive/apple/README.md) | `61` |
+| `11.1.1` Apple Watch Series 4 | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/apple/apple-watch.md) | [GitBook](https://www.aizatto.com/notes/archive/apple/apple-watch.md) | `62` |
+| `11.1.2` iPad Pro 11" 2018 | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/apple/ipad-pro.md) | [GitBook](https://www.aizatto.com/notes/archive/apple/ipad-pro.md) | `63` |
+| `11.1.3` MacBook Pro 15" 2017 | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/apple/macbook-pro.md) | [GitBook](https://www.aizatto.com/notes/archive/apple/macbook-pro.md) | `64` |
+| `11.1.4` macOS | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/apple/new-mac.md) | [GitBook](https://www.aizatto.com/notes/archive/apple/new-mac.md) | `65` |
+| `11.2` Balance | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/balance/README.md) | [GitBook](https://www.aizatto.com/notes/archive/balance/README.md) | `66` |
+| `11.2.1` Growth vs Contentment | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/balance/growth-vs-contentment.md) | [GitBook](https://www.aizatto.com/notes/archive/balance/growth-vs-contentment.md) | `67` |
+| `11.2.2` Leading vs Following | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/balance/leading-vs-following.md) | [GitBook](https://www.aizatto.com/notes/archive/balance/leading-vs-following.md) | `68` |
+| `11.3` B2B/B2C | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/b2b-b2c.md) | [GitBook](https://www.aizatto.com/notes/archive/b2b-b2c.md) | `69` |
+| `11.4` Blockchain | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/blockchain.md) | [GitBook](https://www.aizatto.com/notes/archive/blockchain.md) | `70` |
+| `11.5` Cloud Providers | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/cloud-providers/README.md) | [GitBook](https://www.aizatto.com/notes/archive/cloud-providers/README.md) | `71` |
+| `11.5.1` GCP | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/cloud-providers/gcp.md) | [GitBook](https://www.aizatto.com/notes/archive/cloud-providers/gcp.md) | `72` |
+| `11.6` Cheap, Good, Fast | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/cheap-good-fast.md) | [GitBook](https://www.aizatto.com/notes/archive/cheap-good-fast.md) | `73` |
+| `11.7` Facebook for Developers | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/facebook-for-developers.md) | [GitBook](https://www.aizatto.com/notes/archive/facebook-for-developers.md) | `74` |
+| `11.8` git | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/git.md) | [GitBook](https://www.aizatto.com/notes/archive/git.md) | `75` |
+| `11.9` Go Lang | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/go-lang.md) | [GitBook](https://www.aizatto.com/notes/archive/go-lang.md) | `76` |
+| `11.10` Property | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/property.md) | [GitBook](https://www.aizatto.com/notes/archive/property.md) | `77` |
+| `11.11` UX | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/ux.md) | [GitBook](https://www.aizatto.com/notes/archive/ux.md) | `78` |
+| `11.12` Stripe | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/stripe.md) | [GitBook](https://www.aizatto.com/notes/archive/stripe.md) | `79` |
+| `11.13` Venture Builder | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/venture-builder.md) | [GitBook](https://www.aizatto.com/notes/archive/venture-builder.md) | `80` |
+| `11.14` xargs | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/xargs.md) | [GitBook](https://www.aizatto.com/notes/archive/xargs.md) | `81` |
 
