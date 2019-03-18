@@ -30,6 +30,7 @@
 ## Notes
 
 * [AWS](notes/aws/README.md)
+  * [API Gateway](notes/aws/api-gateway.md)
   * [Cognito](notes/aws/cognito.md)
   * [DynamoDB](notes/aws/dynamodb.md)
   * [IAM](notes/aws/iam.md)
