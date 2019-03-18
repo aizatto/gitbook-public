@@ -40,6 +40,7 @@ Cons:
 
 Limitations:
 
+* See [GitBook and GitHub Limitations](https://docs.gitbook.com/integrations/github/limitations)
 * Single theme
   * I don't really mind it. It's a decent but most importantly, usable theme.
 * Logs to git commit history could be nicer
