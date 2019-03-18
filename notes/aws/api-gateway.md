@@ -1,12 +1,26 @@
 # API Gateway
 
-### Common Errors
+## Common Errors
 
-#### Works in Lambda, but not in API Gateway
+### Works in Lambda, but not in API Gateway
 
-Error:
+Testing in API Gateway:
+
+Status: 502
+
+Response Body:
+
+```javascript
+{
+  "message": "Internal server error"
+}
+```
+
+Logs:
 
 > Lambda execution failed with status 200 due to customer function error: RequestId: 80572150-944e-40e5-b782-aca7f713289f Process exited before completing request. Lambda request id: 80572150-944e-40e5-b782-aca7f713289f
+
+#### Solution
 
 Check your lambda function is either:
 
