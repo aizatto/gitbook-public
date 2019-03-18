@@ -37,3 +37,8 @@ What does this return?
 
 It's an Array with properties of `index` and `input`. 
 
+Things which increase the JavaScript environments complexity:
+
+* Requiring the use of new features via Babel
+* Requiring WebPack to bundle for frontend
+
