@@ -29,3 +29,11 @@
   * jshint [http://jshint.com/about/](http://jshint.com/about/) 
   * flow
 
+What does this return?
+
+```javascript
+"some string".match(/some regex/)
+```
+
+It's an Array with properties of `index` and `input`. 
+
