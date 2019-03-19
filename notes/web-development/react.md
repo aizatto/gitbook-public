@@ -30,6 +30,8 @@ Difficult and heavy
 
 ### TypeScript
 
+[https://github.com/sw-yx/react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet)
+
 #### Creating
 
 ```text
