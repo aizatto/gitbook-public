@@ -46,7 +46,9 @@ yarn create react-app my-app --typescript
 
 ## useEffect with async/await
 
-```javascript
+{% code-tabs %}
+{% code-tabs-item title="await-useEffect.tsx" %}
+```typescript
 function Render() {
   const [data, setData] = useState(null);
   const fetchData = async() => {
@@ -58,6 +60,24 @@ function Render() {
   return <div>Test</div>
 }
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+## useRef\(null\)
+
+Error:
+
+```text
+Type error: Cannot assign to 'current' because it is a read-only property.  TS2540
+```
+
+From [GitHub comment](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/31065#issuecomment-453841404)
+
+> By default if you create a ref with a `null` default value and specify its generic parameter you're signaling your intent to have React "own" the reference. If you want to be able to mutate a ref that you own you should declare it like so:
+
+Solution:
+
+* Change `useRef<T | null>(null)` to `useRef<T>()`
 
 ## Bootstrap
 
