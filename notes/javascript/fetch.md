@@ -80,6 +80,8 @@ const json = await response.json();
 * No errors are thrown.
 * No need for try/catch
 
+{% code-tabs %}
+{% code-tabs-item title="fetch-error.ts" %}
 ```typescript
 const response = await fetch(url);
 console.log(response);
@@ -87,13 +89,19 @@ if (!response.ok) {
   ...
 }
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
 `response`:
 
+{% code-tabs %}
+{% code-tabs-item title="fetch-error-response.json" %}
 ```javascript
 {
   ok false,
   status: 404,
 }
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
