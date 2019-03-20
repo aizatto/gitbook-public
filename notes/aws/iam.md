@@ -2,7 +2,7 @@
 
 ## Gotchas
 
-If you think your permissions are correct, give it a few minutes to properly reflect.
+If you think your permissions are correct but you are still getting errors, give it a few minutes to properly reflect.
 
 ## Cons
 

@@ -13,12 +13,14 @@ Do:
 * Take vitamins
 * Get more regular and routine sleep
 
-Do not:
+Do not or reduce:
 
 * Program
   * Programming requires mental energy and capacity
 * Do not do something that require intense focus
   * Or if you have to, stretch out the intensity of focus over a longer period of time
+* Decision making
+  * Can take a lot of energy
 
-
+You have to rely on your habits, and routines
 
