@@ -12,6 +12,7 @@ Do:
 * Go get medication
 * Take vitamins
 * Get more regular and routine sleep
+* Something fun and relaxing
 
 Reduce or do not do:
 
