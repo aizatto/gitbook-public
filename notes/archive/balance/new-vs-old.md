@@ -38,6 +38,7 @@ Doing something old
 * Provides comparison when doing new things
 * Provides wisdom when handling uncertainty
 * Familiar set of expectations
+* Can develop deep skills
 
 #### Pros:
 
