@@ -6,6 +6,7 @@ Doing something new
 
 * Requires being in a state of mind for openness
 * Requires mental capacity to explore new things
+* Requires being mindful
 * Requires patience, can be frustrating with a different and new set of expectations
 * Staying at the edge of new requires perseverance, discipline, and faith
   * No guidance at the edge of new
@@ -14,6 +15,7 @@ Doing something new
   * No guides, no mentors
   * Uncharted territory
     * Exploring uncharted territories is itself a skill
+* Staying at the edge of everything new can thin you out
 
 #### Pros:
 
@@ -43,6 +45,7 @@ Doing something old
 * Low risk \(at the cons of low reward\)
 * Safe bets
 * Familiar, don't have to learn anything new
+* Can be mindless and rely on old habits and routines
 
 #### Cons:
 

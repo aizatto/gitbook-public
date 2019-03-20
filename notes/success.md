@@ -20,6 +20,7 @@ Properties:
 * More predictable
   * Easier to predict best path
 * Requires less prediction
+* Less possible out comes
 
 ## Long Term
 
@@ -29,10 +30,13 @@ Properties:
   * Harder to predict best path
 * Bet on the average path
 * Requires more prediction
+* More possible outcomes
 
 Succeeding in the long term requires:
 
-* Knowing your cycles. The ups and downs
+* Knowing yourself.
+  * Knowing your cycles. The ups and downs
+  * Knowing your average path
 * Predictability
 * Stability
 * Faith
