@@ -19,6 +19,7 @@ Properties:
 * Doesn't require much
 * More predictable
   * Easier to predict best path
+* Requires less prediction
 
 ## Long Term
 
@@ -27,6 +28,7 @@ Properties:
 * Less predictable
   * Harder to predict best path
 * Bet on the average path
+* Requires more prediction
 
 Succeeding in the long term requires:
 
