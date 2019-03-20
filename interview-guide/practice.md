@@ -9,6 +9,11 @@
 * [InterviewBit](https://www.interviewbit.com/)
 * [https://www.quora.com/HackerRank-What-are-the-coding-contests-sites-where-companies-hire-from](https://www.quora.com/HackerRank-What-are-the-coding-contests-sites-where-companies-hire-from)
 
+### InterviewBit
+
+* JavaScript seems to be using ES5 \(2009\)
+  * No use of const/let
+
 ## Offline Practice
 
 Go to [meetups](https://www.meetup.com)
