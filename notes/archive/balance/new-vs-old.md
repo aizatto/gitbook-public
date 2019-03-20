@@ -7,6 +7,13 @@ Doing something new
 * Requires being in a state of mind for openness
 * Requires mental capacity to explore new things
 * Requires patience, can be frustrating with a different and new set of expectations
+* Staying at the edge of new requires perseverance, discipline, and faith
+  * No guidance at the edge of new
+  * No documentation
+  * No other experience to learn from
+  * No guides, no mentors
+  * Uncharted territory
+    * Exploring uncharted territories is itself a skill
 
 #### Pros:
 
