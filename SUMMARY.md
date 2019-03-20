@@ -72,6 +72,7 @@
   * [Balance](notes/archive/balance/README.md)
     * [Growth vs Contentment](notes/archive/balance/growth-vs-contentment.md)
     * [Leading vs Following](notes/archive/balance/leading-vs-following.md)
+    * [New vs Old](notes/archive/balance/new-vs-old.md)
   * [B2B/B2C](notes/archive/b2b-b2c.md)
   * [Blockchain](notes/archive/blockchain.md)
   * [Cloud Providers](notes/archive/cloud-providers/README.md)

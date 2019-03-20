@@ -64,6 +64,10 @@ Also worth watching is the anime series, "Ghost in the Shell: Stand Alone Comple
 
 The 2017 Scarlett Johansson version was more of an action film and didn't really ask any philosophical questions about the future of humanity.
 
+### Hidden Figures
+
+Decent Film, was interesting to learn about how Black Women contributed to Nasa. 
+
 ### The Incredibles
 
 One of my favorite Pixar films. Great writing.

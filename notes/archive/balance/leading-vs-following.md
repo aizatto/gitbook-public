@@ -4,6 +4,7 @@
 
 * Provides mission, vision, and direction
 * Requires conviction
+* Have to give followers security
 
 ## Followers, Following
 

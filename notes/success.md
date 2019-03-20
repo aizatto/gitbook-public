@@ -6,6 +6,12 @@ description: I spend a lot of time thinking about life.
 
 Define what [success](https://www.deepthoughtapp.com/en/keywords/success/) means to you.
 
+Carl Jung:
+
+> Only the paradox comes anywhere near to comprehending the fullness of life.
+
+​[https://www.deepthoughtapp.com/answers/what-lifes-paradox-are-you-trying-to-balance-1250/](https://www.deepthoughtapp.com/answers/what-lifes-paradox-are-you-trying-to-balance-1250/#)
+
 ## Near/Short Term
 
 Properties:
