@@ -34,6 +34,7 @@ Doing something old
 
 * Can ground, anchor, and center you
 * Low risk \(at the cons of low reward\)
+* Familiar, don't have to learn anything new
 
 #### Cons:
 

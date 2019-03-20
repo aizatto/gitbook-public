@@ -18,8 +18,15 @@ Properties:
 
 * Doesn't require much
 * More predictable
+  * Easier to predict best path
 
 ## Long Term
+
+Properties:
+
+* Less predictable
+  * Harder to predict best path
+* Bet on the average path
 
 Succeeding in the long term requires:
 
