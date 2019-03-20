@@ -41,10 +41,12 @@ Doing something old
 
 * Can ground, anchor, and center you
 * Low risk \(at the cons of low reward\)
+* Safe bets
 * Familiar, don't have to learn anything new
 
 #### Cons:
 
 * Can hold you back
 * Low reward \(at the pros of low risk\)
+* Can leave you complacent and lazy
 
