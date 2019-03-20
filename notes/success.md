@@ -61,6 +61,7 @@ Depending on the kind of success you want, it requires:
   * Comfortable with Failure
 * [Faith](https://www.deepthoughtapp.com/en/keywords/faith/)
 * [Feedback](https://www.deepthoughtapp.com/en/keywords/feedback/)
+* [Fun](https://www.deepthoughtapp.com/en/keywords/fun/)
 * [Goals](https://www.deepthoughtapp.com/en/keywords/goals/)
 * [Grit](https://www.deepthoughtapp.com/en/keywords/grit/)
 * [Growth](https://www.deepthoughtapp.com/en/keywords/growth/)
@@ -74,6 +75,7 @@ Depending on the kind of success you want, it requires:
 * [Learning](https://www.deepthoughtapp.com/en/keywords/learning/)
 * [Perseverance](https://www.deepthoughtapp.com/en/keywords/perseverance)
 * [Philosophy](https://www.deepthoughtapp.com/en/keywords/philosophy/)
+* [Play](https://www.deepthoughtapp.com/en/keywords/play/)
 * [Prototyping](https://www.deepthoughtapp.com/en/keywords/prototype/)
 * [Resilience](https://www.deepthoughtapp.com/en/keywords/resilience/)
 * [Routine](https://www.deepthoughtapp.com/en/keywords/routine/)
