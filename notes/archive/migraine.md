@@ -13,7 +13,7 @@ Do:
 * Take vitamins
 * Get more regular and routine sleep
 
-Do not or reduce:
+Reduce or do not do:
 
 * Program
   * Programming requires mental energy and capacity
