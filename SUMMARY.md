@@ -84,6 +84,7 @@
   * [Go Lang](notes/archive/go-lang.md)
   * [Migraine](notes/archive/migraine.md)
   * [Movies](notes/archive/movies.md)
+  * [Podcasts](notes/archive/podcasts.md)
   * [Property](notes/archive/property.md)
   * [Stripe](notes/archive/stripe.md)
   * [UX](notes/archive/ux.md)
