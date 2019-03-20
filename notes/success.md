@@ -37,7 +37,7 @@ Succeeding in the long term requires:
 * Stability
 * Faith
 * Consistency
-* The compound interest out of your short term goals
+* The compound interest of your short term goals
 
 Depending on the kind of success you want, it requires:
 
