@@ -2,6 +2,13 @@
 
 My main note taking device. For anything serious, I go to my MacBook Pro 15", for its larger screen, and mouse support.
 
+What I like about a tablet/iPad:
+
+* Can casually bring to meetings
+  * Less serious than a laptop
+* Because I can do less on the iPad, it forces me to focus
+* The lack of good multi-tasking is a positive for me. I get less distracted.
+
 Wants:
 
 * Apple Health app for iPad

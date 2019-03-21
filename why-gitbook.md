@@ -25,6 +25,10 @@ Pros:
   * I can make hooks into GitBook via GitHub hooks, see [gitbook-summary](https://github.com/aizatto/gitbook-summary)
 * Renaming pages appears to maintain old URLs
   * Only if it is not moved to a different folder
+* Works decently on my 11” iPad Pro 2018
+  * Browsing is fine on quarter, half or full screen
+  * Can’t use Safari’s split screen mode for editing
+    * Require’s using full screen, sad
 
 Cons:
 
