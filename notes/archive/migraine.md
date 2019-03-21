@@ -23,5 +23,17 @@ Reduce or do not do:
 * Decision making
   * Can take a lot of energy
 
-You have to rely on your habits, and routines
+You have to rely on your habits, and routines.
+
+Medication:
+
+* Well at Walgreens: Migraine Relief
+  * Acetaminophen / Aspirin \(NSAID\) Caffeine Tablets
+  * Acetaminophen 250mg
+  * Aspirin 250mg \(NSAID\)
+  * Caffeine 65mg
+  * Take 2 tablets with water
+  * Do not take more than 2 a day
+* Caffox
+  * Ergotamine tartrate \(1mg\), Caffeine \(100mg\)
 
