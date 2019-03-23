@@ -36,4 +36,9 @@ Medication:
   * Do not take more than 2 a day
 * Caffox
   * Ergotamine tartrate \(1mg\), Caffeine \(100mg\)
+* Ibuprofen
+* Ponstan
+* Aleve
+* Striptan
+  * Sumatriptan Succinate
 
