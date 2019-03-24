@@ -27,7 +27,7 @@ Pros:
 Cons:
 
 * Escape key is not a physical button \(uses TouchBar\)
-  * I'm a VIM user, but I think a physical escape key would make a huge different even on other apps.
+  * I'm a VIM user, and I think a physical escape key would make a huge different even on other apps.
 
 Notes:
 
@@ -36,7 +36,7 @@ Notes:
   * So I enjoy the weight savings
 * Pushing 4K@60hz to an external monitor
   * Works with a USB-C to DisplayPort cable
-  * USB-C to HDMI adapters dont seem to work for me
+  * None of the USB-C to HDMI adapters dont seem to work for me
 
 ## MacBook Air 15"
 
