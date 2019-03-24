@@ -15,7 +15,7 @@ Apple notes for quick short form writing that I may want to sync across my Apple
 
 Google Docs for long term note taking. Used in combination with my [Timestamps](https://timestamps.aizatto.com/) tool.
 
-GitBook for summarized notes.
+GitBook for summarized notes and quick public references I want to share with other people.
 
 Deep Thought for my contemplations.
 
