@@ -4,12 +4,11 @@ Requirements:
 
 * Easy maintenance
 * Git/file system support
-  * Allows for easy migration
+  * In theory, easy migration to different platforms
   * Doesn't require me to have internet access
   * I can easily do a `grep` or `ack` locally to find information.
-  * In theory, easy migration to different platforms
-* Markdown support
-  * Easy styling
+  * Markdown support
+* * Easy styling
 
 Pros:
 
@@ -17,7 +16,6 @@ Pros:
 * Decent free Basic plan
   * Includes one free private book
 * No need to always use command line
-* Works well on iPad through Safari
 * Custom domains
 * Google Analytics support
 * [Syncs with GitHub](https://docs.gitbook.com/integrations/github)
@@ -48,7 +46,7 @@ Limitations:
 * See [GitBook and GitHub Limitations](https://docs.gitbook.com/integrations/github/limitations)
 * Single theme
   * I don't really mind it. It's a decent but most importantly, usable theme.
-* Logs to git commit history could be nicer
+* Logs to git [commit history](https://github.com/aizatto/gitbook-public/commits/master) could be nicer
 * No offline read/write support
   * Workaround is to download the repository
 * Moving pages doesn't redirect to new URL
@@ -57,7 +55,7 @@ Limitations:
 
 Other static site generators: [https://www.staticgen.com](https://www.staticgen.com)
 
-Previously using Phenomic. Fully manual.
+Previously using Phenomic. cons: Fully manual.
 
 Other notable GitBooks:
 
