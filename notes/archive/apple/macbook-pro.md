@@ -34,6 +34,9 @@ Notes:
 * I don't mind USB-C
   * Personally, I don't use accessories much
   * So I enjoy the weight savings
+* Pushing 4K@60hz to an external monitor
+  * Works with a USB-C to DisplayPort cable
+  * USB-C to HDMI adapters dont seem to work for me
 
 ## MacBook Air 15"
 
