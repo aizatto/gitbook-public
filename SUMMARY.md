@@ -64,6 +64,7 @@
   * [React](notes/web-development/react.md)
 * [Archive](notes/archive/README.md)
   * [Apple](notes/archive/apple/README.md)
+    * [AirPods](notes/archive/apple/airpods.md)
     * [Apple Watch Series 4](notes/archive/apple/apple-watch.md)
     * [iPad Pro 11" 2018](notes/archive/apple/ipad-pro.md)
     * [MacBook Pro 15" 2017](notes/archive/apple/macbook-pro.md)

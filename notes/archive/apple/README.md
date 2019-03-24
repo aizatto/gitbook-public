@@ -46,6 +46,7 @@ Cons:
 Wants:
 
 * Cheaper devices
+* AirPower
 * Apple Health app for iPad, and macOS
   * I want to be able to view my Apple Health information on my different devices
 * MacBook Air 15"
@@ -69,6 +70,10 @@ Wants:
   * Christmas sales
 
 ## Yearly Schedule
+
+### March:
+
+* Spring refresh in late march
 
 ### June:
 
