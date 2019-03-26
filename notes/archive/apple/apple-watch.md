@@ -19,6 +19,7 @@ Pros:
 
 Cons:
 
+* Requires an iPhone
 * Enabling DND in watch, also enable it on phone. Alternative is to use Airplane mode
 * Airplane mode doesn’t have similar DND feature if “Turn off in 1 hour”
 * Glass seems to get easily scratched
