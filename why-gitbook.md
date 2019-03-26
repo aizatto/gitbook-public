@@ -52,6 +52,8 @@ Limitations:
 * Moving pages doesn't redirect to new URL
   * For renaming pages in the same directory structure, the old url still works
   * For moving pages into a different directory, the old url will not work
+* I tried to compile a version using their `gitbook-cli` tool but it failed on `notes/javascript/fetch.md`
+  * [https://www.npmjs.com/package/gitbook](https://www.npmjs.com/package/gitbook)
 
 Other static site generators: [https://www.staticgen.com](https://www.staticgen.com)
 
