@@ -87,6 +87,8 @@ curl https://sdk.cloud.google.com | bash
 * Mute
 * Volume Slider
 
+![](../../../.gitbook/assets/touch-bar-shot-2019-03-27-at-10.49.05-pm.png)
+
 ## iTerm
 
 * [Shell Integration](https://iterm2.com/shell_integration.html)

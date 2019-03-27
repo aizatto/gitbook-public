@@ -29,6 +29,8 @@ Uses:
 * Airplane mode
   * For when I want my watch on to track my health, but not be distracted by notifications
 
+![](../../../.gitbook/assets/unadjustednonraw_thumb_2f90.jpg)
+
 #### Apple Watch Series 4 vs Apple Watch Series 3
 
 Apple Watch Series 4 44m:
