@@ -49,3 +49,5 @@ Concerns:
   * 8Bitdo Controllers work
   * JoyCons don't natively work on iPads
 
+* I don't have the time or focus to play video games
+
