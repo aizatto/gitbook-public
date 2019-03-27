@@ -40,7 +40,7 @@ Amazing writing. I love the colors and the world building.
 
 ### Cowboy Bebop
 
-Loved this series. As a teen, I wanted to be Spike Spiegel and fly through space. He was so cool
+Loved this Space Opera themed series. As a teen, I wanted to be Spike Spiegel and fly through space. He was so cool. See you later Space Cowboy.
 
 ### Fight Club
 
