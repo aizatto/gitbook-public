@@ -82,6 +82,7 @@
     * [GCP](notes/archive/cloud-providers/gcp.md)
   * [Cheap, Good, Fast](notes/archive/cheap-good-fast.md)
   * [Facebook for Developers](notes/archive/facebook-for-developers.md)
+  * [Gaming Tablet](notes/archive/gaming-tablet.md)
   * [git](notes/archive/git.md)
   * [Go Lang](notes/archive/go-lang.md)
   * [Migraine](notes/archive/migraine.md)
