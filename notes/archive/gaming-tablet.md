@@ -4,7 +4,7 @@ description: Gaming on the go. Gaming convenience.
 
 # Gaming Tablet
 
-I like my Nintendo Switch for its form factor, but it doesn't have all the games I want to play.
+I like my Nintendo Switch for its form factor, and making gaming more "casual", but it doesn't have all the games I want to play.
 
 * Form factor of Nintendo Switch \(with controllers by the side\)
 * Plays Windows/Steam games

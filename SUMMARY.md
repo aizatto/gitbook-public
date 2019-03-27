@@ -81,6 +81,7 @@
   * [Cloud Providers](notes/archive/cloud-providers/README.md)
     * [GCP](notes/archive/cloud-providers/gcp.md)
   * [Cheap, Good, Fast](notes/archive/cheap-good-fast.md)
+  * [Daily Routine](notes/archive/daily-routine.md)
   * [Facebook for Developers](notes/archive/facebook-for-developers.md)
   * [Gaming Tablet](notes/archive/gaming-tablet.md)
   * [git](notes/archive/git.md)
