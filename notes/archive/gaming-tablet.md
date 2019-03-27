@@ -10,6 +10,8 @@ I like my Nintendo Switch for its form factor, and making gaming more "casual", 
 * Plays Windows/Steam games
 * I want to "Pick up and Play"
 * Play from the coach/bed
+* Quick success or failure
+  * Some sort of satisfaction within 15 minutes that makes me feel like I have progress, or am progressing
 
 Options:
 
