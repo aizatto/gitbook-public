@@ -55,6 +55,11 @@ Limitations:
 * I tried to compile a version using their `gitbook-cli` tool but it failed on `notes/javascript/fetch.md`
   * [https://www.npmjs.com/package/gitbook](https://www.npmjs.com/package/gitbook)
 
+Facts:
+
+* GitBook stores assets/images under [`.gitbook/assets`](https://github.com/aizatto/gitbook-public/tree/master/.gitbook/assets)
+* Assets retain their filename
+
 Other static site generators: [https://www.staticgen.com](https://www.staticgen.com)
 
 Previously using Phenomic. cons: Fully manual.
