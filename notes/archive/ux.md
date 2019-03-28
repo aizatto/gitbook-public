@@ -13,6 +13,8 @@
   * [https://github.com/aizatto/character-length](https://github.com/aizatto/character-length)
 * Clickbait
 * Don't ask me to download your mobile app
+* When asking people to enter something difficult \(ie, short urls\) and not using base58
+  * [https://en.wikipedia.org/wiki/Base58](https://en.wikipedia.org/wiki/Base58)
 
 #### Region Locking
 
