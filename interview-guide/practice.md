@@ -1,5 +1,9 @@
 # Practice
 
+## I Hate Programming Questions
+
+* They usually require a special "trick" to solve correctly
+
 ## Online Practice
 
 * [HackerRank](https://www.hackerrank.com/)
