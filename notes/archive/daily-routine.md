@@ -8,11 +8,18 @@
 * Orienting Direction
 * Planning
 * Aligning focus
-* Reminder
-  * [Progress](https://www.deepthoughtapp.com/en/keywords/progress/)
+* Start small, small easy tasks and work your way to increased difficulty
+* Start slow
+* Slow down
+* Keywords:
   * [Connection](https://www.deepthoughtapp.com/en/keywords/connection/)
-  * [Routine](https://www.deepthoughtapp.com/en/keywords/routine/)
+  * [Consistency](https://www.deepthoughtapp.com/en/keywords/consistency/)
   * [Habit](https://www.deepthoughtapp.com/en/keywords/habit/)
+  * [Momentum](https://www.deepthoughtapp.com/en/keywords/momentum/)
+  * [Rhythm](https://www.deepthoughtapp.com/en/keywords/rhythm/)
+  * [Routine](https://www.deepthoughtapp.com/en/keywords/routine/)
+  * [Persistence](https://www.deepthoughtapp.com/en/keywords/persistence/)
+  * [Progress](https://www.deepthoughtapp.com/en/keywords/progress/)
 
 ### Routine:
 
