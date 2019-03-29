@@ -17,3 +17,17 @@ This is all "in theory" but may not necessarily be true.
 * Should be more mature
 * Expected to be more responsible
 
+## Distance
+
+### Short Distance
+
+* More opportunities to meet each other regularly
+
+### Long Distance
+
+* Meet more infrequently
+* More expectations each time you meet
+* Allows and requires you to be more independent
+* Harder to physically support each other
+* Naturally gives yourself space from your partner
+

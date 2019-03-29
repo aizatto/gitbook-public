@@ -9,8 +9,6 @@ These are easy to say, hard to do.
 * [Questions Regarding Romantic Relationships](https://deepthoughtapp.com/en/topics/romantic-relationships/)
 * This is generally for romantic relationships, can work for platonic relationships.
 
-## Table Of Contents
-
 ## Keywords
 
 Communication:
@@ -63,7 +61,7 @@ Fun:
 * [Fun](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#fun) [\#](https://www.deepthoughtapp.com/en/topics/fun/)
 * [Magic](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#magic) [\#](https://www.deepthoughtapp.com/en/topics/magic/)
 * [Serendipity](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#serendipity) [small\[\#\]\(https://www.deepthoughtapp.com/en/topics/serendipity/\)&lt;/small](small[#]%28https://www.deepthoughtapp.com/en/topics/serendipity/%29%3C/small)
-* [Affection](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#affection) [small\[\#\]\(https://www.deepthoughtapp.com/en/topics/affection/\)&lt;/small](small[#]%28https://www.deepthoughtapp.com/en/topics/affection/%29%3C/small)
+* [Affection](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#affection) [small \[\#\]\(https://www.deepthoughtapp.com/en/topics/affection/\)](small[#]%28https://www.deepthoughtapp.com/en/topics/affection/%29%3C/small)
 
 ## General
 
