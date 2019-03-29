@@ -81,6 +81,8 @@
   * [Cheap, Good, Fast](notes/archive/cheap-good-fast.md)
   * [Cloud Providers](notes/archive/cloud-providers/README.md)
     * [GCP](notes/archive/cloud-providers/gcp.md)
+  * [Company](notes/archive/company/README.md)
+    * [Organizational Structure](notes/archive/company/organizational-structure.md)
   * [Coworking Spaces](notes/archive/coworking-spaces.md)
   * [Daily Routine](notes/archive/daily-routine.md)
   * [Dating](notes/archive/dating.md)
