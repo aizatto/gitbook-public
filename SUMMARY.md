@@ -91,6 +91,7 @@
   * [Driving](notes/archive/driving.md)
   * [Empire Building](notes/archive/empire-building.md)
   * [Facebook for Developers](notes/archive/facebook-for-developers.md)
+  * [Fiverr](notes/archive/fiverr.md)
   * [Gaming Tablet](notes/archive/gaming-tablet.md)
   * [git](notes/archive/git.md)
   * [GTD](notes/archive/gtd.md)
