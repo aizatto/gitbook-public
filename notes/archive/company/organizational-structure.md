@@ -1,5 +1,9 @@
 # Organizational Structure
 
+Source [Bonkers World](http://bonkersworld.net/organizational-charts):
+
+![](http://bonkersworld.net/img/2011.06.27_organizational_charts.png)
+
 ## Conway's Law
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_law)

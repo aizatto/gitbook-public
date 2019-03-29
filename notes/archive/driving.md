@@ -4,6 +4,8 @@ The assumptions written here are for right hand drive cars. Please apply to the 
 
 ## Right Hand Drive Cars
 
+Language for Right Hand Drive Cars.
+
 Includes: Malaysia, Singapore, Hong Kong, UK.
 
 * Always use your turn signals
@@ -18,6 +20,7 @@ Includes: Malaysia, Singapore, Hong Kong, UK.
 * Never change direction in the last second
   * This can cause an accident
   * If you are going to possibly miss a turn, just miss it instead of quickly serving to try to make your turn
+* Don't be inconsiderate
 
 Scenario:
 
