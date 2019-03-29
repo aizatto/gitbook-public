@@ -85,6 +85,7 @@
     * [All Hands](notes/archive/company/all-hands.md)
     * [The Problematic CTO](notes/archive/company/the-problematic-cto.md)
     * [Organizational Structure](notes/archive/company/organizational-structure.md)
+  * [Content Creation](notes/archive/content-creation.md)
   * [Coworking Spaces](notes/archive/coworking-spaces.md)
   * [Daily Routine](notes/archive/daily-routine.md)
   * [Dating](notes/archive/dating.md)
