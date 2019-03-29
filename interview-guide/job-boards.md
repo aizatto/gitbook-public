@@ -26,6 +26,8 @@ These sites will help you get a job.
 
 Be careful about enabling each of these sites at once. It can get intense, I got 70+ recruiters reaching out to me.
 
+Some links may include referral codes.
+
 * United States:
   * [A-List](https://alist.co/)
   * [Hired](https://hired.com/x/1ffao)

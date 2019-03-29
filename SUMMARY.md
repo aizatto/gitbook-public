@@ -104,6 +104,7 @@
   * [Property](notes/archive/property.md)
   * [Productivity](notes/archive/productivity.md)
   * [Relationships](notes/archive/relationships.md)
+  * [Referral Codes](notes/archive/referral-codes.md)
   * [Remote Work](notes/archive/remote-work.md)
   * [Stripe](notes/archive/stripe.md)
   * [UX](notes/archive/ux.md)
