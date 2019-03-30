@@ -10,6 +10,7 @@ For some you can just click on the link.
 
 | Company | Code | Details |
 | :--- | :--- | :--- |
+| [23andme](https://refer.23andme.com/s/t4wp7) |  |  |
 | [AirBNB](http://www.airbnb.com/c/afaiz12?s=8) | afaiz12 |  |
 | [BigPay](http://bigpay.link/referrals) | G62KOTYKA9 | We both get $10 |
 | [Fiverr](http://www.fiverr.com/s2/9440968136) | [9440968136](http://tinker.kiwicrate.com/Refer?i=AizatF) |  |
