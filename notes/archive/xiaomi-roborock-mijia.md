@@ -2,16 +2,33 @@
 
 * [English Manual](https://files.miot-global.com/files/vacuum_cleaner/vacuum_cleaner-EN.pdf)
 
+Before running, move/remove:
+
+* Cables
+* iPhone cable
+* Apple Watch cable
+* Chairs
+
 Regularly:
 
-1. Clean main tool
-2. Clean dust bin
-3. Change filter
-4. Wash
-5. Let it dry for 24 hours
-6. Wipe sensors of the main unit, soft, dry cloth
-7. Four cliff sensor
-8. Wall sensor
-9. Charging contacts
-10. pg 12, pg 13
+* Clean main tool
+* Clean dust bin
+* Change filter
+* Wash
+* Let it dry for 24 hours
+* Wipe sensors of the main unit, soft, dry cloth
+* Four cliff sensor
+* Wall sensor
+* Charging contacts
+* pg 12, pg 13
+
+Once a month:
+
+* Replace water tank filter
+* Clean wheel
+* Dock charger: wipe with soft dry cloth
+
+
+
+* [Lazada](https://www.lazada.com.my/products/xiaomi-mi-robot-vacuum-cleaner-i420254066-s610772936.html?spm=a2o6s.10415192.0.0.72e049d7HGyCWl&mp=3): RM 1,199
 

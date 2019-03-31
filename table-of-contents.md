@@ -37,7 +37,7 @@ View document in [GitHub](https://github.com/aizatto/gitbook-public/blob/master/
 | `6` Portfolio, Projects, Tools, Toys | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/projects-tools-toys.md) | [GitBook](https://www.aizatto.com/projects-tools-toys.md) | `25` |
 | `7` Getting into Tech | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/getting-into-tech.md) | [GitBook](https://www.aizatto.com/getting-into-tech.md) | `26` |
 
-## Notes
+### Notes
 
 | Name | GitHub | GitBook | Page |
 | :--- | :--- | :--- | :--- |
@@ -123,6 +123,5 @@ View document in [GitHub](https://github.com/aizatto/gitbook-public/blob/master/
 | `11.32` UX | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/ux.md) | [GitBook](https://www.aizatto.com/notes/archive/ux.md) | `106` |
 | `11.33` Venture Builder | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/venture-builder.md) | [GitBook](https://www.aizatto.com/notes/archive/venture-builder.md) | `107` |
 | `11.34` Video Games | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/video-games.md) | [GitBook](https://www.aizatto.com/notes/archive/video-games.md) | `108` |
-| `11.35` Xiaomi Roborock Mijia | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/xiaomi-roborock-mijia.md) | [GitBook](https://www.aizatto.com/notes/archive/xiaomi-roborock-mijia.md) | `109` |
-| `11.36` xargs | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/xargs.md) | [GitBook](https://www.aizatto.com/notes/archive/xargs.md) | `110` |
+| `11.35` xargs | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/xargs.md) | [GitBook](https://www.aizatto.com/notes/archive/xargs.md) | `109` |
 
