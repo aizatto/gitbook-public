@@ -111,6 +111,7 @@
   * [UX](notes/archive/ux.md)
   * [Venture Builder](notes/archive/venture-builder.md)
   * [Video Games](notes/archive/video-games.md)
+  * [Withings](notes/archive/withings.md)
   * [xargs](notes/archive/xargs.md)
   * [Xiaomi Roborock Mijia](notes/archive/xiaomi-roborock-mijia.md)
 
