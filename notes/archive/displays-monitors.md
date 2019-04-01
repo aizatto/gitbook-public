@@ -16,6 +16,29 @@ Macs do not support DisplayPort daisy-chaining \(multitream / MST\)
 
 * [Source](https://medium.com/@sebvance/everything-you-need-to-know-about-macbook-pros-and-their-lack-of-displayport-mst-multi-stream-98ce33d64af4)
 
+## UWQHD
+
+Ultra Wide Quad High Definition: `3440x1440`
+
+Displays:
+
+* `1146x1440`: if dividing by 3
+  * Cons: Doesn't hit 1280px minimum
+
+Pros:
+
+* Single cable; if going USB-C
+* Can tile 3 windows vertically
+
+Alternatives:
+
+* Three vertically oriented displays
+  * Pros:
+    * Forces clear delineation between displays
+  * Cons:
+    * Bezels \(can get smaller displays\)
+    * More cable/power management
+
 ## Vertical Orientation
 
 Problems:
