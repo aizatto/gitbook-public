@@ -12,6 +12,10 @@ Minimum width: 1280px
 * Cons:
   * Grid does not properly render on vertical oriented desktop
 
+Macs do not support DisplayPort daisy-chaining \(multitream / MST\)
+
+* [Source](https://medium.com/@sebvance/everything-you-need-to-know-about-macbook-pros-and-their-lack-of-displayport-mst-multi-stream-98ce33d64af4)
+
 ## Vertical Orientation
 
 Problems:
