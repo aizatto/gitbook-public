@@ -1,5 +1,11 @@
 # Withings
 
+I bought this brand for:
+
+* Recording data of my and my family's health for the long term
+* Apple Health integration
+* Exporting of data
+
 [https://www.withings.com/us/en/](https://www.withings.com/us/en/)
 
 Pros:
@@ -8,6 +14,7 @@ Pros:
   * Weight
   * Fat %
   * BMI
+  * Blood Pressure Monitor
 * Multi user support
   * Family Support
 * [Data is exportable](https://support.withings.com/hc/en-us/articles/201491377-Health-Mate-Online-Dashboard-Exporting-my-data)
