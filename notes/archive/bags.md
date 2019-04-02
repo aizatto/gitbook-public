@@ -74,7 +74,7 @@ Dislikes:
 
 Dislikes:
 
-* Can't fit 
+* Difficult to fit my iPad Pro 2018 11" and MacBook Pro 15" 2017
 
 ### Everyday Backpack 30L
 
@@ -90,4 +90,6 @@ Dislikes:
 
 * Sometimes bigger than it needs to be
 * Compartmentalization for stuff is difficult
+* Zippers don't securely close at the bottom of the bag
+  * Can easily open small holes and small items can drop out
 
