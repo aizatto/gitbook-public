@@ -99,6 +99,7 @@
   * [git](notes/archive/git.md)
   * [GTD](notes/archive/gtd.md)
   * [Go Lang](notes/archive/go-lang.md)
+  * [Home Device Calling](notes/archive/home-device-calling.md)
   * [Keyboards](notes/archive/keyboards.md)
   * [Migraine](notes/archive/migraine.md)
   * [Movies](notes/archive/movies.md)

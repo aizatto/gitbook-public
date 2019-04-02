@@ -16,6 +16,7 @@
 * When asking people to enter something difficult \(ie, short urls\) and not using base58
   * [https://en.wikipedia.org/wiki/Base58](https://en.wikipedia.org/wiki/Base58)
 * Preventing me from using the back/forward button
+* Stupid password limits
 
 #### Region Locking
 
