@@ -41,6 +41,10 @@ Cons:
 * No sitemap.xml
   * Feature Request [https://gitbook.canny.io/feature-requests/p/sitemap](https://gitbook.canny.io/feature-requests/p/sitemap)
 
+Dislikes:
+
+* Doesn't use same header shortcuts as Google Docs
+
 Limitations:
 
 * See [GitBook and GitHub Limitations](https://docs.gitbook.com/integrations/github/limitations)
