@@ -2,10 +2,17 @@
 
 Note taking serves a different purpose than writing documents. This is just to jot down information.
 
+Also see [Productivity](./)
+
 ## What I Wish For:
 
 * Tags / Taxonomy
 * Automatic Entering of Timestamps
+
+## Requirements for Note Taking
+
+* Has to handle a lot of notes, think 1000s of notes
+* Decent styling
 
 ## Apple Notes
 
@@ -38,4 +45,12 @@ Method of use:
 Used for:
 
 * Notes I know I want to keep long term/archive
+
+## nvAlt / Notational Velocity
+
+This used to be my power horse, but I've stopped using it once syncing with other products worked decently.
+
+[https://brettterpstra.com/projects/nvalt/](https://brettterpstra.com/projects/nvalt/)
+
+
 

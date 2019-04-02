@@ -5,7 +5,9 @@
 
 ## Note Taking
 
-* [Apple Notes](apple/apple-notes.md)
+See [Note Taking](note-taking.md) for more details
+
+* [Apple Notes](../apple/apple-notes.md)
 * Deep Thought
 * GitBook
 * Google Docs
