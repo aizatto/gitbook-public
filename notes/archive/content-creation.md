@@ -1,6 +1,6 @@
 # Content Creation
 
-Many kinds of written content:
+ Many kinds of written content:
 
 * Notes
 * Short Form

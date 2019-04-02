@@ -102,6 +102,7 @@
   * [Keyboards](notes/archive/keyboards.md)
   * [Migraine](notes/archive/migraine.md)
   * [Movies](notes/archive/movies.md)
+  * [Note Taking](notes/archive/note-taking.md)
   * [Password Managers](notes/archive/password-managers.md)
   * [Podcasts](notes/archive/podcasts.md)
   * [Programming Bootcamps](notes/archive/programming-bootcamps.md)
