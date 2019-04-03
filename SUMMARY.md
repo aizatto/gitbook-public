@@ -49,6 +49,7 @@
   * [Versions](notes/javascript/versions.md)
 * [Life](notes/success.md)
 * [Node.js](notes/node.js/README.md)
+  * [Best Practices](notes/node.js/best-practices.md)
   * [eslint](notes/node.js/eslint.md)
   * [Hapi](notes/node.js/hapi.md)
   * [Koa](notes/node.js/koa.md)
