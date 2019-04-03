@@ -1,5 +1,11 @@
 # UX
 
+## UX I like:
+
+* Keyboard shortcuts.
+  * Plus points if it follows vim scrolling
+  * Plus points if it reuses familiar shortcuts
+
 ## UX I hate:
 
 * Over use of Modal dialogs

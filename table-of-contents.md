@@ -37,7 +37,7 @@ View document in [GitHub](https://github.com/aizatto/gitbook-public/blob/master/
 | `6` Portfolio, Projects, Tools, Toys | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/projects-tools-toys.md) | [GitBook](https://www.aizatto.com/projects-tools-toys.md) | `25` |
 | `7` Getting into Tech | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/getting-into-tech.md) | [GitBook](https://www.aizatto.com/getting-into-tech.md) | `26` |
 
-## Notes
+### Notes
 
 | Name | GitHub | GitBook | Page |
 | :--- | :--- | :--- | :--- |
@@ -111,24 +111,23 @@ View document in [GitHub](https://github.com/aizatto/gitbook-public/blob/master/
 | `11.20` git | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/git.md) | [GitBook](https://www.aizatto.com/notes/archive/git.md) | `94` |
 | `11.21` GTD | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/gtd.md) | [GitBook](https://www.aizatto.com/notes/archive/gtd.md) | `95` |
 | `11.22` Go Lang | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/go-lang.md) | [GitBook](https://www.aizatto.com/notes/archive/go-lang.md) | `96` |
-| `11.23` Home Device Calling | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/home-device-calling.md) | [GitBook](https://www.aizatto.com/notes/archive/home-device-calling.md) | `97` |
-| `11.24` Keyboards | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/keyboards.md) | [GitBook](https://www.aizatto.com/notes/archive/keyboards.md) | `98` |
-| `11.25` Migraine | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/migraine.md) | [GitBook](https://www.aizatto.com/notes/archive/migraine.md) | `99` |
-| `11.26` Movies | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/movies.md) | [GitBook](https://www.aizatto.com/notes/archive/movies.md) | `100` |
-| `11.27` Password Managers | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/password-managers.md) | [GitBook](https://www.aizatto.com/notes/archive/password-managers.md) | `101` |
-| `11.28` Podcasts | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/podcasts.md) | [GitBook](https://www.aizatto.com/notes/archive/podcasts.md) | `102` |
-| `11.29` Programming Bootcamps | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/programming-bootcamps.md) | [GitBook](https://www.aizatto.com/notes/archive/programming-bootcamps.md) | `103` |
-| `11.30` Property | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/property.md) | [GitBook](https://www.aizatto.com/notes/archive/property.md) | `104` |
-| `11.31` Productivity | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/productivity/README.md) | [GitBook](https://www.aizatto.com/notes/archive/productivity/README.md) | `105` |
-| `11.31.1` Note Taking | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/productivity/note-taking.md) | [GitBook](https://www.aizatto.com/notes/archive/productivity/note-taking.md) | `106` |
-| `11.32` Relationships | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/relationships.md) | [GitBook](https://www.aizatto.com/notes/archive/relationships.md) | `107` |
-| `11.33` Referral Codes | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/referral-codes.md) | [GitBook](https://www.aizatto.com/notes/archive/referral-codes.md) | `108` |
-| `11.34` Remote Work | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/remote-work.md) | [GitBook](https://www.aizatto.com/notes/archive/remote-work.md) | `109` |
-| `11.35` Stripe | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/stripe.md) | [GitBook](https://www.aizatto.com/notes/archive/stripe.md) | `110` |
-| `11.36` UX | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/ux.md) | [GitBook](https://www.aizatto.com/notes/archive/ux.md) | `111` |
-| `11.37` Venture Builder | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/venture-builder.md) | [GitBook](https://www.aizatto.com/notes/archive/venture-builder.md) | `112` |
-| `11.38` Video Games | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/video-games.md) | [GitBook](https://www.aizatto.com/notes/archive/video-games.md) | `113` |
-| `11.39` Withings | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/withings.md) | [GitBook](https://www.aizatto.com/notes/archive/withings.md) | `114` |
-| `11.40` xargs | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/xargs.md) | [GitBook](https://www.aizatto.com/notes/archive/xargs.md) | `115` |
-| `11.41` Xiaomi Roborock Mijia | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/xiaomi-roborock-mijia.md) | [GitBook](https://www.aizatto.com/notes/archive/xiaomi-roborock-mijia.md) | `116` |
+| `11.23` Keyboards | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/keyboards.md) | [GitBook](https://www.aizatto.com/notes/archive/keyboards.md) | `97` |
+| `11.24` Migraine | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/migraine.md) | [GitBook](https://www.aizatto.com/notes/archive/migraine.md) | `98` |
+| `11.25` Movies | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/movies.md) | [GitBook](https://www.aizatto.com/notes/archive/movies.md) | `99` |
+| `11.26` Password Managers | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/password-managers.md) | [GitBook](https://www.aizatto.com/notes/archive/password-managers.md) | `100` |
+| `11.27` Podcasts | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/podcasts.md) | [GitBook](https://www.aizatto.com/notes/archive/podcasts.md) | `101` |
+| `11.28` Programming Bootcamps | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/programming-bootcamps.md) | [GitBook](https://www.aizatto.com/notes/archive/programming-bootcamps.md) | `102` |
+| `11.29` Property | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/property.md) | [GitBook](https://www.aizatto.com/notes/archive/property.md) | `103` |
+| `11.30` Productivity | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/productivity/README.md) | [GitBook](https://www.aizatto.com/notes/archive/productivity/README.md) | `104` |
+| `11.30.1` Note Taking | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/productivity/note-taking.md) | [GitBook](https://www.aizatto.com/notes/archive/productivity/note-taking.md) | `105` |
+| `11.31` Relationships | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/relationships.md) | [GitBook](https://www.aizatto.com/notes/archive/relationships.md) | `106` |
+| `11.32` Referral Codes | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/referral-codes.md) | [GitBook](https://www.aizatto.com/notes/archive/referral-codes.md) | `107` |
+| `11.33` Remote Work | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/remote-work.md) | [GitBook](https://www.aizatto.com/notes/archive/remote-work.md) | `108` |
+| `11.34` Stripe | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/stripe.md) | [GitBook](https://www.aizatto.com/notes/archive/stripe.md) | `109` |
+| `11.35` UX | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/ux.md) | [GitBook](https://www.aizatto.com/notes/archive/ux.md) | `110` |
+| `11.36` Venture Builder | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/venture-builder.md) | [GitBook](https://www.aizatto.com/notes/archive/venture-builder.md) | `111` |
+| `11.37` Video Games | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/video-games.md) | [GitBook](https://www.aizatto.com/notes/archive/video-games.md) | `112` |
+| `11.38` Withings | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/withings.md) | [GitBook](https://www.aizatto.com/notes/archive/withings.md) | `113` |
+| `11.39` xargs | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/xargs.md) | [GitBook](https://www.aizatto.com/notes/archive/xargs.md) | `114` |
+| `11.40` Xiaomi Roborock Mijia | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/xiaomi-roborock-mijia.md) | [GitBook](https://www.aizatto.com/notes/archive/xiaomi-roborock-mijia.md) | `115` |
 
