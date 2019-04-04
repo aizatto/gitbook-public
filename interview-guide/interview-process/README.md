@@ -114,3 +114,7 @@ Whiteboard sucks:
 * [https://news.ycombinator.com/item?id=13874026](https://news.ycombinator.com/item?id=13874026)
 * [http://they.whiteboarded.me/companies-that-dont-whiteboard.html](http://they.whiteboarded.me/companies-that-dont-whiteboard.html)
 
+#### Google Interview Process
+
+* [https://www.slideshare.net/slavimarinov/a-googler-the-google-interview-process-uncovered](https://www.slideshare.net/slavimarinov/a-googler-the-google-interview-process-uncovered)
+
