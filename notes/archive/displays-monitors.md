@@ -16,6 +16,29 @@ Macs do not support DisplayPort daisy-chaining \(multitream / MST\)
 
 * [Source](https://medium.com/@sebvance/everything-you-need-to-know-about-macbook-pros-and-their-lack-of-displayport-mst-multi-stream-98ce33d64af4)
 
+## Work
+
+3 Vertical Windows:
+
+* I like to split things into 3 windows.
+
+## 4K \(3840x2160\) @ 27"
+
+I didn't like using 4K for my work \(programming, documents\).
+
+Using at 4K:
+
+* Fonts are too small for me
+* I still reduce size to 2560x1440
+
+MacBook allows me to push at:
+
+* 1920x1080
+* 2560x1440
+* 3008x1692
+* 3360x1890
+* 3840x2160
+
 ## UWQHD
 
 Ultra Wide Quad High Definition: `3440x1440`
