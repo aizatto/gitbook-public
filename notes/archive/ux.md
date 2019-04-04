@@ -12,6 +12,7 @@
   * Some Modal dialogs should be pages
   * Some Modal dialogs should rewrite browser url to a page that can load it
   * Modal dialogs are great for small interstitials, not whole pages
+  * Don't block my screen with a modal dialog asking me to subscribe
 * URLs that don't return back to a useful page
 * Making websites that don't fit in a resolution of width of`960x600`
   * This is the resolution of half my laptop screen \(`1920x1200`\)
@@ -23,6 +24,11 @@
   * [https://en.wikipedia.org/wiki/Base58](https://en.wikipedia.org/wiki/Base58)
 * Preventing me from using the back/forward button
 * Stupid password limits
+* Making it difficult to unsubscribe
+
+#### Phone Notifications
+
+Don't spam my phone with marketing notifications.  I know you can't get my attention via email spam, so don't spam me unless I ask for it.
 
 #### Region Locking
 
