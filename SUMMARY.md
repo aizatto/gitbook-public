@@ -6,6 +6,7 @@
   * [Choosing A Company](interview-guide/choosing-a-company.md)
   * [Job Boards](interview-guide/job-boards.md)
   * [Practice](interview-guide/practice.md)
+  * [Technical Interview Cheatsheet](interview-guide/technical-interview-cheatsheet.md)
   * [Interview Process](interview-guide/interview-process/README.md)
     * [Questions to Ask](interview-guide/interview-process/questions-to-ask.md)
     * [Coding](interview-guide/interview-process/coding.md)

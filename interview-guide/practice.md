@@ -4,6 +4,11 @@
 
 * They usually require a special "trick" to solve correctly
 
+## GitHub Repositories
+
+* [https://github.com/aizatto/interview-preparation](https://github.com/aizatto/interview-preparation)
+* [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
 ## Online Practice
 
 * [HackerRank](https://www.hackerrank.com/)
