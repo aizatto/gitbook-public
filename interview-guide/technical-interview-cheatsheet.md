@@ -8,6 +8,7 @@ description: >-
 
 * [https://github.com/aizatto/interview-preparation](https://github.com/aizatto/interview-preparation)
 * [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+* [https://github.com/basarat/algorithms](https://github.com/basarat/algorithms)
 
 ## Soft skills
 
