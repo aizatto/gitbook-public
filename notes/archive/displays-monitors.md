@@ -9,10 +9,16 @@ Minimum width: 1280px
 
 ## Work
 
-[Divvy](https://mizage.com/divvy/) for window management on Mac.
+### Window Management
 
-* Cons:
-  * Grid does not properly render on vertical oriented desktop
+* [Divvy](https://mizage.com/divvy/)
+  * This is the one I personally use
+  * Cons:
+    * Grid does not properly render on vertical oriented desktop
+* [macOS native Split View](https://support.apple.com/en-ca/HT204948)
+* [Moom](https://itunes.apple.com/my/app/moom/id419330170?mt=12&ign-mpt=uo%3D4)
+* [Magnet](https://itunes.apple.com/my/app/magnet/id441258766?mt=12&ign-mpt=uo%3D4)
+* Check out [Product Hunt](https://www.producthunt.com/ask/2355-what-s-the-best-window-manager-for-mac)
 
 #### 3 Vertical Windows:
 
