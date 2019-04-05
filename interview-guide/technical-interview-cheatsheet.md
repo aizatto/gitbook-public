@@ -17,7 +17,7 @@ description: >-
 * Control your excitement.
 * Carefully read the full question
 
-## Technical
+## Technical / Tricks
 
 ### Data structures:
 
