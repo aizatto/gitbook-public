@@ -2,12 +2,14 @@
 
 * [English Manual](https://files.miot-global.com/files/vacuum_cleaner/vacuum_cleaner-EN.pdf)
 
-Before running, move/remove:
+Before running:
 
-* Cables
-* iPhone cable
-* Apple Watch cable
-* Chairs
+* Fill in water tank
+* move/remove:
+  * Cables
+    * iPhone cable
+    * Apple Watch cable
+  * Chairs
 
 Regularly:
 
