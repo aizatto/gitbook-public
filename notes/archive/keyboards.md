@@ -4,6 +4,10 @@ description: A personal self reminder about keyboards available in the market
 
 # Keyboards
 
+## Wants:
+
+* USB C
+
 ## Own
 
 * [WASD Code Keyboard](https://amzn.to/2TPIWww) 87key Cheerry MX Blue
