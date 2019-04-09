@@ -67,7 +67,7 @@ MacBook allows me to push at:
 | :--- | :--- | :--- |
 | 3360x1890 | 1680x1890 | 1120x1890 |
 
-## UWQHD
+## UWQHD \(3440x1440\) @ 34"
 
 Ultra Wide Quad High Definition: `3440x1440`
 
@@ -104,4 +104,39 @@ Problems:
 Macs do not support DisplayPort daisy-chaining \(multitream / MST\)
 
 * [Source](https://medium.com/@sebvance/everything-you-need-to-know-about-macbook-pros-and-their-lack-of-displayport-mst-multi-stream-98ce33d64af4)
+
+## Reviews
+
+### Dell U2717D
+
+2560x1440 @ 27"
+
+Likes:
+
+* I like the almost seamless bezels.
+
+### Dell P2715Q
+
+4K \(3840x2160\) @ 27"
+
+Dislikes:
+
+* Bezels are big
+* Personal for me, I didn't use the 4k
+
+### Dell U3419W
+
+3440x1440 @ 34"
+
+Likes:
+
+* USB-C charges my MacBook Pro 2017 15"
+* You can push audio to the screen
+  * Audio is controlled on screen
+
+Dislikes:
+
+* Bottom Bezel has this plastic strip coming out
+* Wished the 2 usb ports on the side were on the back
+* Screen audio quality is flat
 

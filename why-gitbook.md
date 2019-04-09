@@ -27,6 +27,7 @@ Pros:
   * Browsing is fine on quarter, half or full screen
   * Can’t use Safari’s split screen mode for editing
     * Require’s using full screen, sad
+* Works 1146px width \([UWQD Display](notes/archive/displays-monitors.md): 3440 / 3\)
 
 Cons:
 
