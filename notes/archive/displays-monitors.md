@@ -34,6 +34,18 @@ Pros:
 
 * Great for comparing two things, and keeping notes centered
 
+Cons:
+
+* Can be too tall
+
+Options:
+
+* 3x 24" 4K vertically oriented monitors
+  * Breaks the limit of 1080px width
+  * 24" when rotated
+    * Height: 56cm
+    * Width: 36cm
+
 #### 2 Vertical Windows
 
 I tried this, but I like having one main thing in front of me that I can focus on.
@@ -99,34 +111,31 @@ Problems:
 * Cannot use 1920x1080 displays, as 1080 for the width would be too small
 * 2560x1440 displays, all come in 27" sizes
 
-## Other
-
-Macs do not support DisplayPort daisy-chaining \(multitream / MST\)
-
-* [Source](https://medium.com/@sebvance/everything-you-need-to-know-about-macbook-pros-and-their-lack-of-displayport-mst-multi-stream-98ce33d64af4)
-
 ## Reviews
 
-### Dell U2717D
-
-2560x1440 @ 27"
+### Dell U2717D: 2560x1440 @ 27"
 
 Likes:
 
 * I like the almost seamless bezels.
 
-### Dell P2715Q
+Panel Dimensions
 
-4K \(3840x2160\) @ 27"
+* Height: 33.33cm
+* Width: 60cm
+
+### Dell P2715Q: 4K \(3840x2160\) @ 27"
 
 Dislikes:
 
 * Bezels are big
 * Personal for me, I didn't use the 4k
+* 4K @ 60hz on MacBook Pro 2017 15" does not work as expected
+  * Requires a USB-C to DisplayPort cable
+  * Dongles \(USB-HDMI\) do not work
+    * Output at 30hz
 
-### Dell U3419W
-
-3440x1440 @ 34"
+### Dell U3419W: 3440x1440 @ 34"
 
 Likes:
 
@@ -138,5 +147,28 @@ Dislikes:
 
 * Bottom Bezel has this plastic strip coming out
 * Wished the 2 usb ports on the side were on the back
-* Screen audio quality is flat
+* Screen audio quality is flat, and muffled
+
+Panel Dimensions
+
+* Height: 33.33cm
+
+## Other
+
+### Pixel Pitch / Pixel Per Inch
+
+This is my personal preference. I notice I like it when the Pixel per inch is 109 \(or a ratio of it\). Anything higher than that is too small for my eyes.
+
+| Device | Pixel Per Inch | Pixel Pitch |
+| :--- | :--- | :--- |
+| MacBook Pro 2017 15" | 220 |  |
+| Dell U2717D: 2560x1440 @ 27" | 109 | 0.233mm |
+| Dell U3419W: 3440x1440 @ 34" | 109 | 0.233mm |
+| Dell P2715Q: 4K \(3840x2160\) @ 27" | 163 | 0.1554mm |
+
+### DisplayPort daisy-chaining \(multistream / MST\)
+
+Macs do not support DisplayPort daisy-chaining \(multistream / MST\)
+
+* [Source](https://medium.com/@sebvance/everything-you-need-to-know-about-macbook-pros-and-their-lack-of-displayport-mst-multi-stream-98ce33d64af4)
 
