@@ -106,6 +106,7 @@
   * [Migraine](notes/archive/migraine.md)
   * [Movies](notes/archive/movies.md)
   * [Password Managers](notes/archive/password-managers.md)
+  * [Physical Health](notes/archive/physical-health.md)
   * [Podcasts](notes/archive/podcasts.md)
   * [Programming Bootcamps](notes/archive/programming-bootcamps.md)
   * [Property](notes/archive/property.md)
