@@ -6,6 +6,8 @@ There are three ways to lose weight:
 * Cardio
 * Physical Training
 
+![](../../.gitbook/assets/three-set-venn-diagram-ux-communication.png)
+
 ## Diet
 
 Just doing a diet alone doesn't strengthen any of your muscles.
@@ -40,16 +42,19 @@ Cons:
 
 ## Muscle Training Exercises
 
-* Great for short term \(months or years\) health
-
-Or:
+Also known as:
 
 * Strength Training
+
+Properties:
+
+* Great for short term \(months or years\) health
 
 Pros:
 
 * Builds muscles
-* Longer term burn of calories
+* Muscles burn more calories at rest
+  * Longer term burn of calories
 
 Cons:
 
