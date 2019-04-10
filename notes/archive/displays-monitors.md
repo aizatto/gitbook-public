@@ -149,6 +149,8 @@ Dislikes:
 * Wished the 2 usb ports on the side were on the back
 * Screen audio quality is flat, and muffled
 * It's a little "tight" when windows are vertically tiled for 3 windows at 1146px per window.
+* I think it could it be taller, by an inch or two.
+  * Add more vertical pixels.
 
 Panel Dimensions
 
