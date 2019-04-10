@@ -8,6 +8,11 @@ Overall review:
 * Most things you can already do on your phone
   * But my phone is already a distracting device, so let's limit me even accessing it
 
+Common Uses:
+
+* Finding my phone
+  * Now that I'm not attached to my phone, I misplace my phone more often, but I'm ok with that
+
 Pros:
 
 * Removes me from the addiction/distraction of my phone
@@ -24,7 +29,7 @@ Cons:
 * Airplane mode doesn’t have similar DND feature if “Turn off in 1 hour”
 * Glass seems to get easily scratched
 
-Uses:
+Others Uses:
 
 * Airplane mode
   * For when I want my watch on to track my health, but not be distracted by notifications
