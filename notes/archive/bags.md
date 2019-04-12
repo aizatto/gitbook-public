@@ -54,7 +54,7 @@ Wish:
 
 * Side handle
 
-I chose this over the [Authority](https://www.timbuk2.com/collections/best-sellers/products/1815-authority-laptop-backpack) because I didn't want another compartment because I know I would lose things in it.
+I chose this over the [Authority](https://www.timbuk2.com/collections/best-sellers/products/1815-authority-laptop-backpack) because I didn't want another compartment because I know I would lose things in it. I thought an additional compartment would make it too easy for me to stuff my bag with more stuff, and make it heavier.
 
 ## Peak Design
 
