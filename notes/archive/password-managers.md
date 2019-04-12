@@ -14,6 +14,10 @@ Alternatives:
 
 Can store other secure information \(Credit Card numbers, SSNs, WiFi Routers\).
 
+Dislikes:
+
+* Subscription Service
+
 #### Apple's iCloud KeyChain
 
 I dislike the desktop support. Only works in Safari. I only use it to store hotspot passwords.

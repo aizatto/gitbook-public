@@ -22,11 +22,6 @@ Cons:
 * Doesn't build your heart muscle
 * Doesn't strengthen your muscles
 
-Examples:
-
-* Elliptical
-* Running
-
 ## Cardio
 
 * Great for long term \(decades\) health
@@ -39,6 +34,11 @@ Pros:
 Cons:
 
 * Doesn't strengthen your other muscles
+
+Examples:
+
+* Elliptical
+* Running
 
 ## Muscle Training Exercises
 
