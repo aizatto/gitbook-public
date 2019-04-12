@@ -102,6 +102,60 @@ Alternatives:
     * Bezels \(can get smaller displays\)
     * More cable/power management
 
+## 32:10 3840x1200
+
+Properties:
+
+* 3x 1280
+
+Display:
+
+* Samsung: 43" CJ890
+  * [US: $849.99](https://www.samsung.com/us/computing/monitors/curved/43-cj890-super-ultra-wide-curved-monitor-lc43j890dknxza/)
+  * Not available in Malaysia
+
+## 32:9 \(3840x1080, 5120x1440\)
+
+### 3840x1080
+
+Displays:
+
+* Samsung 49" LC49HG90DMNXZA
+* Cons:
+  * Smaller resolution
+
+### 5120x1440
+
+Properties:
+
+* 2x 2560x1440
+  * 4 windows vertically at 1280 x 1440
+
+Pros:
+
+* Vertical window is 1280px
+  * A little more spacious
+
+Alternatives:
+
+* 2x 27" 2560x1440
+  * Cons:
+    * More cables to manage
+    * Bezel divided in the center
+
+Displays:
+
+* Dell 49" U4919DW
+  * [Dell US Store: $1349.99](https://www.dell.com/en-us/shop/accessories/apd/210-arnw)
+  * Not available in Malaysia
+* Samsung 49" C49RG90SSU
+* [LG 49" 49WL95C-W](https://www.lg.com/us/monitors/lg-49WL95C-W-ultrawide-monitor)
+  * Amazon: $1498.98
+
+Divvy:
+
+* Setup an 8x4 grid
+
 ## Vertical Orientation
 
 Problems:
