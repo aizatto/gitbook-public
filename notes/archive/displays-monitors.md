@@ -147,6 +147,7 @@ Displays:
 
 * Dell 49" U4919DW
   * [Dell US Store: $1349.99](https://www.dell.com/en-us/shop/accessories/apd/210-arnw)
+  * [Dell Singapore Store: $1939.00](https://www.dell.com/en-sg/shop/dell-ultrasharp-49-curved-monitor-u4919dw/apd/210-arfb/monitors-monitor-accessories)
   * Not available in Malaysia
 * Samsung 49" C49RG90SSU
 * [LG 49" 49WL95C-W](https://www.lg.com/us/monitors/lg-49WL95C-W-ultrawide-monitor)
