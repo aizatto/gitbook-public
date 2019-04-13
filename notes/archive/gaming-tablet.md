@@ -32,6 +32,18 @@ Options:
   * [https://www.apple.com/my/apple-arcade/](https://www.apple.com/my/apple-arcade/)
   * Cons:
     * I want to play old games available on Steam
+* PS4 Remote Play
+  * Works on iPhone / iPad
+  * Limited to PS4 games
+  * [https://remoteplay.dl.playstation.net/remoteplay/lang/en/index.html](https://remoteplay.dl.playstation.net/remoteplay/lang/en/index.html)
+  * [https://itunes.apple.com/us/app/ps4-remote-play/id1436192460?mt=8](https://itunes.apple.com/us/app/ps4-remote-play/id1436192460?mt=8)
+* Steamlink
+  * Requires:
+    * Windows Pc
+    * Android Tablet
+    * [https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink)
+  * Doesn't work on iPhone / iPad
+  * [https://store.steampowered.com/steamlink/about/](https://store.steampowered.com/steamlink/about/)
 
 Games I want to play:
 
