@@ -4,6 +4,8 @@ Manually generated with a script from [SUMMARY.md](https://github.com/aizatto/gi
 
 The purpose of this page is so that no matter where I view this page, I can easily jump to the GitHub or GitBook equivalent.
 
+You can also see at a glance, or use your browser's search function to find any pages which may be of interest to you.
+
 View document in [GitHub](https://github.com/aizatto/gitbook-public/blob/master/table-of-contents.md).
 
 ### Table of contents
