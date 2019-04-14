@@ -38,7 +38,7 @@ View document in [GitHub](https://github.com/aizatto/gitbook-public/blob/master/
 | `6` Portfolio, Projects, Tools, Toys | [aizatto.com](https://www.aizatto.com/projects-tools-toys) | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/projects-tools-toys.md) | [GitBook](https://app.gitbook.com/@aizatto/s/public/projects-tools-toys) | `26` |
 | `7` Getting into Tech | [aizatto.com](https://www.aizatto.com/getting-into-tech) | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/getting-into-tech.md) | [GitBook](https://app.gitbook.com/@aizatto/s/public/getting-into-tech) | `27` |
 
-## Notes
+### Notes
 
 | Name | aizatto.com | GitHub | GitBook | Page |
 | :--- | :--- | :--- | :--- | :--- |
