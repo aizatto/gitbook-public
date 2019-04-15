@@ -94,6 +94,7 @@
   * [Dating](notes/archive/dating.md)
   * [Displays / Monitors](notes/archive/displays-monitors.md)
   * [Driving](notes/archive/driving.md)
+  * [eCommerce](notes/archive/ecommerce.md)
   * [Empire Building](notes/archive/empire-building.md)
   * [Facebook for Developers](notes/archive/facebook-for-developers.md)
   * [Fiverr](notes/archive/fiverr.md)
