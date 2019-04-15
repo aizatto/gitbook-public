@@ -20,6 +20,12 @@ Pros:
 * [Data is exportable](https://support.withings.com/hc/en-us/articles/201491377-Health-Mate-Online-Dashboard-Exporting-my-data)
 * Measures body composition
 
+#### IFTT
+
+Use IFTT to track body measurements in a Google Spreadsheet
+
+[https://ifttt.com/applets/149254p](https://ifttt.com/applets/149254p)
+
 ## Body Cardio
 
 [https://www.withings.com/us/en/body-cardio](https://www.withings.com/us/en/body-cardio)
