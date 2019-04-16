@@ -7,6 +7,7 @@
 * [https://www.squarespace.com/ecommerce-website](https://www.squarespace.com/ecommerce-website)
 * [https://magento.com/](https://magento.com/)
 * [https://woocommerce.com/](https://woocommerce.com/)
+* [https://stripe.com/](https://stripe.com/)
 
 
 
