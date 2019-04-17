@@ -17,6 +17,7 @@
 * [CareerCup](https://careercup.com/)
 * [Interview Cake](https://www.interviewcake.com)
 * [InterviewBit](https://www.interviewbit.com/)
+* [http://www.reddit.com/r/cscareerquestions/](http://www.reddit.com/r/cscareerquestions/)
 * [https://www.quora.com/HackerRank-What-are-the-coding-contests-sites-where-companies-hire-from](https://www.quora.com/HackerRank-What-are-the-coding-contests-sites-where-companies-hire-from)
 
 ### InterviewBit
