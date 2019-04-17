@@ -6,6 +6,14 @@ description: 'Notes for https://serverless.com'
 
 ## Commands
 
+### Update serverless
+
+```bash
+npm i -g serverless
+```
+
+### Create typescript project
+
 ```bash
 serverless create --template aws-nodejs-typescript --path project-name
 ```
