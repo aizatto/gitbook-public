@@ -19,7 +19,7 @@ For some you can just click on the link.
 | [Hired](https://hired.com/x/1ffao) |  |  |
 | [Tinker Crate](../node.js/) | [AizatF](http://tinker.kiwicrate.com/Refer?i=AizatF) |  |
 | [Today Tix](http://todaytix.com/refer/TQMWN) | [TQMWN](http://todaytix.com/refer/TQMWN) |  |
-| [Transferwise](https://transferwise.com/u/ezwana) | ezwana | I get $75 off, you save on your first tarnsfer |
+| [Transferwise](https://transferwise.com/u/ezwana) | ezwana | I get $75 off, you save on your first transfer |
 | [Triplebyte](https://triplebyte.com/iv/Sl7BZEg) | Sl7BZEg |  |
 
 Companies I wish that had referral codes:
