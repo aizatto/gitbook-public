@@ -17,4 +17,5 @@ Ditch the Apple podcast app. It sucks. I'm using [Castbox](https://castbox.fm/) 
 * a16z
 * Startup School
 * [Masters of Scale with Reed Hoffman](https://castbox.fm/channel/Masters-of-Scale-with-Reid-Hoffman-id532469)
+* [36 Questions - The Podcast Musical](https://castbox.fm/vc/932883)
 

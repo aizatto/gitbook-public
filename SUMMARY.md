@@ -105,6 +105,7 @@
   * [Home Device Calling](notes/archive/home-device-calling.md)
   * [Keyboards](notes/archive/keyboards.md)
   * [Migraine](notes/archive/migraine.md)
+  * [Musicals](notes/archive/musicals.md)
   * [Movies](notes/archive/movies.md)
   * [Password Managers](notes/archive/password-managers.md)
   * [Physical Health](notes/archive/physical-health.md)
