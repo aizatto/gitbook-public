@@ -89,6 +89,8 @@ MacBook allows me to push at:
 
 If I can find a 35" 4K monitor. Pixel Per Inch: 109. I can use the full 4K at a comfortable display.
 
+Seems I can fit a lot of vertical ext as well `2160px` vs `1440px`.
+
 ## UWQHD \(3440x1440\) @ 34"
 
 Ultra Wide Quad High Definition: `3440x1440`
