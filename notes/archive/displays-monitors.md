@@ -50,7 +50,9 @@ Options:
 
 I tried this, but I like having one main thing in front of me that I can focus on.
 
-## 4K \(3840x2160\) @ 27"
+## 4K \(3840x2160\)
+
+### 27"
 
 I didn't like using 4K for my work \(programming, documents\).
 
@@ -67,7 +69,7 @@ MacBook allows me to push at:
 * 3360x1890
 * 3840x2160
 
-#### 3360x1890
+#### Scaling to 3360x1890 @27"
 
 * Feels like a lot happening at one time in a small space
 * Feels very compressed.
@@ -78,6 +80,10 @@ MacBook allows me to push at:
 | Resolution | 1/2 | 1/3 |
 | :--- | :--- | :--- |
 | 3360x1890 | 1680x1890 | 1120x1890 |
+
+### 34"
+
+* [Dell U3219Q](https://www.dell.com/en-my/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqwp/monitors-monitor-accessories)
 
 ## UWQHD \(3440x1440\) @ 34"
 
@@ -223,6 +229,7 @@ This is my personal preference. I notice I like it when the Pixel per inch is 10
 | Dell U2717D: 2560x1440 @ 27" | 109 | 0.233mm |
 | Dell U3419W: 3440x1440 @ 34" | 109 | 0.233mm |
 | Dell P2715Q: 4K \(3840x2160\) @ 27" | 163 | 0.1554mm |
+| Dell U3219Q: 4K \(3840x2160\) @ 32" | 140 | 0.182mm |
 
 ### DisplayPort daisy-chaining \(multistream / MST\)
 
