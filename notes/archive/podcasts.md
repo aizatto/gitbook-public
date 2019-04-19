@@ -4,7 +4,14 @@
 
 Ditch the Apple podcast app. It sucks. I'm using [Castbox](https://castbox.fm/) for now.
 
-Can try Spotify Podcasts
+* Apple Podcast
+  * Crap app
+* [Castbox](https://castbox.fm/)
+  * My current player
+* [Spotify Podcasts](https://open.spotify.com/genre/podcasts-page)
+  * Doesn't have all players
+  * Even with Spotify Premium, podcasts may have their own ads
+    * I don't blame Spotify Premium or the Podcast, it's sad because I expect having "Spotify Premium" there should be no ads whatsoever
 
 ## Podcasts
 
