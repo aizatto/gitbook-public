@@ -85,6 +85,10 @@ MacBook allows me to push at:
 
 * [Dell U3219Q](https://www.dell.com/en-my/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqwp/monitors-monitor-accessories)
 
+### 35"
+
+If I can find a 35" 4K monitor. Pixel Per Inch: 109. I can use the full 4K at a comfortable display.
+
 ## UWQHD \(3440x1440\) @ 34"
 
 Ultra Wide Quad High Definition: `3440x1440`
