@@ -42,3 +42,25 @@ For example, at the root directory.
 yarn lerna run lint
 ```
 
+## Package Recommendations
+
+### commander: command-line arguments
+
+* [https://www.npmjs.com/package/commander](https://www.npmjs.com/package/commander)
+* Used by `create-react-app`
+
+```bash
+yarn add commander
+```
+
+### fs-extras
+
+> `fs-extra` adds file system methods that aren't included in the native `fs` module and adds promise support to the `fs` methods. It also uses [`graceful-fs`](https://github.com/isaacs/node-graceful-fs) to prevent `EMFILE`errors. It should be a drop in replacement for `fs`.
+
+* [https://www.npmjs.com/package/fs-extra](https://www.npmjs.com/package/fs-extra)
+* Used by `create-react-app`
+
+```bash
+yarn add fs-extra
+```
+

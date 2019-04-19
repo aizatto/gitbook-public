@@ -42,6 +42,7 @@
   * [Collections](notes/javascript/collections.md)
   * [Cons/Dislikes](notes/javascript/cons-dislikes.md)
   * [fetch](notes/javascript/fetch.md)
+  * [Map](notes/javascript/map.md)
   * [Modules](notes/javascript/modules.md)
   * [Object](notes/javascript/object.md)
   * [Regex](notes/javascript/regex.md)
