@@ -40,8 +40,13 @@ service: prototype-messenger-bot-dynamodb
 
 provider:
   tags:
-    projects: prototype-messenger-bot
+    product: prototype-messenger-bot-${opt:stage}
     prototype: true
+  deploymentBucket:
+    tags:
+      product: prototype-messenger-bot-${opt:stage}
+  stackTags:
+    product: prototype-messenger-bot-${opt:stage}
     
 resources:
   Resources:
@@ -127,6 +132,52 @@ resources:
 ```
 
 ## DynamoDB
+
+Dynamic table names
+
+{% code-tabs %}
+{% code-tabs-item title="serverless.yml" %}
+```yaml
+provider:
+  environment:
+    COUNTERS_TABLE: ${self:custom.DYNAMODB.COUNTERS_TABLE}
+    URLS_TABLE: ${self:custom.DYNAMODB.URLS_TABLE}
+
+custom:
+  DYNAMODB: ${file(./tables.js)}
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+{% code-tabs %}
+{% code-tabs-item title="tables.js" %}
+```javascript
+module.exports = (serverless) => {
+  const tables = {
+    COUNTERS_TABLE: 'counters',
+    URLS_TABLE: 'counters',
+  };
+
+  if (serverless.pluginManager.cliCommands[0] !== 'deploy') {
+    return tables;
+  }
+
+  const {service, provider: { stage }} = serverless.service;
+
+  // need to test if I don't use the provider stage
+  const PREFIX = `${service}-${stage}`;
+
+  const deployed_tables = {};
+  for (const key in tables) {
+    const table = tables[key];
+    deployed_tables[key] = `${PREFIX}-${table}`
+  }
+
+  return deployed_tables;
+}
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
 ### Gotchas
 
