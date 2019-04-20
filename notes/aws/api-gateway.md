@@ -76,6 +76,14 @@ export function webhook(event, context, callback) {
          2. Use "www" if you are targetting a subdomain. For example: "www.build.my"
       2. For "Domain name":
          1. Use the AWS APIGateway Target Domain Name. For example: "d1jdvkqtea2e81.cloudfront.net"
+      3. For Status:
+         1. Set to: Traffic to this hostname will go through Cloudflare / DNS and HTTP Proxy \(CDN\)
+
+Test only on `https` . Testing on `http` will redirect to `https` so it looks like nothing is happening.
+
+```bash
+curl --verbose https://dt.cards/
+```
 
 Pieced from:
 
