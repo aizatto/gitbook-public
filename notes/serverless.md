@@ -31,6 +31,28 @@ serverless create --template aws-nodejs-typescript --path project-name
 * Use `tags` in your `serverless.yml` 
   * You'll have to manually tag your IAM roles. AWS doesn't currently support cloudformation tagging of IAM roles.
 
+### Recommended default `serverless.yml`
+
+{% code-tabs %}
+{% code-tabs-item title="serverless.yml" %}
+```yaml
+service: prototype-messenger-bot-dynamodb
+
+provider:
+  tags:
+    projects: prototype-messenger-bot
+    prototype: true
+    
+resources:
+  Resources:
+    ApiGatewayRestApi:
+      Type: AWS::ApiGateway::RestApi
+      Properties:
+        Name: ${self:service}-${opt:stage}
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
 ### One or many \`serverless.yml\`
 
 When working on a project, should you use one or many `serverless.yml` files?
