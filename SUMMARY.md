@@ -94,6 +94,7 @@
   * [Daily Routine](notes/archive/daily-routine.md)
   * [Dating](notes/archive/dating.md)
   * [Displays / Monitors](notes/archive/displays-monitors.md)
+  * [Domain Registrars](notes/archive/domain-registrars.md)
   * [Driving](notes/archive/driving.md)
   * [eCommerce](notes/archive/ecommerce.md)
   * [Empire Building](notes/archive/empire-building.md)

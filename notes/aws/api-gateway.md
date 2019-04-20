@@ -45,3 +45,28 @@ export function webhook(event, context, callback) {
 }
 ```
 
+## Using Custom Domains with Cloudflare
+
+Originally from [http://www.leanx.eu/tutorials/set-up-amazons-api-gateway-custom-domain-with-cloudflare](http://www.leanx.eu/tutorials/set-up-amazons-api-gateway-custom-domain-with-cloudflare)
+
+Recreating here.
+
+1. Open [Cloudflare](https://dash.cloudflare.com/)
+   1. Select your domain and open the "Crypto" tab
+   2. Go to "Origin Certificates" and click "Create Certificate"
+   3. Let Cloudflare generate a private key and a CSR and choose RSA as the private key type
+   4. Make sure that the hostname for your custom API domain is covered. E.g. api.mydomain.com. You can specifically configure this custom domain or use a wildcard such as \*.mydomain.com as is configured by default.
+   5. Select `PEM` as the `Key format`
+2. Open [AWS ACM Console](https://console.aws.amazon.com/acm/home)
+   1. Click "Import Certificate"
+   2. Copy from Cloudflare "`Origin Certificate`" to AWS ACM "`Certificate body`"
+   3. Copy from Cloudflare "`Private key`" to AWS "`Certificate private key`"
+   4. In the certificate chain copy the "`Cloudflare Origin CA - RSA Root`" which can be found here: [https://support.cloudflare.com/hc/en-us/articles/115000479507](https://support.cloudflare.com/hc/en-us/articles/115000479507)
+   5. Click "Review and Import"
+3. Open [AWS API Gateway](https://console.aws.amazon.com/apigateway/home#/custom-domain-names)
+   1. Select "[Custom Domain Names](https://console.aws.amazon.com/apigateway/home#/custom-domain-names)" from the left menu.
+   2. Click the "Create Custom Domain Name" button.
+   3. The next thing you need to do is set up the Mappings of the custom domain in the AWS Console.
+4. In Cloudflare, open the "DNS" tab
+   1. The final step is to create a new CNAME record in CloudFlare to link your domain to the Cloudfront url. When you open the settings page of your custom domain in the AWS console copy the Distribution domain name. This is the domain you need to use when creating the new CNAME record.
+
