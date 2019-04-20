@@ -1,7 +1,5 @@
 # Commit Messages
 
-
-
 Depending on your version control workflow, this can be either `commit message`s or `pull request`s.
 
 ### Sample
@@ -238,6 +236,7 @@ git config --add commit.message FILE
 * [GitHub: Search for PULL\_REQUEST\_TEMPLATE](https://github.com/search?utf8=✓&q=in%3Apath+pull_request_template.md&type=Code&ref=searchresults)
 * [Open Source Templates](https://www.talater.com/open-source-templates/#/)
 * [Kernel Newbies: Patch Philosophy](https://kernelnewbies.org/PatchPhilosophy)
+* [https://github.com/RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide)
 
 ### Angular
 
