@@ -66,7 +66,9 @@ yarn lerna run lint
 
 > The JSON5 Data Interchange Format \(JSON5\) is a superset of [JSON](https://tools.ietf.org/html/rfc7159) that aims to alleviate some of the limitations of JSON by expanding its syntax to include some productions from [ECMAScript 5.1](https://www.ecma-international.org/ecma-262/5.1/).
 
+* [https://json5.org/](https://json5.org/)
 * [https://github.com/json5/json5](https://github.com/json5/json5)
+* [https://www.npmjs.com/package/json5](https://www.npmjs.com/package/json5)
 
 ```bash
 yarn add json5
