@@ -52,7 +52,7 @@ Update `package.json`
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-### Package Management
+#### Package Management
 
 Each package manages it's own `typescript` and `eslint`.
 
@@ -60,6 +60,36 @@ For example, at the root directory.
 
 ```bash
 yarn lerna run lint
+```
+
+## Use JSON5 over JSON
+
+> The JSON5 Data Interchange Format \(JSON5\) is a superset of [JSON](https://tools.ietf.org/html/rfc7159) that aims to alleviate some of the limitations of JSON by expanding its syntax to include some productions from [ECMAScript 5.1](https://www.ecma-international.org/ecma-262/5.1/).
+
+* [https://github.com/json5/json5](https://github.com/json5/json5)
+
+```bash
+yarn add json5
+```
+
+JSON5 Short Example:
+
+```javascript
+{
+  // comments
+  unquoted: 'and you can quote me on that',
+  singleQuotes: 'I can use "double quotes" here',
+  lineBreaks: "Look, Mom! \
+No \\n's!",
+  newLine: "1\n\
+2\n\
+3",
+  hexadecimal: 0xdecaf,
+  leadingDecimalPoint: .8675309, andTrailing: 8675309.,
+  positiveSign: +1,
+  trailingComma: 'in objects', andIn: ['arrays',],
+  "backwardsCompatible": "with JSON",
+}
 ```
 
 ## Package Recommendations
