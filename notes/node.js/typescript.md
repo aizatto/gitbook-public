@@ -51,8 +51,20 @@ Enable in your compiler option:
 
 #### function and object destructuring
 
+[https://mariusschulz.com/blog/typing-destructured-object-parameters-in-typescript](https://mariusschulz.com/blog/typing-destructured-object-parameters-in-typescript)
+
 ```typescript
 function Render(props: {uri?: string}) {
+```
+
+```typescript
+function toJSON(
+  value: any,
+  { pretty }: { pretty: boolean }
+) {
+  const indent = pretty ? 4 : 0;
+  return JSON.stringify(value, null, indent);
+}
 ```
 
 ### Objects

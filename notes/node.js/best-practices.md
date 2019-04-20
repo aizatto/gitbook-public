@@ -32,6 +32,26 @@ Update `lerna.json`
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+Install
+
+```bash
+yarn install
+```
+
+Update `package.json`
+
+{% code-tabs %}
+{% code-tabs-item title="package.json" %}
+```javascript
+{
+  "scripts": {
+    "lint": "yarn run lerna run lint"
+  },
+}
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
 ### Package Management
 
 Each package manages it's own `typescript` and `eslint`.
