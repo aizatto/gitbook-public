@@ -47,16 +47,13 @@ export function webhook(event, context, callback) {
 
 ## Using Custom Domains with Cloudflare
 
-Originally from [http://www.leanx.eu/tutorials/set-up-amazons-api-gateway-custom-domain-with-cloudflare](http://www.leanx.eu/tutorials/set-up-amazons-api-gateway-custom-domain-with-cloudflare)
-
-Recreating here.
-
 1. Open [Cloudflare](https://dash.cloudflare.com/)
    1. Select your domain and open the "Crypto" tab
-   2. Go to "Origin Certificates" and click "Create Certificate"
-   3. Let Cloudflare generate a private key and a CSR and choose RSA as the private key type
-   4. Make sure that the hostname for your custom API domain is covered. E.g. api.mydomain.com. You can specifically configure this custom domain or use a wildcard such as \*.mydomain.com as is configured by default.
-   5. Select `PEM` as the `Key format`
+   2. Change "SSL" to "Full \(strict\)"
+   3. Go to "Origin Certificates" and click "Create Certificate"
+   4. Generate a private key and a CSR and choose RSA as the private key type
+   5. Make sure that the hostname for your custom API domain is covered. E.g. api.mydomain.com. You can specifically configure this custom domain or use a wildcard such as \*.mydomain.com as is configured by default.
+   6. Select `PEM` as the `Key format`
 2. Open [AWS ACM Console](https://console.aws.amazon.com/acm/home) \(us-east-1\)
    1. Click "Import Certificate"
    2. Copy from Cloudflare "`Origin Certificate`" to AWS ACM "`Certificate body`"
@@ -71,12 +68,20 @@ Recreating here.
    5. Click "Base Path Mappings"
       1. Set the relevant path and destination
    6. Hit "Save"
+   7. Wait a maximum of 40 minutes
 4. In Cloudflare, open the "DNS" tab
-   1. The final step is to create a new CNAME record in CloudFlare to link your domain to the Cloudfront url. When you open the settings page of your custom domain in the AWS console copy the Distribution domain name. This is the domain you need to use when creating the new CNAME record.
-   2. Add a CNAME record
+   1. Add a CNAME record
       1. For "Name":
          1. Use "@" if you are targeting the root domain. For example "build.my"
          2. Use "www" if you are targetting a subdomain. For example: "www.build.my"
       2. For "Domain name":
          1. Use the AWS APIGateway Target Domain Name. For example: "d1jdvkqtea2e81.cloudfront.net"
+
+Pieced from:
+
+* [https://stackoverflow.com/questions/36737313/how-to-cname-to-amazon-api-gateway-endpoint](https://stackoverflow.com/questions/36737313/how-to-cname-to-amazon-api-gateway-endpoint)
+* [http://www.leanx.eu/tutorials/set-up-amazons-api-gateway-custom-domain-with-cloudflare](http://www.leanx.eu/tutorials/set-up-amazons-api-gateway-custom-domain-with-cloudflare)
+* [https://medium.com/@bobthomas295/combining-aws-serverless-with-cloudflare-sub-domains-338a1b7b2bd](https://medium.com/@bobthomas295/combining-aws-serverless-with-cloudflare-sub-domains-338a1b7b2bd)
+
+
 
