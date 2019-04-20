@@ -77,13 +77,21 @@ MacBook allows me to push at:
 * Fonts are small.
   * Feels like it can be very straining over long period of time.
 
-| Resolution | 1/2 | 1/3 |
-| :--- | :--- | :--- |
-| 3360x1890 | 1680x1890 | 1120x1890 |
+| Resolution | 1/2 | 1/3 |  |
+| :--- | :--- | :--- | :--- |
+| 3360x1890 | 1680x1890 | 1120x1890 | 1/3 resolution is ok size |
+| 3008x1692 | 1504x1692 | 1002x1682 | 1/3 resolution is awkward size |
 
 ### 34"
 
 * [Dell U3219Q](https://www.dell.com/en-my/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqwp/monitors-monitor-accessories)
+
+| Resolution | Pixel Per Inch | Comment |
+| :--- | :--- | :--- |
+| 3840x2160 | 140 |  |
+| 3360x1890 | 122.5 |  |
+|  | 110 | Ideal |
+| 3008x1692 | 109 | But awkward 1/3 size |
 
 ### 35"
 
