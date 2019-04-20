@@ -6,7 +6,7 @@ There are three ways to lose weight:
 * Cardio
 * Physical Training
 
-![](../../.gitbook/assets/three-set-venn-diagram-ux-communication.png)
+![](../../../.gitbook/assets/three-set-venn-diagram-ux-communication.png)
 
 ## Diet
 

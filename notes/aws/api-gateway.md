@@ -68,7 +68,8 @@ Recreating here.
    2. Click the "Create Custom Domain Name" button.
    3. Enter the "Domain Name"
    4. Select the ACM Certificate \(us-east-1\)
-   5. The next thing you need to do is set up the Mappings of the custom domain in the AWS Console.
+   5. Click "Base Path Mappings"
+      1. Set the relevant path and destination
    6. Hit "Save"
 4. In Cloudflare, open the "DNS" tab
    1. The final step is to create a new CNAME record in CloudFlare to link your domain to the Cloudfront url. When you open the settings page of your custom domain in the AWS console copy the Distribution domain name. This is the domain you need to use when creating the new CNAME record.
