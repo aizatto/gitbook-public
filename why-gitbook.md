@@ -77,7 +77,8 @@ Other notable GitBooks:
 
 ### Task List
 
-* [ ] Task list
+* [ ] Incomplete Task
+* [x] Completed Task
 
 ### Hints
 
