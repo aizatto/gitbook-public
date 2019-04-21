@@ -30,6 +30,7 @@ serverless create --template aws-nodejs-typescript --path project-name
 * Cannot update more than one GSI at a time
 * Use `tags` in your `serverless.yml` 
   * You'll have to manually tag your IAM roles. AWS doesn't currently support cloudformation tagging of IAM roles.
+* Use `sls remove` to remove CloudFormation stacks
 
 ### Recommended default `serverless.yml`
 
