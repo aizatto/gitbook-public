@@ -162,10 +162,10 @@ module.exports = (serverless) => {
     return tables;
   }
 
-  const {service, provider: { stage }} = serverless.service;
+  const stage = serverless.pluginManager.cliOptions['stage'];
 
   // need to test if I don't use the provider stage
-  const PREFIX = `${service}-${stage}`;
+  const PREFIX = `prototype-messenger-bot-${stage}`;
 
   const deployed_tables = {};
   for (const key in tables) {
