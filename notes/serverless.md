@@ -39,6 +39,8 @@ serverless create --template aws-nodejs-typescript --path project-name
 service: prototype-messenger-bot-dynamodb
 
 provider:
+  memorySize: 128
+  timeout: 60
   tags:
     product: prototype-messenger-bot-${opt:stage}
     prototype: true
