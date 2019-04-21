@@ -73,3 +73,39 @@ Other notable GitBooks:
 
 * [Nikita Voloboev](https://wiki.nikitavoloboev.xyz/)
 
+## Available Content Features
+
+### Task List
+
+* [ ] Task list
+
+### Hints
+
+{% hint style="info" %}
+Info
+{% endhint %}
+
+{% hint style="warning" %}
+Warning
+{% endhint %}
+
+{% hint style="danger" %}
+Danger
+{% endhint %}
+
+{% hint style="success" %}
+Success
+{% endhint %}
+
+### Tabs
+
+{% tabs %}
+{% tab title="First Tab" %}
+Tabs
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+

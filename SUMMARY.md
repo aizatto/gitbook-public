@@ -26,7 +26,8 @@
   * [Best Engineers](engineering-code/best-engineers.md)
 * [Why GitBook?](why-gitbook.md)
 * [Portfolio, Projects, Tools, Toys](projects-tools-toys.md)
-* [Getting into Tech](getting-into-tech.md)
+* [Getting into Tech](getting-into-tech/README.md)
+  * [Terminology](getting-into-tech/terminology.md)
 
 ## Notes
 
