@@ -33,23 +33,44 @@ serverless create --template aws-nodejs-typescript --path project-name
 
 ### Recommended default `serverless.yml`
 
+[https://serverless.com/framework/docs/providers/aws/guide/serverless.yml/](https://serverless.com/framework/docs/providers/aws/guide/serverless.yml/)
+
+Naming goals:
+
+```bash
+$project-$stage-$service
+```
+
+For example:
+
+```bash
+url-shortener-prod-lambdas
+url-shortener-prod-dynamodb
+url-shortener-dev-lambdas
+url-shortener-dev-dynamodb
+```
+
 {% code-tabs %}
 {% code-tabs-item title="serverless.yml" %}
 ```yaml
-service: prototype-messenger-bot-dynamodb
+service:
+  name: naming-lambdas
+  awsService: lambda
+  awsName: naming-${opt:stage} 
 
 provider:
   memorySize: 128
-  timeout: 60
+  timeout: 30 # API Gateway limits to 30 seconds
+  apiName: ${self:service.awsName}
   tags:
-    product: prototype-messenger-bot-${opt:stage}
-    prototype: true
+    product: ${self:service.awsName}
   deploymentBucket:
     tags:
-      product: prototype-messenger-bot-${opt:stage}
+      product: ${self:service.awsName}
+  stackName: ${self:service.awsName}-${self:service.awsService}
   stackTags:
-    product: prototype-messenger-bot-${opt:stage}
-    
+    product: ${self:service.awsName}
+
 resources:
   Resources:
     ApiGatewayRestApi:
@@ -125,12 +146,8 @@ By default Serverless names the API Gateway as `$stage-$service`
 This is not scaleable when you have many services. To fix this update your `serverless.yml`:
 
 ```yaml
-resources:
-  Resources:
-    ApiGatewayRestApi:
-      Type: AWS::ApiGateway::RestApi
-      Properties:
-        Name: ${self:service}-${opt:stage}
+provider:
+  apiName: ${self:service}-${stage}
 ```
 
 ## DynamoDB

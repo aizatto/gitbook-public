@@ -10,6 +10,7 @@ Before running:
     * iPhone cable
     * Apple Watch cable
   * Chairs
+  * Plastic bags on the floor
 
 Regularly:
 
