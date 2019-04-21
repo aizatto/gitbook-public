@@ -78,6 +78,11 @@ resources:
       Type: AWS::ApiGateway::RestApi
       Properties:
         Name: ${self:service}-${opt:stage}
+        
+functions:
+  hello:
+    handler: handler.hello
+    name: ${self:provider.stackName}-init
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
