@@ -7,6 +7,15 @@ Minimum width: 1280px
 * Sites now are being unfriendly to smaller screens
 * Or treat smaller screens as mobile devices
 
+Reviews:
+
+* Wirecutter
+  * [The Best Ultrawide Monitors](https://thewirecutter.com/reviews/best-ultrawide-monitors/)
+  * [The Best 27" Monitors](https://thewirecutter.com/reviews/best-27-inch-monitor/)
+  * [The Best 4K Monitors](https://thewirecutter.com/reviews/best-4k-monitors/)
+
+My Preference: Ultrawide &gt; 27" \(2560x1440\) &gt; 4K
+
 ## Work
 
 ### Window Management

@@ -21,6 +21,7 @@ For some you can just click on the link.
 | [Today Tix](http://todaytix.com/refer/TQMWN) | [TQMWN](http://todaytix.com/refer/TQMWN) |  |
 | [Transferwise](https://transferwise.com/u/ezwana) | ezwana | I get $75 off, you save on your first transfer |
 | [Triplebyte](https://triplebyte.com/iv/Sl7BZEg) | Sl7BZEg |  |
+| [Wealthfront](http://wlth.fr/1M0ZHOh) |  | You get an extra $5000 managed for free, I also get |
 
 Companies I wish that had referral codes:
 
