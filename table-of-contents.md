@@ -42,7 +42,7 @@ View document in [GitHub](https://github.com/aizatto/gitbook-public/blob/master/
 | `7` Getting into Tech | [aizatto.com](https://www.aizatto.com/getting-into-tech/) | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/getting-into-tech/README.md) | [GitBook](https://app.gitbook.com/@aizatto/s/public/getting-into-tech/) | `28` |
 | `7.1` Terminology | [aizatto.com](https://www.aizatto.com/getting-into-tech/terminology) | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/getting-into-tech/terminology.md) | [GitBook](https://app.gitbook.com/@aizatto/s/public/getting-into-tech/terminology) | `29` |
 
-## Notes
+### Notes
 
 | Name | aizatto.com | GitHub | GitBook | Page |
 | :--- | :--- | :--- | :--- | :--- |
