@@ -18,7 +18,9 @@ My number one audiobook. Read by Trevor Noah himself. If you had to listen to an
 
 ## Phil Knights' Shoedog
 
-Phil Knight is the founder of Nike. Unfortunately not spoken by Phil Knight himself, but a great book nonetheless. Because Nike was founded in 1964 you can really hear different business was back then.
+* [Audible](https://amzn.to/2XyPaU0)
+
+Phil Knight is the founder of Nike. Unfortunately not spoken by Phil Knight himself, but a great book nonetheless. Because Nike was founded in 1964 you can really hear how different business was back then.
 
 
 
