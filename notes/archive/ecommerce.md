@@ -6,6 +6,7 @@
   * [https://www.shopify.my/online/ecommerce-solutions](https://www.shopify.my/online/ecommerce-solutions)
   * [https://help.shopify.com/](https://help.shopify.com/)
   * [https://www.youtube.com/user/shopify](https://www.youtube.com/user/shopify)
+  * [YouTube: Shopify Help Center](https://www.youtube.com/channel/UCSG_dVp-hi_hWP-Z7DlpRgQ/videos)
 * [https://webflow.com/ecommerce](https://webflow.com/ecommerce)
 * [https://www.squarespace.com/ecommerce-website](https://www.squarespace.com/ecommerce-website)
   * [https://www.squarespace.com/pricing\#commerce](https://www.squarespace.com/pricing#commerce)
@@ -69,4 +70,9 @@ Pros:
 * Has a POS app
 * You can add buttons to your site
 * API
+* 14 day trial
+
+## Squarespace
+
+Trial doesn't support Commerce.
 
