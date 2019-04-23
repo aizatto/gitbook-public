@@ -46,3 +46,9 @@ Things which increase the JavaScript environments complexity:
   * Browser development, so many browser versions
   * Node, webpack vs everything else
 
+#### Array.flat
+
+`Array.flat` only works in Node.js 11+
+
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/flat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
+
