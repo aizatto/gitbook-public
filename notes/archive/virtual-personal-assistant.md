@@ -19,3 +19,8 @@ Currently used with:
 * Apple's Siri
 * Amazon's Alexa
 
+## Potential of a Virtual Personal Assistant
+
+* People with disabilities
+* Assistive devices
+
