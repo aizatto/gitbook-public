@@ -28,6 +28,7 @@
 * Requires a lot of static analysis tools.
   * jshint [http://jshint.com/about/](http://jshint.com/about/) 
   * flow
+* See Node.js's creator Ryan Dahl's "[10 Things I Regret About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA)"
 
 What does this return?
 
