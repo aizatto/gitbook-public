@@ -72,6 +72,15 @@ Pros:
 * API
 * 14 day trial
 
+Store Examples:
+
+* [https://www.shopify.com/blog/shopify-stores](https://www.shopify.com/blog/shopify-stores)
+* [https://themes.shopify.com/](https://themes.shopify.com/)
+
+Other:
+
+* [Fiverr](https://www.fiverr.com/stores/shopify)
+
 ## Squarespace
 
 Trial doesn't support Commerce.

@@ -83,6 +83,7 @@
     * [Mindful vs Mindless](notes/archive/balance/mindful-vs-mindless.md)
     * [New vs Old](notes/archive/balance/new-vs-old.md)
   * [Bags](notes/archive/bags.md)
+  * [Bandwidth Requirements](notes/archive/bandwidth-requirements.md)
   * [B2B/B2C](notes/archive/b2b-b2c.md)
   * [Blockchain](notes/archive/blockchain.md)
   * [Cheap, Good, Fast](notes/archive/cheap-good-fast.md)
