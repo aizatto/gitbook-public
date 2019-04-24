@@ -55,6 +55,7 @@
 * [Node.js](notes/node.js/README.md)
   * [Best Practices](notes/node.js/best-practices.md)
   * [eslint](notes/node.js/eslint.md)
+  * [GraphQL](notes/node.js/graphql.md)
   * [Hapi](notes/node.js/hapi.md)
   * [Knex](notes/node.js/knex.md)
   * [Koa](notes/node.js/koa.md)

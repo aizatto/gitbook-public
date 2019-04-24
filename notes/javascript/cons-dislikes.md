@@ -53,3 +53,13 @@ Things which increase the JavaScript environments complexity:
 
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/flat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
 
+#### Array.values\(\) is different from Object.values\(\)
+
+`Object.values(object)` returns an array of values
+
+`array.values()` returns an iterator
+
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Object/values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values)
+
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/values)
+
