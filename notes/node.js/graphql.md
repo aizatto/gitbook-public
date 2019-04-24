@@ -10,6 +10,8 @@ description: This page refers to the GraphQL JavaScript package
 
 ```text
 src/graphql/Schema.ts
+src/graphql/Mutation.ts
 src/graphql/User.ts (GraphQLObjectType)
+src/graphql/mutations/UserMutation.ts
 ```
 
