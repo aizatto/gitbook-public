@@ -46,6 +46,13 @@ yarn create react-app my-app --typescript
 
 * No `const enum`
 
+### Directory Structure
+
+```bash
+src/components
+src/containers
+```
+
 ## useEffect with async/await
 
 {% code-tabs %}
