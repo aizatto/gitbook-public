@@ -18,6 +18,7 @@ See [https://github.com/aizatto/javascript-repository-template/blob/master/repos
 
 ```bash
 npx lerna init
+leran bootstrap --npm-client=yarn --use-workspaces
 ```
 
 Update `lerna.json`
@@ -27,6 +28,7 @@ Update `lerna.json`
 ```javascript
 {
   "npmClient": "yarn",
+  "useWorkspaces": "true"
 }
 ```
 {% endcode-tabs-item %}
@@ -47,6 +49,21 @@ Update `package.json`
   "scripts": {
     "lint": "yarn run lerna run lint"
   },
+  "workspaces": ["packages/*"]
+}
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+`package.json` when creating a new package:
+
+{% code-tabs %}
+{% code-tabs-item title="packages/new-package/package.json" %}
+```javascript
+{
+  "name": "new-package",
+  "private": true,
+  "version": "0.0.0"
 }
 ```
 {% endcode-tabs-item %}

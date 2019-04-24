@@ -56,6 +56,7 @@
   * [Best Practices](notes/node.js/best-practices.md)
   * [eslint](notes/node.js/eslint.md)
   * [Hapi](notes/node.js/hapi.md)
+  * [Knex](notes/node.js/knex.md)
   * [Koa](notes/node.js/koa.md)
   * [TypeScript](notes/node.js/typescript.md)
   * [Webservers](notes/node.js/webservers.md)

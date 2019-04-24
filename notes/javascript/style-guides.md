@@ -15,7 +15,7 @@
 | import/export |  | [DO NOT USE](https://google.github.io/styleguide/jsguide.html#file-es6-modules) | [Use](https://github.com/airbnb/javascript#modules) |  |  |
 | require\(\) |  | [Custom Solution](https://google.github.io/styleguide/jsguide.html#file-es6-modules) | [DO NOT USE](https://github.com/airbnb/javascript#modules) |  |  |
 | Trailing Commas | Required | [Required](https://google.github.io/styleguide/jsguide.html#features-arrays-trailing-comma) | [Required](https://github.com/airbnb/javascript#commas--dangling) |  |  |
-| camelCase |  |  | objects, functions, instances, local variables |  |  |
+| camelCase |  | parameter names, local variables | objects, functions, instances, local variables |  |  |
 | blank |  |  | objects, functions, instances |  |  |
 
 ## 

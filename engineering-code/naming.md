@@ -24,3 +24,17 @@ $product-$stage-$name
 
 [https://semver.org/](https://semver.org/)
 
+```bash
+$major.$minor.$patch
+```
+
+## Common Names
+
+#### content
+
+Used for user stuff like user generated content, or the content of blog posts
+
+#### title
+
+Used for documents, or posts.
+
