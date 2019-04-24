@@ -51,6 +51,7 @@ yarn create react-app my-app --typescript
 ```bash
 src/components
 src/containers
+src/routes/EntriesRoute.tsx
 ```
 
 ## useEffect with async/await
