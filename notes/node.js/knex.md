@@ -38,8 +38,11 @@ yarn run knex migrate:make $verb_table
 Examples:
 
 ```bash
-yarn run knex migrate:make create_users_table
+yarn run knex migrate:make createTable_users
+yarn run knex migrate:make alterTable_users_add_createdBy
 ```
+
+Sticks to the knex function names `createTable` and `alterTable`
 
 Avoid an "`init`" file.
 

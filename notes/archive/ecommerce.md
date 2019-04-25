@@ -80,6 +80,8 @@ Store Examples:
 Other:
 
 * [Fiverr](https://www.fiverr.com/stores/shopify)
+* Multi Currency Pricing requires plugin
+* Order
 
 ## Squarespace
 
