@@ -122,6 +122,21 @@ No \\n's!",
 yarn add commander
 ```
 
+### dotenv
+
+* [https://github.com/motdotla/dotenv](https://github.com/motdotla/dotenv)
+* Used by `create-react-app`
+
+```bash
+yarn add dotenv
+```
+
+As early as possible:
+
+```javascript
+require('dotenv').config()
+```
+
 ### fs-extras
 
 > `fs-extra` adds file system methods that aren't included in the native `fs` module and adds promise support to the `fs` methods. It also uses [`graceful-fs`](https://github.com/isaacs/node-graceful-fs) to prevent `EMFILE`errors. It should be a drop in replacement for `fs`.

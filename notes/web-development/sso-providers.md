@@ -20,6 +20,12 @@ Pros:
 ### Auth0
 
 * Prettier interface
+* Better documentation
+
+Options
+
+* [https://auth0.com/docs/quickstart/webapp/nodejs](https://auth0.com/docs/quickstart/webapp/nodejs)
+* [https://auth0.com/docs/quickstart/backend/hapi/01-authorization](https://auth0.com/docs/quickstart/backend/hapi/01-authorization)
 
 ### AWS Cognito
 
@@ -27,6 +33,8 @@ Pros:
 * "Drier" / Bleak interface
 * Confusing as hell
 * You can give individual users IAM roles
+* Can be configured with serverless
+  * But not all configuration options
 
 Cons:
 
