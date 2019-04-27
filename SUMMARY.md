@@ -70,6 +70,7 @@
 * [Web Development](notes/web-development/README.md)
   * [Progressive Web App](notes/web-development/progressive-web-app.md)
   * [React](notes/web-development/react.md)
+  * [SSO Providers](notes/web-development/sso-providers.md)
 * [Archive](notes/archive/README.md)
   * [Apple](notes/archive/apple/README.md)
     * [AirPods](notes/archive/apple/airpods.md)
