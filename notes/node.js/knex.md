@@ -65,13 +65,42 @@ Also see [Engineering Code &gt; Naming](../../engineering-code/naming.md#common-
 
 ### Promises:
 
+{% code-tabs %}
+{% code-tabs-item title="20190424104046\_createTable\_users.js" %}
 ```javascript
 exports.up = function(knex, Promise) {
-  
+  return knex.schema
+    .createTable('users', table => {
+      table
+        .uuid('uuid')
+        .primary();
+      table
+        .datetime('createdAt')
+        .defaultTo(knex.fn.now())
+        .index();
+      table
+        .datetime('updatedAt')
+        .defaultTo(knex.fn.now())
+        .index();
+      table
+        .string('name')
+        .collate('utf8mb4_unicode_ci')
+        .defaultTo('')
+        .notNullable();
+      table
+        .string('email')
+        .collate('utf8mb4_unicode_ci')
+        .unique()
+        .defaultTo('')
+        .notNullable();
+    })
 };
 
 exports.down = function(knex, Promise) {
-  
+  return knex.schema
+    .dropTable('users');
 };
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
