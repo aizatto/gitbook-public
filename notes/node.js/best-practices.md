@@ -133,8 +133,17 @@ yarn add dotenv
 
 As early as possible:
 
+JavaScript:
+
 ```javascript
 require('dotenv').config()
+```
+
+TypeScript:
+
+```typescript
+import { config: dotenv } from "dotenv"
+dotenv();
 ```
 
 ### fs-extras
