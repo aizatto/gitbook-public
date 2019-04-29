@@ -19,3 +19,15 @@
 
 How to get GraphQL working with Hapi?
 
+## Routing
+
+* Express: `/users/:user/`
+* Hapi: `/users/{user}/`
+* Reactrouter: `/users/:user/`
+
+Links
+
+* [https://expressjs.com/en/guide/routing.html](https://expressjs.com/en/guide/routing.html)
+* [https://reacttraining.com/react-router/web/api/Route/route-props](https://reacttraining.com/react-router/web/api/Route/route-props)
+* [https://hapijs.com/tutorials/routing?lang=en\_US\#path](https://hapijs.com/tutorials/routing?lang=en_US#path)
+
