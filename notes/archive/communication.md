@@ -9,17 +9,45 @@ Different dimensions
 
 ### Synchronous
 
-In person, face to face.
+Can be active or passive.
+
+Can only provide for a single thread of communication.
+
+#### Active
+
+Direct communication with someone.
 
 May include voice and video calls.
 
-Can provide a passive form of intimacy and connection.
+Examples:
+
+* Being in an engaged conversation with someone.
+
+#### Passive
+
+Can provide a passive form of intimacy and connection. Can be describe as "non verbal intimacy".
+
+Does not require active effort of energy or attention.
+
+Requires just the physical presence of the other person around, and being in the same room or nearby, and doing their own thing.
+
+Examples:
+
+* Being in a nearby space as someone else.
 
 ### Asynchronous
 
 Not in person.
 
-Requires more active engagement.
+Requires more active effort. There is no "Asynchronous Passive" communication similar to the "Synchronous Passive". All Asynchronous communication is active. If you are a lurker you are non contributing. This is ok if there are no expectations of contribution.
+
+Allows you to edit your words before sending it.
+
+Can be better for long form.
+
+Can provide multiple threads of conversation.
+
+Can be used to return to "past conversations".
 
 Examples:
 
@@ -46,5 +74,9 @@ Have to cater to the interests of the group.
 
 ### Asynchronous and Private \(1 to 1\)
 
+Contribution from both parties is most likely expected.
+
 ### Asynchronous and Group \(1 to many\)
+
+Minor contribution from the group is expected.
 
