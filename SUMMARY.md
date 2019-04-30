@@ -92,6 +92,7 @@
   * [Cheap, Good, Fast](notes/archive/cheap-good-fast.md)
   * [Cloud Providers](notes/archive/cloud-providers/README.md)
     * [GCP](notes/archive/cloud-providers/gcp.md)
+  * [Communication](notes/archive/communication.md)
   * [Company](notes/archive/company/README.md)
     * [All Hands](notes/archive/company/all-hands.md)
     * [The Problematic CTO](notes/archive/company/the-problematic-cto.md)
