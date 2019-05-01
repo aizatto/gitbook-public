@@ -83,6 +83,24 @@ class LRUHash {
 }
 ```
 
+#### Enums cannot be keys
+
+This fails:
+
+```typescript
+const enum Key { ... }
+const config: { [key: Key]: string } = {};
+```
+
+Keys can only be `string` or `number`.
+
+Use `Map` instead:
+
+```typescript
+const enum Key { ... }
+const config = new Map<Key, string>();
+```
+
 ### React
 
 [https://github.com/sw-yx/react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet)
