@@ -131,6 +131,7 @@
   * [Remote Work](notes/archive/remote-work.md)
   * [Stripe](notes/archive/stripe.md)
   * [UX](notes/archive/ux.md)
+  * [ufw](notes/archive/ufw.md)
   * [Venture Builder](notes/archive/venture-builder.md)
   * [Video Games](notes/archive/video-games.md)
   * [Virtual Personal Assistant](notes/archive/virtual-personal-assistant.md)
