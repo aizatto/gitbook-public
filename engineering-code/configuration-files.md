@@ -78,6 +78,27 @@ Properties:
 * Spacing is important, which can throw off the configuration
 * Isn't immediately obvious when something is a list/array or a map
 
+### INI
+
+[https://en.wikipedia.org/wiki/INI\_file](https://en.wikipedia.org/wiki/INI_file)
+
+Properties:
+
+* Cannot be deeply nested
+
+```text
+; last modified 1 April 2001 by John Doe
+[owner]
+name=John Doe
+organization=Acme Widgets Inc.
+
+[database]
+; use IP address in case network name resolution is not working
+server=192.0.2.62     
+port=143
+file="payroll.dat"
+```
+
 ## Should you mix formats?
 
 ### Yes
@@ -90,5 +111,15 @@ JSON objects should only be read once.
 
 Environment variables can be read multiple times in the system.
 
+Limit it to just two.
+
 ### No
+
+Don't mix too many formats. Too many different rules to remember. Or use different format for communication between services \(ie: JSON, or XML files\)
+
+## Should you create your own?
+
+No. Unless you have a really good reason.
+
+You have to create a parser.
 
