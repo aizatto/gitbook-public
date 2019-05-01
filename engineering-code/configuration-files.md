@@ -1,0 +1,94 @@
+# Configuration Files
+
+## Formats
+
+### .env
+
+[https://www.npmjs.com/package/dotenv](https://www.npmjs.com/package/dotenv)
+
+Properties:
+
+* Simple configuration
+* Values can only be a string or a number
+* No complicated values
+* Useful when making minor flags or changes
+* Human readable
+
+Example:
+
+{% code-tabs %}
+{% code-tabs-item title=".env" %}
+```bash
+NODE_ENV=production
+PORT=3001
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+### JSON or JSON5
+
+If possible use JSON5 over JSON.
+
+From [https://github.com/json5/json5](https://github.com/json5/json5)
+
+> The JSON5 Data Interchange Format \(JSON5\) is a superset of [JSON](https://tools.ietf.org/html/rfc7159) that aims to alleviate some of the limitations of JSON by expanding its syntax to include some productions from [ECMAScript 5.1](https://www.ecma-international.org/ecma-262/5.1/).
+
+Properties:
+
+* Nested configuration
+* Uses an already familiar programming paradigm
+* Human readable
+
+Example:
+
+{% code-tabs %}
+{% code-tabs-item title="example.json5" %}
+```javascript
+{
+  // comments
+  unquoted: 'and you can quote me on that',
+  singleQuotes: 'I can use "double quotes" here',
+  lineBreaks: "Look, Mom! \
+No \\n's!",
+  hexadecimal: 0xdecaf,
+  leadingDecimalPoint: .8675309, andTrailing: 8675309.,
+  positiveSign: +1,
+  trailingComma: 'in objects', andIn: ['arrays',],
+  "backwardsCompatible": "with JSON",
+}
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+### XML
+
+Properties:
+
+* Complicated
+* Overly verbose
+* Useful for computers interfacing with each other
+
+### YAML \(YAML Ain't Markup Language or Yet Another Markup Language\)
+
+[https://yaml.org/](https://yaml.org/)
+
+Properties:
+
+* Can get complex with the "repeated nodes" syntax
+* Spacing is important, which can throw off the configuration
+* Isn't immediately obvious when something is a list/array or a map
+
+## Should you mix formats?
+
+### Yes
+
+Example: mixing .env and JSON5
+
+When you need a mix of simple and complex data structures?
+
+JSON objects should only be read once.
+
+Environment variables can be read multiple times in the system.
+
+### No
+

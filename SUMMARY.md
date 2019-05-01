@@ -24,6 +24,7 @@
   * [Engineering Data](engineering-code/engineering-data.md)
   * [Pipelines](engineering-code/pipelines.md)
   * [Naming](engineering-code/naming.md)
+  * [Configuration Files](engineering-code/configuration-files.md)
   * [Best Engineers](engineering-code/best-engineers.md)
 * [Why GitBook?](why-gitbook.md)
 * [Portfolio, Projects, Tools, Toys](projects-tools-toys.md)
