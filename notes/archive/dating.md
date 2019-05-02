@@ -22,6 +22,7 @@ This is all "in theory" but may not necessarily be true.
 ### Short Distance
 
 * More opportunities to meet each other regularly
+* More chances for passive intimacy
 
 ### Long Distance
 
@@ -30,4 +31,6 @@ This is all "in theory" but may not necessarily be true.
 * Allows and requires you to be more independent
 * Harder to physically support each other
 * Naturally gives yourself space from your partner
+* Requires more asynchronous communication
+* Less chances for passive intimacy
 

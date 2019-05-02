@@ -5,6 +5,11 @@ Different dimensions
 * Synchronous vs Asynchronous
 * Private \(1 to 1\) vs Group \(1 to many\)
 
+|  | Synchronous | Asynchronous |
+| :--- | :--- | :--- |
+| Private \(1 to 1\) | Synchronous and Private | Asynchronous and Private |
+| Group \(1 to many\) | Synchronous and Group | Asynchronous and Group |
+
 ## Synchronous vs Asynchronous
 
 ### Synchronous
@@ -48,6 +53,21 @@ Can be better for long form.
 Can provide multiple threads of conversation.
 
 Can be used to return to "past conversations".
+
+#### Non Written
+
+Examples:
+
+* Speaker to a large audience \(Group, or Conference\)
+
+#### Written or Recorded Form
+
+* Doesn’t allow for immediate questions or feedback.
+* Easier to distribute \(copy, paste, forward\).
+* Easier for computers to parse.
+* Easier to dissect.
+* May not contain tone, so may require being more explicit with providing context.
+  * May make it easier to misinterpret.
 
 Examples:
 
