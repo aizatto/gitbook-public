@@ -10,6 +10,10 @@ Different dimensions
 | Private \(1 to 1\) | Synchronous and Private | Asynchronous and Private |
 | Group \(1 to many\) | Synchronous and Group | Asynchronous and Group |
 
+Deep Thought Keywords:
+
+* [Communication](http://deepthoughtapp.com/en/keywords/communication/)
+
 ## Synchronous vs Asynchronous
 
 ### Synchronous
