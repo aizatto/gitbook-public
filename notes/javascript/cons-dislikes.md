@@ -63,3 +63,11 @@ Things which increase the JavaScript environments complexity:
 
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/values)
 
+#### No easy way to test that two Sets are equal
+
+```javascript
+new Set(['a', 'b']) == new Set(['b', 'a']); // false
+```
+
+[https://stackoverflow.com/questions/31128855/comparing-ecma6-sets-for-equality](https://stackoverflow.com/questions/31128855/comparing-ecma6-sets-for-equality)
+

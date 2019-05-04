@@ -75,6 +75,8 @@ Other notable GitBooks:
 
 ## Available Content Features
 
+B​esides the standard Markdown features.
+
 ### Task List
 
 * [ ] Incomplete Task

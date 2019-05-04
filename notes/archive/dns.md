@@ -14,3 +14,9 @@ Option 2:
 dscacheutil -fluscache
 ```
 
+### Test
+
+```bash
+host -t ns aizatto.com
+```
+
