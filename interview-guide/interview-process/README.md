@@ -15,6 +15,15 @@ description: Or "Application Process"
 * Did you get hired for a niche? If you aren't familiar with your niche, this could ruin your experience. \(Front End Engineer vs Back End Engineer\)
 * ​[https://www.nytimes.com/2017/04/08/opinion/sunday/the-utter-uselessness-of-job-interviews.html](https://www.nytimes.com/2017/04/08/opinion/sunday/the-utter-uselessness-of-job-interviews.html)
 
+### What Programming Interviews don't test for
+
+* Ability to use tooling \(ie: source control\)
+  * If they don't know tooling, that is something the candidate will have to learn on the job
+* Ability to reformat
+* Ability to navigate and implement APIs, when no examples exist
+* Ability to work with a team
+  * Ability to communicate
+
 ### Preferred:
 
 * Trial of working together to better calibrate a person's ability
