@@ -33,3 +33,64 @@ type Viewer implements EntryConnectionInterface {
 }
 ```
 
+## Resolvers
+
+Naming:
+
+* Postfix function names with `Resolver`
+* Pass in all the args: `root, args, context, info`
+
+{% code-tabs %}
+{% code-tabs-item title="Entry.ts" %}
+```typescript
+// For the connections
+`query {
+  entries(...) {
+     edges...
+  }
+}`
+async function EntriesResolver(root, args, context, info);
+
+`query {
+  entry(...) { }
+}`
+async function EntryResolver(root, args, context, info);
+
+// This should be in the `Tag.ts` file
+`query {
+  entry(...) {
+    tags(...) { 
+      edges...
+    }
+  }
+}`
+async function EntryTagsResolver(root, args, context, info) {
+  // Selects from tags Table
+}
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+```typescript
+export async function EntryResolver(
+  root,
+  args,
+  context: Context,
+  info
+): Promise<any> {
+  const userUUID = getUserUUIDFromContext(context);
+
+  const where = {
+    uuid: args.uuid,
+    createdBy: userUUID
+  };
+
+  const row = await knex
+    .from("users")
+    .where(where)
+    .limit(1)
+    .select();
+  return row.shift();
+}
+```
+
