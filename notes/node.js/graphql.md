@@ -49,14 +49,15 @@ Naming:
      edges...
   }
 }`
-async function EntriesResolver(root, args, context, info);
+export async function EntriesResolver(root, args, context, info);
 
 `query {
   entry(...) { }
 }`
-async function EntryResolver(root, args, context, info);
+export async function EntryResolver(root, args, context, info);
 
-// This should be in the `Tag.ts` file
+// My suggestion is put this function in the `Tag.ts` file.
+// The goal is put all Resolvers that query the same database in the same file
 `query {
   entry(...) {
     tags(...) { 
@@ -64,7 +65,7 @@ async function EntryResolver(root, args, context, info);
     }
   }
 }`
-async function EntryTagsResolver(root, args, context, info) {
+export async function EntryTagsResolver(root, args, context, info) {
   // Selects from tags Table
 }
 ```
