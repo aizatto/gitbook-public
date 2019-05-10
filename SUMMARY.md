@@ -122,6 +122,7 @@
   * [Home Device Calling](notes/archive/home-device-calling.md)
   * [Keyboards](notes/archive/keyboards.md)
   * [Migraine](notes/archive/migraine.md)
+  * [Multiroom Wireless Speaker System](notes/archive/multiroom-wireless-speaker-system.md)
   * [Musicals](notes/archive/musicals.md)
   * [Movies](notes/archive/movies.md)
   * [Password Managers](notes/archive/password-managers.md)
