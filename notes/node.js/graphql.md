@@ -66,7 +66,14 @@ export async function EntryResolver(root, args, context, info);
   }
 }`
 export async function EntryTagsResolver(root, args, context, info) {
-  // Selects from tags Table
+  const row = await knex
+    .from("tags")
+    .where({
+      tag.entryID: root.id,
+    })
+    .select();
+    
+  ...
 }
 ```
 {% endcode-tabs-item %}

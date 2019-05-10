@@ -58,6 +58,7 @@
   * [DraftJS](notes/node.js/draftjs.md)
   * [eslint](notes/node.js/eslint.md)
   * [GraphQL](notes/node.js/graphql.md)
+  * [Relay](notes/node.js/relay.md)
   * [Hapi](notes/node.js/hapi.md)
   * [Knex](notes/node.js/knex.md)
   * [Koa](notes/node.js/koa.md)
