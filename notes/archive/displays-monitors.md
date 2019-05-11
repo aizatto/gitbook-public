@@ -180,6 +180,8 @@ Displays:
   * Not available in Malaysia
 * Samsung 49" C49RG90SSU
 * [LG 49" 49WL95C-W](https://www.lg.com/us/monitors/lg-49WL95C-W-ultrawide-monitor)
+  * HDR10
+  * 10W Speakers
   * Amazon: $1498.98
 
 Divvy:
