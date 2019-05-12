@@ -22,6 +22,12 @@ Visit the [Portfolio, Projects, Tools, Toys](projects-tools-toys.md) page for mo
 * [GitHub](https://www.github.com/aizatto/)
 * [LinkedIn](https://www.linkedin.com/in/aizatto)
 
+### Logbook
+
+A note taking tool to help organize notes by tags.
+
+[https://www.logbook.my/](https://www.logbook.my/)
+
 ### Deep Thought
 
 A place for me to reflect on my thoughts, and hopefully learn from others as well.

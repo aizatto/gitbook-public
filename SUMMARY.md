@@ -2,6 +2,7 @@
 
 * [aizatto.com](README.md)
 * [Table of Contents](table-of-contents.md)
+* [Portfolio, Projects, Tools, Toys](projects-tools-toys.md)
 * [Interview Guide](interview-guide/README.md)
   * [Choosing A Company](interview-guide/choosing-a-company.md)
   * [Job Boards](interview-guide/job-boards.md)
@@ -27,7 +28,6 @@
   * [Configuration Files](engineering-code/configuration-files.md)
   * [Best Engineers](engineering-code/best-engineers.md)
 * [Why GitBook?](why-gitbook.md)
-* [Portfolio, Projects, Tools, Toys](projects-tools-toys.md)
 * [Getting into Tech](getting-into-tech/README.md)
   * [Terminology](getting-into-tech/terminology.md)
 

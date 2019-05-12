@@ -2,6 +2,12 @@
 
 ## Projects
 
+### Logbook
+
+A note taking tool to help organize notes by tags.
+
+[https://www.logbook.my/](https://www.logbook.my/)
+
 ### Deep Thought
 
 A place for me to reflect on my thoughts, and hopefully learn from others as well.
