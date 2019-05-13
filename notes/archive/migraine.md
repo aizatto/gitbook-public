@@ -34,6 +34,10 @@ Medication:
   * Caffeine 65mg
   * Take 2 tablets with water
   * Do not take more than 2 a day
+* Excedrin
+  * Acetaminophen 250mg
+  * Aspirin 250 mg \(NSAID\)
+  * Caffeine 65mg
 * Caffox
   * Ergotamine tartrate \(1mg\), Caffeine \(100mg\)
 * Ibuprofen
