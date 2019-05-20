@@ -26,6 +26,10 @@ brew install \
   mariadb
 ```
 
+```bash
+brew cask install docker kitematic
+```
+
 [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli):
 
 ```bash
