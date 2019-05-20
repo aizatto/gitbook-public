@@ -73,6 +73,10 @@ Other notable GitBooks:
 
 * [Nikita Voloboev](https://wiki.nikitavoloboev.xyz/)
 
+Other
+
+* [GitBook keyboard shortcuts](https://docs.gitbook.com/keyboard-shortcuts)
+
 ## Available Content Features
 
 B​esides the standard Markdown features.

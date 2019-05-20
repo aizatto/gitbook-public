@@ -27,7 +27,15 @@ brew install \
 ```
 
 ```bash
-brew cask install docker kitematic
+brew cask install \
+    docker \
+    kitematic \
+    visual-studio-code \
+    navicat-for-postgresql \
+    postico \
+    postman \
+    sequel-pro \
+    vlc
 ```
 
 [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli):
