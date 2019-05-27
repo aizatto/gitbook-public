@@ -59,15 +59,6 @@
 
 ### Toys I want to build
 
-* Note Taking App
-  * With tags/taxonomies
-  * Editing interface similar to GitBook WYSIWYG
-    * Possibly using [draft-js](http://facebook.github.io/draft-js)
-      * [https://www.draft-js-plugins.com/](https://www.draft-js-plugins.com/)
-      * [https://www.draft-js-plugins.com/plugin/side-toolbar](https://www.draft-js-plugins.com/plugin/side-toolbar)
-      * [https://www.draft-js-plugins.com/plugin/inline-toolbar](https://www.draft-js-plugins.com/plugin/inline-toolbar)
-      * Need export to markdown support
-        * [https://npmcompare.com/compare/draft-js-export-markdown,draftjs-md-converter,draftjs-to-markdown,markdown-draft-js](https://npmcompare.com/compare/draft-js-export-markdown,draftjs-md-converter,draftjs-to-markdown,markdown-draft-js)
 * Slido clone
 
 ### Logistics
