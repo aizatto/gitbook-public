@@ -18,7 +18,7 @@ See [https://github.com/aizatto/javascript-repository-template/blob/master/repos
 
 ```bash
 npx lerna init
-leran bootstrap --npm-client=yarn --use-workspaces
+npx lerna bootstrap --npm-client=yarn --use-workspaces
 ```
 
 Update `lerna.json`
