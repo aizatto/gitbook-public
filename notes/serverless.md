@@ -15,7 +15,9 @@ npm i -g serverless
 ### Create typescript project
 
 ```bash
-serverless create --template aws-nodejs-typescript --path project-name
+serverless create \
+  --template aws-nodejs-typescript \
+  --path aws-lambdas
 ```
 
 ## Best Practices / Learnings So Far
