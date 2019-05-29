@@ -14,19 +14,19 @@
 
 | Node | TypeScript Target | Support |
 | :--- | :--- | :--- |
-| 6.17 | es5 | AWS Lambda Node v6.10 suppor |
+| 6.17 | es5 | AWS Lambda Node v6.10 support |
 |  | es6  |  |
-| 8.10-9.11.2 | es2016 |  |
-| 8.10-9.11.2 | es2017 | AWS Lambda Node v8.10 support |
-|  | es2018 |  |
-|  | es2019 |  |
+| 8.10-9.11.2 | [es2016](https://node.green/#ES2016) |  |
+| 8.10-9.11.2 | [es2017](https://node.green/#ES2017) | AWS Lambda Node v8.10 support |
+| 10-nightly | [es2018](https://node.green/#ES2018) | AWS Lambda Node v10.x support |
+|  | [es2019](https://node.green/#ES2019) |  |
 
 General Rules:
 
 * If you are targeting for web set target to `es5`
-* If you targeting for AWS Lambda, set your target to `es2017`
-  * `Node.js v8.10` supports `es2017`
-* If you are targeting for local and using the latest node, go for `es2018`
+* If you targeting for AWS Lambda, set your target to `es2018`
+  * `Node.js v10.x` supports `es2018`
+* If you are targeting for local and using the latest node, go for `es2019`
   * I'm assuming you can target for `esnext` as well as it wouldn't make sense to write code that the latest Node.js could write...but I could be wrong
 
 ## Compiler Options
