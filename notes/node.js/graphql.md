@@ -102,3 +102,25 @@ export async function EntryResolver(
 }
 ```
 
+## Bugs
+
+## Could not convert from GraphQL type String
+
+When running `relay-compiler` I would get this error:
+
+> Could not convert from GraphQL type String
+
+Environment: Lerna with multiple `graphql` packages installed
+
+Solution specify `resolutions` in local `package.json`:
+
+{% code-tabs %}
+{% code-tabs-item title="package.json" %}
+```text
+"resolutions": {
+  "graphql": $your_version
+}
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
