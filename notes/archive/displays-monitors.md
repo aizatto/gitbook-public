@@ -131,6 +131,24 @@ Alternatives:
     * Bezels \(can get smaller displays\)
     * More cable/power management
 
+## 21:9 3880x1600 @ 38"
+
+Pros:
+
+* Comfortably fit 3x1280 windows
+* Vertical height is larger at 1600 \(vs 1440\)
+
+Models:
+
+* Dell U3818DW
+  * [https://www.dell.com/en-us/shop/accessories/apd/210-amrc](https://www.dell.com/en-us/shop/accessories/apd/210-amrc)
+  * [https://www.bhphotovideo.com/c/product/1349058-REG/dell\_u3818dw\_ultrasharp\_38\_curved.html](https://www.bhphotovideo.com/c/product/1349058-REG/dell_u3818dw_ultrasharp_38_curved.html)
+  * [https://www.dell.com/en-hk/work/shop/dell-ultrasharp-38-curved-monitor-u3818dw/apd/210-amwo/monitors-monitor-accessories](https://www.dell.com/en-hk/work/shop/dell-ultrasharp-38-curved-monitor-u3818dw/apd/210-amwo/monitors-monitor-accessories)
+  * [https://www.amazon.com/Dell-Screen-LED-Lit-Monitor-U3818DW/dp/B073FHWTPL/ref=sr\_1\_3?keywords=U3818DW&qid=1558253484&s=gateway&sr=8-3](https://www.amazon.com/Dell-Screen-LED-Lit-Monitor-U3818DW/dp/B073FHWTPL/ref=sr_1_3?keywords=U3818DW&qid=1558253484&s=gateway&sr=8-3)
+* LG 38WK95C-W
+  * HDR 10
+  * [https://www.lg.com/us/monitors/lg-38WK95C-W-ultrawide-monitor](https://www.lg.com/us/monitors/lg-38WK95C-W-ultrawide-monitor)
+
 ## 32:10 3840x1200
 
 Properties:
