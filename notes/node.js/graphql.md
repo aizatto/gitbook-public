@@ -124,3 +124,12 @@ Solution specify `resolutions` in local `package.json`:
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+Worse case, nuke your `node_modules`:
+
+```bash
+rm -rf \
+  packages/your-package/node_modules/ \
+  node_modules/ \
+  yarn.lock
+```
+
