@@ -18,6 +18,7 @@ brew install \
   hub \
   macvim \
   watch \
+  watchman \
   yarn
 ```
 
