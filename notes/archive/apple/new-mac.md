@@ -72,6 +72,11 @@ curl https://sdk.cloud.google.com | bash
 * [VLC](http://www.videolan.org)
 * [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 
+Controlling Sound \(to HDMI/DisplayPort/USB-C\)
+
+* [https://www.reddit.com/r/MacOS/comments/9nipy4/samsung\_c43j89\_monitor\_on\_macbook\_pro\_2018\_no/](https://www.reddit.com/r/MacOS/comments/9nipy4/samsung_c43j89_monitor_on_macbook_pro_2018_no/)
+* [https://github.com/the0neyouseek/MonitorControl/releases](https://github.com/the0neyouseek/MonitorControl/releases)
+
 ### Programming
 
 * Node.js: [nvm](https://github.com/creationix/nvm)

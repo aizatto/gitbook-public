@@ -1,4 +1,12 @@
+---
+description: Domain Name System (DNS)
+---
+
 # DNS
+
+Also see:
+
+* [VPN](vpn.md)
 
 macOS clear DNS cache. \(macOS 10.10.4 and above\)
 

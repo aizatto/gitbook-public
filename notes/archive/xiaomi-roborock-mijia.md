@@ -35,3 +35,9 @@ Once a month:
 
 * [Lazada](https://www.lazada.com.my/products/xiaomi-mi-robot-vacuum-cleaner-i420254066-s610772936.html?spm=a2o6s.10415192.0.0.72e049d7HGyCWl&mp=3): RM 1,199
 
+## FAQ:
+
+Problem: Cannot receive invite
+
+You must be in the same region
+

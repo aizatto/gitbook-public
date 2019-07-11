@@ -59,9 +59,11 @@ Options:
 
 I tried this, but I like having one main thing in front of me that I can focus on.
 
-## 4K \(3840x2160\)
+## Aspect Ratios
 
-### 27"
+### 4K \(3840x2160\)
+
+#### 27"
 
 I didn't like using 4K for my work \(programming, documents\).
 
@@ -91,7 +93,7 @@ MacBook allows me to push at:
 | 3360x1890 | 1680x1890 | 1120x1890 | 1/3 resolution is ok size |
 | 3008x1692 | 1504x1692 | 1002x1682 | 1/3 resolution is awkward size |
 
-### 34"
+#### 34"
 
 * [Dell U3219Q](https://www.dell.com/en-my/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqwp/monitors-monitor-accessories)
 
@@ -102,13 +104,13 @@ MacBook allows me to push at:
 |  | 110 | Ideal |
 | 3008x1692 | 109 | But awkward 1/3 size |
 
-### 35"
+#### 35"
 
 If I can find a 35" 4K monitor. Pixel Per Inch: 109. I can use the full 4K at a comfortable display.
 
 Seems I can fit a lot of vertical ext as well `2160px` vs `1440px`.
 
-## UWQHD \(3440x1440\) @ 34"
+### UWQHD \(3440x1440\) @ 34"
 
 Ultra Wide Quad High Definition: `3440x1440`
 
@@ -131,7 +133,7 @@ Alternatives:
     * Bezels \(can get smaller displays\)
     * More cable/power management
 
-## 21:9 3880x1600 @ 38"
+### 21:9 3880x1600 @ 38"
 
 Pros:
 
@@ -149,7 +151,7 @@ Models:
   * HDR 10
   * [https://www.lg.com/us/monitors/lg-38WK95C-W-ultrawide-monitor](https://www.lg.com/us/monitors/lg-38WK95C-W-ultrawide-monitor)
 
-## 32:10 3840x1200
+### 32:10 3840x1200
 
 Properties:
 
@@ -161,9 +163,9 @@ Display:
   * [US: $849.99](https://www.samsung.com/us/computing/monitors/curved/43-cj890-super-ultra-wide-curved-monitor-lc43j890dknxza/)
   * Not available in Malaysia
 
-## 32:9 \(3840x1080, 5120x1440\)
+### 32:9 \(3840x1080, 5120x1440\)
 
-### 3840x1080
+#### 3840x1080
 
 Displays:
 
@@ -171,7 +173,7 @@ Displays:
 * Cons:
   * Smaller resolution
 
-### 5120x1440
+#### 5120x1440
 
 Properties:
 
@@ -260,6 +262,17 @@ Panel Dimensions
 
 * Height: 33.33cm
 
+### Dell U3818DW: 3840x1600 @ 38"
+
+My current monitor:
+
+Likes:
+
+* Fits 3x 1280 windows
+* Speakers are good
+
+Similar likes and dislikes to Dell U3419W
+
 ## Other
 
 ### Pixel Pitch / Pixel Per Inch
@@ -279,4 +292,11 @@ This is my personal preference. I notice I like it when the Pixel per inch is 10
 Macs do not support DisplayPort daisy-chaining \(multistream / MST\)
 
 * [Source](https://medium.com/@sebvance/everything-you-need-to-know-about-macbook-pros-and-their-lack-of-displayport-mst-multi-stream-98ce33d64af4)
+
+### Macs do not support CEC or HDMI controls
+
+Controlling Sound \(to HDMI/DisplayPort/USB-C\)
+
+* [https://www.reddit.com/r/MacOS/comments/9nipy4/samsung\_c43j89\_monitor\_on\_macbook\_pro\_2018\_no/](https://www.reddit.com/r/MacOS/comments/9nipy4/samsung_c43j89_monitor_on_macbook_pro_2018_no/)
+* [https://github.com/the0neyouseek/MonitorControl/releases](https://github.com/the0neyouseek/MonitorControl/releases)
 
