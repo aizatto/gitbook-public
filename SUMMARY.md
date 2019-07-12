@@ -140,6 +140,7 @@
   * [Relationships](notes/archive/relationships.md)
   * [Referral Codes](notes/archive/referral-codes.md)
   * [Remote Work](notes/archive/remote-work.md)
+  * [Scraping](notes/archive/scraping.md)
   * [Stripe](notes/archive/stripe.md)
   * [Singapore](notes/archive/singapore.md)
   * [UX](notes/archive/ux.md)
