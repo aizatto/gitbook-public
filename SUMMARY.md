@@ -149,6 +149,7 @@
   * [Video Games](notes/archive/video-games.md)
   * [Virtual Personal Assistant](notes/archive/virtual-personal-assistant.md)
   * [VPN](notes/archive/vpn.md)
+  * [WebSocket](notes/archive/websocket.md)
   * [Withings](notes/archive/withings.md)
   * [Xiaomi Roborock Mijia](notes/archive/xiaomi-roborock-mijia.md)
 
