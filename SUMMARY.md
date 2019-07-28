@@ -31,6 +31,7 @@
 * [Why GitBook?](why-gitbook.md)
 * [Getting into Tech](getting-into-tech/README.md)
   * [Terminology](getting-into-tech/terminology.md)
+* [Personal Goals](personal-goals.md)
 
 ## Notes
 
