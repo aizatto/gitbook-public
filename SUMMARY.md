@@ -29,6 +29,8 @@
   * [Best Engineers](engineering-code/best-engineers/README.md)
     * [Messenger Groups](engineering-code/best-engineers/messenger-groups.md)
 * [Engineering Management](engineering-management/README.md)
+  * [New Reports](engineering-management/new-reports.md)
+  * [1:1s](engineering-management/1-1s.md)
   * [Resources](engineering-management/resources.md)
 * [Why GitBook?](why-gitbook.md)
 * [Getting into Tech](getting-into-tech/README.md)
