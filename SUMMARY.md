@@ -28,6 +28,8 @@
   * [Configuration Files](engineering-code/configuration-files.md)
   * [Best Engineers](engineering-code/best-engineers/README.md)
     * [Messenger Groups](engineering-code/best-engineers/messenger-groups.md)
+* [Engineering Management](engineering-management/README.md)
+  * [Resources](engineering-management/resources.md)
 * [Why GitBook?](why-gitbook.md)
 * [Getting into Tech](getting-into-tech/README.md)
   * [Terminology](getting-into-tech/terminology.md)
