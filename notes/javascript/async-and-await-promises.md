@@ -61,3 +61,20 @@ start
 
 * Always have a `catch()` to ensure you can see all errors.
 
+## Promise.all
+
+Gotcha:
+
+* You have to call `.catch()` on each of the promises
+* You should only catch things which are idempotent; for example:
+  * Sending emails
+
+```typescript
+await Promise.all([
+  ...,
+  ...,
+].map((promise) => promise.catch(error => console.error(error))));
+```
+
+
+
