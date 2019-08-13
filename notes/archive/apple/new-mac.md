@@ -27,15 +27,19 @@ brew install \
   mariadb
 ```
 
+[https://github.com/Homebrew/homebrew-cask/tree/master/Casks](https://github.com/Homebrew/homebrew-cask/tree/master/Casks)
+
 ```bash
 brew cask install \
     docker \
+    iterm2 \
     kitematic \
-    visual-studio-code \
-    navicat-for-postgresql \
+    little-snitch \
+    navicat-premium \
     postico \
     postman \
     sequel-pro \
+    visual-studio-code \
     vlc
 ```
 
