@@ -34,6 +34,12 @@ A place for me to reflect on my thoughts, and hopefully learn from others as wel
 
 [https://www.deepthoughtapp.com/](https://www.deepthoughtapp.com/)
 
+### Cashbox
+
+Personal finance tracker.
+
+[https://www.cashbox.dev/](https://www.cashbox.dev/)
+
 ### build.my
 
 Malaysian event aggregator for technology and startup communities.
