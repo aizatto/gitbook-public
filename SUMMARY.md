@@ -72,6 +72,7 @@
   * [TypeScript](notes/node.js/typescript.md)
   * [Webservers](notes/node.js/webservers.md)
 * [Prototyping](notes/prototyping.md)
+* [Raspberry Pi](notes/raspberry-pi.md)
 * [Serverless](notes/serverless.md)
 * [Software Engineering](notes/software-engineering/README.md)
   * [Software Architectures](notes/software-engineering/software-architectures.md)

@@ -22,9 +22,14 @@ brew install \
   yarn
 ```
 
+dotfiles [https://github.com/aizatto/dotfiles](https://github.com/aizatto/dotfiles)
+
 ```bash
-brew install \
-  mariadb
+mkdir src
+cd src
+git clone https://github.com/aizatto/dotfiles.git
+cd dotfiles
+./install.sh
 ```
 
 [https://github.com/Homebrew/homebrew-cask/tree/master/Casks](https://github.com/Homebrew/homebrew-cask/tree/master/Casks)

@@ -8,6 +8,10 @@ You can also see at a glance, or use your browser's search function to find any 
 
 View document in [GitHub](https://github.com/aizatto/gitbook-public/blob/master/table-of-contents.md).
 
+### Quick Links:
+
+* [GitBook Login](https://app.gitbook.com/login?utm_source=content&utm_medium=trademark&utm_campaign=aizatto)
+
 ### Table of contents
 
 | Name | aizatto.com | GitHub | GitBook | Page |
