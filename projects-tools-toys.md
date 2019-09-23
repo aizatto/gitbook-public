@@ -38,9 +38,9 @@ I use timestamps a lot to journal, write notes or reports. It helps me organize 
 
 ### WhatsApp
 
-I sometimes have to message people on WhatsApp, but I don't necessarily want to add their contact to my address book.
+I occasionally have to message stranger on WhatsApp, but I don't necessarily want to add their contact to my address book.
 
-You can use a WhatsApp "API" to open up message to a phone number, without having it in your phone book
+You can use a WhatsApp "API" to open up message to a phone number, without having it in your phone book.
 
 * [https://whatsapp.aizatto.com/](https://whatsapp.aizatto.com/)
 * [https://github.com/aizatto/whatsapp](https://github.com/aizatto/whatsapp)
