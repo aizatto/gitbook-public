@@ -88,3 +88,23 @@ enable_uart=1
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+## Tips
+
+Set a predictable IP address by either:
+
+1. Setting your DHCP server to assign the IP
+2. Setting up a static IP
+
+Suggestions for IP Address: Set the IP Address to the Raspberry Pi Version, for example, this is my home network:
+
+* 192.168.0.3 - Raspberry Pi 3
+* 192.168.0.4 - Raspberry Pi 4
+
+If I et more Raspberry Pis, I may extend to use double digits, for Example:
+
+* 192.168.0.30 - Raspberry Pi 3 \#1
+* 192.168.0.31 - Raspberry Pi 3 \#2
+* 192.168.0.40 - Raspberry Pi 4 \#1
+* 192.168.0.41 - Raspberry Pi 4 \#2
+* 192.168.0.42 - Raspberry Pi 4 \#3
+
