@@ -90,6 +90,8 @@ enable_uart=1
 
 ## Tips
 
+### IP Addresses
+
 Set a predictable IP address by either:
 
 1. Setting your DHCP server to assign the IP
@@ -107,4 +109,13 @@ If I et more Raspberry Pis, I may extend to use double digits, for Example:
 * 192.168.0.40 - Raspberry Pi 4 \#1
 * 192.168.0.41 - Raspberry Pi 4 \#2
 * 192.168.0.42 - Raspberry Pi 4 \#3
+
+### Hostnames
+
+Using `sudo raspi-config` set your hostname to something memorable. For example, in my network I have
+
+* pi3
+* pi4
+
+This allows me to easily do `ssh pi@pi3.local`
 
