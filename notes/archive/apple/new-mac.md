@@ -100,7 +100,7 @@ Controlling Sound \(to HDMI/DisplayPort/USB-C\)
 * Keyboard &gt; Keyboard &gt; Modifier Keys &gt; Change Caps Lock to Control
 * Trackpad &gt; Max
 * Bluetooth &gt; Show Bluetooth in menu bar
-* Security & Privacy &gt; General &gt; Show a message when the screen is locked: If found, please contact aizat.faiz@gmail.com
+* Security & Privacy &gt; General &gt; Show a message when the screen is locked: If found, please contact example@example.com
 * Sound &gt; Show volume in menu bar
 * Sharing &gt; Name
 
