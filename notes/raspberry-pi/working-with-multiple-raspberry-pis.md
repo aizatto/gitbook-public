@@ -77,7 +77,7 @@ On the `server`, observe you are getting a request from the `client`.
 
 ### How it works
 
-`apt-cacher-ng` is a proxy and stores files in `/var/cache/apt-cacher-ng/` . `apt-catcher-ng` will  publicize it exists over mDNS
+`apt-cacher-ng` is a proxy and stores files in `/var/cache/apt-cacher-ng/` . `apt-catcher-ng` will  publicize it exists over mDNS using `avahi-daemon`.
 
 #### Debugging
 
