@@ -42,7 +42,7 @@ From [https://my.cytron.io/p-pl2303hx-usb-to-ttl-serial-cable](https://my.cytron
 5. Plug in Raspberry Pi to USB Port
 6. Discover serial device: `ls /dev/cu.*`
    1. Mine was `/dev/cu.usbserial`
-7. Connect to device: `screen /dev/cu.usbserial 115200`
+7. Connect to device: `sudo screen /dev/cu.usbserial 115200`
 
 Instructions adapted from [https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable/software-installation-mac](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable/software-installation-mac
 )
