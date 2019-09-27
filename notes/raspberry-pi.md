@@ -119,3 +119,16 @@ Using `sudo raspi-config` set your hostname to something memorable. For example,
 
 This allows me to easily do `ssh pi@pi3.local`
 
+### File Browser
+
+Edit code via Visual Studio Code [https://code.visualstudio.com/docs/remote/ssh](https://code.visualstudio.com/docs/remote/ssh)
+
+{% hint style="danger" %}
+Editting code doesn't work with a Raspberry Pi Zero, because the armv6l architecture is not supported. Raspberry Pi 3 and Raspberry Pi 4 run armv7l.
+{% endhint %}
+
+Browse files using SSHFS
+
+* homebrew: brew install sshfs
+* GUI [https://github.com/dstuecken/sshfs-gui](https://github.com/dstuecken/sshfs-gui)
+
