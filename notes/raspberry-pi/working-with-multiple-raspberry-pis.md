@@ -75,6 +75,12 @@ On the `server`, observe you are getting a request from the `client`.
 1569616597|O|11680|192.168.0.4|raspbian.raspberrypi.org/raspbian/pool/main/r/rolldice/rolldice_1.16-1+b1_armhf.deb
 ```
 
+To remove `rolldice`:
+
+```bash
+sudo apt remove rolldice
+```
+
 ### How it works
 
 `apt-cacher-ng` is a proxy and stores files in `/var/cache/apt-cacher-ng/` . `apt-catcher-ng` will  publicize it exists over mDNS using `avahi-daemon`.
