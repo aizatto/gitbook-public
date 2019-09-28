@@ -6,7 +6,7 @@ description: >-
 
 # Working with Multiple Raspberry Pis
 
-### Predictable IP Addresses
+## Predictable IP Addresses
 
 Set a predictable IP address by either:
 
@@ -26,6 +26,18 @@ If I get more Raspberry Pis, I may extend to use double digits, for Example:
 * 192.168.0.40 - Raspberry Pi 4 \#1
 * 192.168.0.41 - Raspberry Pi 4 \#2
 * 192.168.0.42 - Raspberry Pi 4 \#3
+
+## Disable SSH Strict Host Check
+
+If you switch out your SD cards often enough, you may want to disable `StrictHostKeyChecking`. 
+
+Inside `~/.ssh/config`:
+
+```text
+Host 192.168.0.10
+  StrictHostKeyChecking no
+  UserKnownHostsFile=/dev/null
+```
 
 ## Cache repository requests
 
