@@ -2,6 +2,8 @@
 
 ## Finding Hardware in Malaysia
 
+I may have some spare hardware, just drop me a message.
+
 I've confirmed these work
 
 * Raspberry Pi 4
@@ -10,18 +12,6 @@ I've confirmed these work
   * [Lazada: UGREEN](https://www.lazada.com.my/products/ugreen-micro-hdmi-to-hdmi-cable-male-to-female-micro-hdmi-adapter-supports-4k-3d-for-gopro-hero-5-tablets-laptopasus-vivobook-s14zenbook-ux305ux330cameras-etc20cm-i13642239-s16735359.html)
 * USB to TTL Serial Cable
   * [Cytron: PL2303HX USB to TTL Serial Cable](https://my.cytron.io/p-pl2303hx-usb-to-ttl-serial-cable)
-* Wireless USB Adapter
-  * [Lazada: tp-link: TL-WN725N\(US\) Ver: 3.0](https://www.lazada.com.my/products/tp-link-150mbps-wireless-n-nano-usb-adapter-wn725n-usb-20-i568056973-s1133310273.html)
-
-### tp-link: TL-WN725N\(US\) Ver: 3.0
-
-From [https://www.lazada.com.my/products/tp-link-150mbps-wireless-n-nano-usb-adapter-wn725n-usb-20-i568056973-s1133310273.html](https://www.lazada.com.my/products/tp-link-150mbps-wireless-n-nano-usb-adapter-wn725n-usb-20-i568056973-s1133310273.html)
-
-Works out of the box on Raspbian Buster \(2019-07-10\)
-
-`lsusb`:
-
-> Bus 001 Device 003: ID 0bda:8179 Realtek Semiconductor Corp. RTL8188EUS 802.11n Wireless Network Adapter
 
 ### USB to TTL Serial Cable \(macOS 10.14.6\)
 

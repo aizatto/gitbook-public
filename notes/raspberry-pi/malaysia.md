@@ -1,5 +1,7 @@
 # Malaysia
 
+I will most likely have unused hardware, if you'd like something, do ask drop me a message and I'm more than happy to give you hardware I am not using.
+
 ## Online
 
 * [Cytron](https://my.cytron.io/c-raspberry-pi)
