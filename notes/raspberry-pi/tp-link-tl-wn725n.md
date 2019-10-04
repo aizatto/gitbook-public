@@ -1,5 +1,9 @@
 # tp-link: TL-WN725N
 
+On the box it is called: TL-WN725N\(US\) v3
+
+Official Site: [https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn725n/](https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn725n/)
+
 {% hint style="info" %}
 This has been tested on Raspbian Buster \(2019-07\)
 {% endhint %}
@@ -37,7 +41,6 @@ Create `/etc/udev/rules.d/70-my_network_interfaces.rules`:
 {% code-tabs %}
 {% code-tabs-item title="/etc/udev/rules.d/70-my\_network\_interfaces.rules" %}
 ```bash
-
 SUBSYSTEM=="net", ACTION=="add", ATTR{address}=="dc:a6:32:aa:aa:aa", NAME="wlan0"
 SUBSYSTEM=="net", ACTION=="add", ATTR{address}=="50:3e:aa:aa:aa:aa", NAME="wlan1"
 ```
@@ -74,7 +77,7 @@ References:
 
 * [https://www.raspberrypi.org/forums/viewtopic.php?t=191061](https://www.raspberrypi.org/forums/viewtopic.php?t=191061)
 
-### Debugging
+### Tips for Debugging
 
 Below are some logs and files that helped me debug this.
 
