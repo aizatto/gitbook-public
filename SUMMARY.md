@@ -162,4 +162,6 @@
   * [WebSocket](notes/archive/websocket.md)
   * [Withings](notes/archive/withings.md)
   * [Xiaomi Roborock Mijia](notes/archive/xiaomi-roborock-mijia.md)
+  * [Old Hardware](notes/archive/old-hardware/README.md)
+    * [Netgear R7000P](notes/archive/old-hardware/netgear-r7000p.md)
 
