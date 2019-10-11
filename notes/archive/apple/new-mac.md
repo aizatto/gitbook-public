@@ -17,6 +17,7 @@ brew install \
   git \
   hub \
   macvim \
+  nvm \
   watch \
   watchman \
   yarn
@@ -39,14 +40,15 @@ brew cask install \
     docker \
     iterm2 \
     kitematic \
-    little-snitch \
-    navicat-premium \
-    postico \
     postman \
-    sequel-pro \
     spotify \
     visual-studio-code \
     vlc
+    
+# Issues with these
+brew cask install \
+  little-snitch \
+  navicat-premium
 ```
 
 [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli):
@@ -74,10 +76,14 @@ curl https://sdk.cloud.google.com | bash
 * [iTerm](https://www.iterm2.com)
 * [Google Chrome](https://www.google.com/chrome/)
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
+* Logitech
+  * [https://support.logi.com/hc/en-us/articles/360034763274-Download-Stub-MX-Master-3-Wireless-Mouse-with-Hyper-fast-Scroll-Wheel](https://support.logi.com/hc/en-us/articles/360034763274-Download-Stub-MX-Master-3-Wireless-Mouse-with-Hyper-fast-Scroll-Wheel)
+  * Point and Scroll &gt; Scrolling Speed &gt; 90% to the right
+  * Scroll direction: Natural
 * [macvim](https://github.com/macvim-dev/macvim/releases)
 * [nvALT](http://brettterpstra.com/projects/nvalt/)
 * [Spotify](https://www.spotify.com/my-en/download/)
-* [Sonos](https://www.sonos.com/en/controller-app)
+* [Sonos](https://www.sonos.com/en/support)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [VLC](http://www.videolan.org)
 * [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
@@ -96,6 +102,8 @@ Controlling Sound \(to HDMI/DisplayPort/USB-C\)
 
 In macOS Catalina \(top left to bottom right\)
 
+* Dock &gt; Disable "show recent applications in Dock"
+* Touch ID
 * Security & Privacy &gt; General &gt; Show a message when the screen is locked: If found, please contact example@example.com
 * Security & Privacy &gt; General &gt; Use your Apple Watch to unlock apps and your Mac
 * Internet Accounts &gt; Gmail &gt; Disable Mail and Address Book
@@ -109,6 +117,8 @@ In macOS Catalina \(top left to bottom right\)
 * Displays &gt; Scaled &gt; More Space
 * Date & Time &gt; Clock &gt; Display the time with seconds
 * Sharing &gt; Name
+* Time Machine &gt; Options &gt; Exclude system files and applications
+  * Add: /Applications, /Library /System, ~/Library
 
 ### Contacts
 
