@@ -24,6 +24,11 @@ UM Specialist Center
 
 * [https://umsc.my/?page\_id=2844115](https://umsc.my/?page_id=2844115)
 
+Befrienders
+
+* [https://www.befrienders.org.my/](https://www.befrienders.org.my/)
+* +603 7956 8145
+
 Naluri
 
 * [https://www.naluri.life/](https://www.naluri.life/)
