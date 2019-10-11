@@ -44,6 +44,7 @@ brew cask install \
     postico \
     postman \
     sequel-pro \
+    spotify \
     visual-studio-code \
     vlc
 ```
@@ -93,15 +94,20 @@ Controlling Sound \(to HDMI/DisplayPort/USB-C\)
 
 ### System Preferences
 
-* Displays &gt; Scaled &gt; More Space
+In macOS Catalina \(top left to bottom right\)
+
+* Security & Privacy &gt; General &gt; Show a message when the screen is locked: If found, please contact example@example.com
+* Security & Privacy &gt; General &gt; Use your Apple Watch to unlock apps and your Mac
+* Internet Accounts &gt; Gmail &gt; Disable Mail and Address Book
+* Bluetooth &gt; Show Bluetooth in menu bar
+* Sound &gt; Show volume in menu bar
 * Keyboard &gt; Text &gt; Disable Correct spelling automatically
 * Keyboard &gt; Keyboard &gt; Key Repeat &gt; Fast
 * Keyboard &gt; Keyboard &gt; Delay Until Repeat &gt; Right of Center
 * Keyboard &gt; Keyboard &gt; Modifier Keys &gt; Change Caps Lock to Control
 * Trackpad &gt; Max
-* Bluetooth &gt; Show Bluetooth in menu bar
-* Security & Privacy &gt; General &gt; Show a message when the screen is locked: If found, please contact example@example.com
-* Sound &gt; Show volume in menu bar
+* Displays &gt; Scaled &gt; More Space
+* Date & Time &gt; Clock &gt; Display the time with seconds
 * Sharing &gt; Name
 
 ### Contacts
