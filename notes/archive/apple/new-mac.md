@@ -82,6 +82,7 @@ curl https://sdk.cloud.google.com | bash
   * Point and Scroll &gt; Scrolling Speed &gt; 90% to the right
   * Scroll direction: Natural
 * [macvim](https://github.com/macvim-dev/macvim/releases)
+* [navicat](https://navicat.com/en/download/navicat-premium)
 * [nvALT](http://brettterpstra.com/projects/nvalt/)
 * [Spotify](https://www.spotify.com/my-en/download/)
 * [Sonos](https://www.sonos.com/en/support)
