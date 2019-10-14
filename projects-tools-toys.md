@@ -2,23 +2,35 @@
 
 ## Projects
 
-### Logbook
+### Book Tools
+
+Various tools I created to solve my own problems
+
+[https://booktools.app/](https://booktools.app/)
+
+#### Cashbox
+
+Personal finance tracker.
+
+[https://cash.booktools.app/](https://cash.booktools.app/)
+
+#### Logbook
 
 A note taking tool to help organize notes by tags.
 
-[https://www.logbook.my/](https://www.logbook.my/)
+[https://log.booktools.app/](https://log.booktools.app/)
+
+#### Taskbook
+
+Routine/task management tool
+
+[https://task.booktools.app/](https://task.booktools.app/)
 
 ### Deep Thought
 
 A place for me to reflect on my thoughts, and hopefully learn from others as well.
 
 [https://www.deepthoughtapp.com/](https://www.deepthoughtapp.com/)
-
-### Cashbox
-
-Personal finance tracker
-
-[https://www.cashbox.dev/](https://www.cashbox.dev/)
 
 ### build.my
 
