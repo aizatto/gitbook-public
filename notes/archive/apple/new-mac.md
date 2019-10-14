@@ -12,12 +12,13 @@ Wants:
 ```bash
 brew install \
   ack \
+  fish \
   fpp \
   fzf \
   git \
   hub \
   macvim \
-  nvm \
+  mosh \
   watch \
   watchman \
   yarn

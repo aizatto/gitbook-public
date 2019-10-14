@@ -1,5 +1,13 @@
 # Raspberry Pi
 
+## Command Line
+
+Measure CPU Temperature:
+
+```bash
+/opt/vc/bin/vcgencmd measure_temp
+```
+
 ## Finding Hardware in Malaysia
 
 I may have some spare hardware, just drop me a message.
