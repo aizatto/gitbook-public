@@ -1,19 +1,23 @@
 # Negotiation / Deciding
 
-## Market Rates
+### Salary Negotiation
 
-* [Glassdoor](http://glassdoor.com/)
-* [Paysa](https://www.paysa.com/salary-rank)
-* Interview with other companies to better calibrate Market Rates
+Know your worth.
 
-Understand your Compensation:
+If their asking price is too low, ask what career track is like, so you can discuss how you can achieve the level you want.
+
+### Understand your compensation
 
 * Signing bonus?
 * Base salary?
 * Equity?
 * Total compensation?
 
-If their asking price is too low, ask what career track is like, so you can discuss how you can achieve the level you want.
+### Market Rates
+
+* [Glassdoor](http://glassdoor.com/)
+* [Paysa](https://www.paysa.com/salary-rank)
+* Interview with other companies to better calibrate Market Rates
 
 ## Deciding
 
