@@ -13,6 +13,8 @@ Understand your Compensation:
 * Equity?
 * Total compensation?
 
+If their asking price is too low, ask what career track is like, so you can discuss how you can achieve the level you want.
+
 ## Deciding
 
 ### General
