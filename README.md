@@ -22,40 +22,40 @@ Visit the [Portfolio, Projects, Tools, Toys](projects-tools-toys.md) page for mo
 * [GitHub](https://www.github.com/aizatto/)
 * [LinkedIn](https://www.linkedin.com/in/aizatto)
 
-### Book Tools
+### build.my
 
 Various tools I created to solve my own problems
 
-[https://booktools.app/](https://booktools.app/)
+[https://build.my/](https://build.my/)
 
 #### Cashbox
 
 Personal finance tracker.
 
-[https://cash.booktools.app/](https://cash.booktools.app/)
+[https://cashbook.build.my/](https://cashbook.build.my/)
 
 #### Logbook
 
 A note taking tool to help organize notes by tags.
 
-[https://log.booktools.app/](https://log.booktools.app/)
+[https://logbook.build.my/](https://log.booktools.app/)
 
 #### Taskbook
 
 Routine/task management tool
 
-[https://task.booktools.app/](https://task.booktools.app/)
+[https://taskbook.build.my/](https://taskbook.build.my/)
+
+#### Meetups
+
+Malaysian event aggregator for technology and startup communities.
+
+* [https://meetups.build.my/](https://build.my/)
+* [https://github.com/aizatto/build.my](https://github.com/aizatto/build.my)
 
 ### Deep Thought
 
 A place for me to reflect on my thoughts, and hopefully learn from others as well.
 
 [https://www.deepthoughtapp.com/](https://www.deepthoughtapp.com/)
-
-### build.my
-
-Malaysian event aggregator for technology and startup communities.
-
-* [https://build.my/](https://build.my/)
-* [https://github.com/aizatto/build.my](https://github.com/aizatto/build.my)
 
