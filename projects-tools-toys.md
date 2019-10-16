@@ -8,7 +8,7 @@ Various tools I created to solve my own problems
 
 [https://build.my/](https://build.my/)
 
-#### Cashbox
+#### Cashbook
 
 Personal finance tracker.
 
