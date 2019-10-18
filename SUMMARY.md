@@ -74,6 +74,7 @@
 * [Prototyping](notes/prototyping.md)
 * [Raspberry Pi](notes/raspberry-pi/README.md)
   * [tp-link: TL-WN725N](notes/raspberry-pi/tp-link-tl-wn725n.md)
+  * [Panda Wireless: PAU05](notes/raspberry-pi/panda-wireless-pau05.md)
   * [Malaysia](notes/raspberry-pi/malaysia.md)
   * [Working with Multiple Raspberry Pis](notes/raspberry-pi/working-with-multiple-raspberry-pis.md)
 * [Serverless](notes/serverless.md)
