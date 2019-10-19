@@ -30,7 +30,9 @@ Task: #1
 http://example.com/tasks/1
 ```
 
-**Table Of Contents**
+Examples:
+
+* [https://fatbusinessman.com/2019/my-favourite-git-commit](https://fatbusinessman.com/2019/my-favourite-git-commit)
 
 ## Commit Messages
 
