@@ -47,20 +47,10 @@ export function webhook(event, context, callback) {
 
 ## Using Custom Domains with Cloudflare
 
-1. Open [Cloudflare](https://dash.cloudflare.com/)
-   1. Select your domain and open the "Crypto" tab
-   2. Change "SSL" to "Full \(strict\)"
-   3. Go to "Origin Certificates" and click "Create Certificate"
-   4. Generate a private key and a CSR and choose RSA as the private key type
-   5. Make sure that the hostname for your custom API domain is covered. E.g. api.mydomain.com. You can specifically configure this custom domain or use a wildcard such as \*.mydomain.com as is configured by default.
-   6. Select `PEM` as the `Key format`
-2. Open [AWS ACM Console](https://console.aws.amazon.com/acm/home) \(us-east-1\)
-   1. Click "Import Certificate"
-   2. Copy from Cloudflare "`Origin Certificate`" to AWS ACM "`Certificate body`"
-   3. Copy from Cloudflare "`Private key`" to AWS "`Certificate private key`"
-   4. In the certificate chain copy the "`Cloudflare Origin CA - RSA Root`" which can be found here: [https://support.cloudflare.com/hc/en-us/articles/115000479507\#h\_30cc332c-8f6e-42d8-9c59-6c1f06650639](https://support.cloudflare.com/hc/en-us/articles/115000479507#h_30cc332c-8f6e-42d8-9c59-6c1f06650639)
-   5. Click "Review and Import"
-3. Open [AWS API Gateway](https://console.aws.amazon.com/apigateway/home#/custom-domain-names)
+1. Open [AWS ACM Console](https://console.aws.amazon.com/acm/home) \(us-east-1\)
+   1. Click "Request a  Certificate"
+   2. Enter the domains you want to enable
+2. Open [AWS API Gateway](https://console.aws.amazon.com/apigateway/home#/custom-domain-names)
    1. Select "[Custom Domain Names](https://console.aws.amazon.com/apigateway/home#/custom-domain-names)" from the left menu.
    2. Click the "Create Custom Domain Name" button.
    3. Enter the "Domain Name"
@@ -69,15 +59,16 @@ export function webhook(event, context, callback) {
       1. Set the relevant path and destination
    6. Hit "Save"
    7. Wait a maximum of 40 minutes
-4. In Cloudflare, open the "DNS" tab
-   1. Add a CNAME record
+3. Open [Cloudflare](https://dash.cloudflare.com/)
+   1. Select your domain and open the "DNS" tab
+   2. Add a CNAME record
       1. For "Name":
          1. Use "@" if you are targeting the root domain. For example "build.my"
          2. Use "www" if you are targetting a subdomain. For example: "www.build.my"
       2. For "Domain name":
          1. Use the AWS APIGateway Target Domain Name. For example: "d1jdvkqtea2e81.cloudfront.net"
       3. For Status:
-         1. Set to: Traffic to this hostname will go through Cloudflare / DNS and HTTP Proxy \(CDN\)
+         1. Set to: DNS Only
 
 Test only on `https` . Testing on `http` will redirect to `https` so it looks like nothing is happening.
 
