@@ -31,3 +31,7 @@ High Output Management
 * [https://amzn.to/2Ow008v](https://amzn.to/2Ow008v)
 * [https://www.deepthoughtapp.com/packages/high-output-management-364/](https://www.deepthoughtapp.com/packages/high-output-management-364/)
 
+The Making of a Manager
+
+* [https://amzn.to/2P6oFUI](https://amzn.to/2P6oFUI)
+
