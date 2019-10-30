@@ -134,6 +134,7 @@
   * [Gaming Tablet](notes/archive/gaming-tablet.md)
   * [GTD](notes/archive/gtd.md)
   * [Go Lang](notes/archive/go-lang.md)
+  * [GoPro MAX](notes/archive/gopro-max.md)
   * [Headsets](notes/archive/headsets.md)
   * [Home Device Calling](notes/archive/home-device-calling.md)
   * [iCalendar](notes/archive/icalendar.md)
