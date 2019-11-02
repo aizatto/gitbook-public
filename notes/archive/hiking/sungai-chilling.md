@@ -52,3 +52,8 @@ Resources:
   * [https://www.instagram.com/explore/locations/244993494/sungai-chilling-waterfalls/](https://www.instagram.com/explore/locations/244993494/sungai-chilling-waterfalls/)
   * [https://www.instagram.com/p/BBwlYVyHokD/](https://www.instagram.com/p/BBwlYVyHokD/)
 
+Nearby:
+
+* [Frasiers Hill](https://www.google.com.my/maps/place/Fraser's+Hill+Clock+Tower/@3.7100633,101.735713,18.4z/data=!4m5!3m4!1s0x31cbf4e4396a8045:0xb2c89ab483c3f753!8m2!3d3.7118707!4d101.7364454)
+  * 30 minutes north, windy road
+
