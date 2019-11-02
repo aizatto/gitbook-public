@@ -32,3 +32,7 @@ Apps:
 * Strava
   * https://app.logbook.my/tags/strava
 
+Also see:
+
+* [Road Trips](../road-trips.md)
+
