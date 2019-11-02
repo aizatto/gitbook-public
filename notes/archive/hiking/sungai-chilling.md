@@ -28,6 +28,7 @@ Hiking:
 
 * [https://www.alltrails.com/trail/malaysia/selangor/chiling-waterfalls](https://www.alltrails.com/trail/malaysia/selangor/chiling-waterfalls)
   * 4.5km
+  * Approx one hour one way
 
 Notes:
 
