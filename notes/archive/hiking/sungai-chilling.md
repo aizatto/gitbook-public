@@ -12,13 +12,13 @@ Sungai Chilling Fish Sanctuary will be closed temporarily for the purpose of bre
   * Malaysia
   * GPS: 3.5891174, 101.7334967
   * [https://www.google.com.my/maps/place/Sungai+Chiling+Fish+Sanctuary/@3.5891174,101.7334967,16z/data=!4m5!3m4!1s0x31cc0b65d91e764b:0x54b4888f8afff70e!8m2!3d3.5942546!4d101.7354852](https://www.google.com.my/maps/place/Sungai+Chiling+Fish+Sanctuary/@3.5891174,101.7334967,16z/data=!4m5!3m4!1s0x31cc0b65d91e764b:0x54b4888f8afff70e!8m2!3d3.5942546!4d101.7354852)
+  * Distance from KL: 1h15min
 * Only opens to the public from Friday until Sunday
   * Open: 8am-6pm
     * Waterfall is only allowed before 2.30pm
   * Call the numbers listed below to confirm wether it i will be open or not
 * Weather: [https://weather.com/weather/hourbyhour/l/c4ad76d50eee983234961e64da7e549b0f2ad6f56e3f4b9049f37f40eadcc313](https://weather.com/weather/hourbyhour/l/c4ad76d50eee983234961e64da7e549b0f2ad6f56e3f4b9049f37f40eadcc313)
-
-Distance: 1h15min from KL
+* There is no reception there
 
 Hulu Selangor District Fisheries Office: +60 3 6064 1214
 
