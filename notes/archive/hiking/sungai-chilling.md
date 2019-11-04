@@ -34,7 +34,7 @@ Notes:
 
 * You will get wet
   * You'll have to cross 5 rivers, which can go up to waist high
-  * For shoes: get Kampung Adidas
+  * For shoes: Get Kampung Adidas, or Aqua Shoes
 * Bring a change of clothes
 * From a friend:
   * During rainy season, there can be a lot of files, and it's not nice. "Its quite awful when there are a ton of flies actually"
