@@ -60,7 +60,7 @@ Therefore there are 4 options:
 
 Investment linked insurance.
 
-For Muslims, payouts for death will be based on Faraid Law, which prefers next male of kin.
+* For Muslims, payouts for death can be contested by next male of Kin under Faraid law.
 
 #### Takaful
 
@@ -69,7 +69,8 @@ From: [https://www.investopedia.com/terms/t/takaful.asp](https://www.investopedi
 > a type of insurance system devised to comply with the sharia laws, in which money is pooled and invested...Conventional insurance is considered a form of gambling.
 
 * No interest on death payout
-* For Muslims, payouts for death will be given as specified.
+* For Muslims, payouts for death cannot be contested
+  * Payouts for death are considered "gifts"
 
 References:
 
