@@ -26,32 +26,35 @@ Therefore there are 4 options:
 
 #### Medical
 
-1. Annual Limit
-2. Critical Illness
-3. Lifetime Limit
-4. Deductible Amount
-5. Hospital Room and Board Benefit
-6. Intensive Care Unit Benefit
-7. In-Hospital Related Fees
-8. Pre-Hospitalization Benefit
-9. Post-Hospitalization Treatment Benefit
-10. Outpatient Kidney Dialysis Treatment Benefit and Out-patient Cancer Treatment Benefit
-11. Day Care Procedure and Surgery Benefit
-12. Emergency Accidental Out-patient Treatment \(Inclusive Dental\) and 30 days Follow-up Treatment
-13. Optical Support - Intraocular Lens
-14. Specified Maternity Complications Benefit
-15. Out-patient Dengue Fever Treatment Benefit
-16. Home Nursing Care Benefit
-17. Emergency Medical Evacuation and Repatriation
-18. Prevention Benefit
-19. Special Care Benefit
-20. Recovery and Support Benefit
-21. Recovery Care
-22. Mental Health Benefit
+1. Basic Sum Assured \(Death Benefit\)
+2. Critical Illness Benefit
+3. Accidental Death, TPD, or Dismemberment
+4. Annual Limit
+5. Lifetime Limit
+6. Deductible Amount
+7. Early Payout Critical Care
+8. Hospital Room and Board Benefit
+9. Intensive Care Unit Benefit
+10. In-Hospital Related Fees
+11. Pre-Hospitalization Benefit
+12. Post-Hospitalization Treatment Benefit
+13. Outpatient Kidney Dialysis Treatment Benefit and Out-patient Cancer Treatment Benefit
+14. Day Care Procedure and Surgery Benefit
+15. Emergency Accidental Out-patient Treatment \(Inclusive Dental\) and 30 days Follow-up Treatment
+16. Optical Support - Intraocular Lens
+17. Specified Maternity Complications Benefit
+18. Out-patient Dengue Fever Treatment Benefit
+19. Home Nursing Care Benefit
+20. Emergency Medical Evacuation and Repatriation
+21. Prevention Benefit
+22. Special Care Benefit
+23. Recovery and Support Benefit
+24. Recovery Care
+25. Mental Health Benefit
 
 #### Life
 
-1. Life/Death
+1. Basic Sum Assured \(Death Benefit\)
 2. Total Permanent Disability \(TPD\)
 
 ### Conventional / Takaful
