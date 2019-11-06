@@ -142,6 +142,7 @@
   * [Home Device Calling](notes/archive/home-device-calling.md)
   * [iCalendar](notes/archive/icalendar.md)
   * [Keyboards](notes/archive/keyboards.md)
+  * [Malaysia Insurance](notes/archive/malaysia-insurance.md)
   * [Mental Health Malaysia](notes/archive/mental-health-malaysia.md)
   * [Migraine](notes/archive/migraine.md)
   * [Multiroom Wireless Speaker System](notes/archive/multiroom-wireless-speaker-system.md)
