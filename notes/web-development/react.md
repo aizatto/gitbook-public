@@ -56,8 +56,8 @@ src/routes/EntriesRoute.tsx
 
 ## useEffect with async/await
 
-{% code-tabs %}
-{% code-tabs-item title="await-useEffect.tsx" %}
+{% tabs %}
+{% tab title="await-useEffect.tsx" %}
 ```typescript
 function Render() {
   const [data, setData] = useState(null);
@@ -70,8 +70,8 @@ function Render() {
   return <div>Test</div>
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 ## useRef\(null\)
 

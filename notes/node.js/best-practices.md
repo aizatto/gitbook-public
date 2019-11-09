@@ -23,16 +23,16 @@ npx lerna bootstrap --npm-client=yarn --use-workspaces
 
 Update `lerna.json`
 
-{% code-tabs %}
-{% code-tabs-item title="lerna.json" %}
+{% tabs %}
+{% tab title="lerna.json" %}
 ```javascript
 {
   "npmClient": "yarn",
   "useWorkspaces": "true"
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 Install
 
@@ -42,8 +42,8 @@ yarn install
 
 Update `package.json`
 
-{% code-tabs %}
-{% code-tabs-item title="package.json" %}
+{% tabs %}
+{% tab title="package.json" %}
 ```javascript
 {
   "scripts": {
@@ -52,13 +52,13 @@ Update `package.json`
   "workspaces": ["packages/*"]
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 `package.json` when creating a new package:
 
-{% code-tabs %}
-{% code-tabs-item title="packages/new-package/package.json" %}
+{% tabs %}
+{% tab title="packages/new-package/package.json" %}
 ```javascript
 {
   "name": "new-package",
@@ -66,8 +66,8 @@ Update `package.json`
   "version": "0.0.0"
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 #### Package Management
 

@@ -38,14 +38,14 @@ Problem: With the WiFi plugged, on boot it could be randomly assigned either wla
 
 Create `/etc/udev/rules.d/70-my_network_interfaces.rules`:
 
-{% code-tabs %}
-{% code-tabs-item title="/etc/udev/rules.d/70-my\_network\_interfaces.rules" %}
+{% tabs %}
+{% tab title="/etc/udev/rules.d/70-my\_network\_interfaces.rules" %}
 ```bash
 SUBSYSTEM=="net", ACTION=="add", ATTR{address}=="dc:a6:32:aa:aa:aa", NAME="wlan0"
 SUBSYSTEM=="net", ACTION=="add", ATTR{address}=="50:3e:aa:aa:aa:aa", NAME="wlan1"
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 References:
 
@@ -58,14 +58,14 @@ Problem: `dhcpcd` would not use `wpa_supplicant` on `wlan1` because it was not r
 
 Modify `/etc/dhcpcd.conf`:
 
-{% code-tabs %}
-{% code-tabs-item title="/etc/dhcpcd.conf" %}
+{% tabs %}
+{% tab title="/etc/dhcpcd.conf" %}
 ```text
 interface wlan1
 env ifwireless=1
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 Try restarting `dhcpcd`:
 

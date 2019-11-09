@@ -20,40 +20,40 @@ yarn add node-fetch
 
 Importing:
 
-{% code-tabs %}
-{% code-tabs-item title="fetch-import-success.ts" %}
+{% tabs %}
+{% tab title="fetch-import-success.ts" %}
 ```typescript
 import fetch from 'node-fetch';
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 If you use webpack, the following will work locally, but fail when deployed in webpack.
 
-{% code-tabs %}
-{% code-tabs-item title="fetch-webpack-import-fail.ts" %}
+{% tabs %}
+{% tab title="fetch-webpack-import-fail.ts" %}
 ```typescript
 import * as fetch from 'node-fetch';
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 ## Text:
 
-{% code-tabs %}
-{% code-tabs-item title="fetch-text.ts" %}
+{% tabs %}
+{% tab title="fetch-text.ts" %}
 ```typescript
 const response = await fetch(url);
 console.log(response);
 const text = await response.text();
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 `response`:
 
-{% code-tabs %}
-{% code-tabs-item title="fetch-text-response.ts" %}
+{% tabs %}
+{% tab title="fetch-text-response.ts" %}
 ```javascript
 {
   ok true,
@@ -61,27 +61,27 @@ const text = await response.text();
   ...
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 ## JSON:
 
-{% code-tabs %}
-{% code-tabs-item title="fetch-json.ts" %}
+{% tabs %}
+{% tab title="fetch-json.ts" %}
 ```javascript
 const response = await fetch(url);
 const json = await response.json();
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 ## Errors Handling
 
 * No errors are thrown.
 * No need for try/catch
 
-{% code-tabs %}
-{% code-tabs-item title="fetch-error.ts" %}
+{% tabs %}
+{% tab title="fetch-error.ts" %}
 ```typescript
 const response = await fetch(url);
 console.log(response);
@@ -89,19 +89,19 @@ if (!response.ok) {
   ...
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 `response`:
 
-{% code-tabs %}
-{% code-tabs-item title="fetch-error-response.json" %}
+{% tabs %}
+{% tab title="fetch-error-response.json" %}
 ```javascript
 {
   ok false,
   status: 404,
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
