@@ -6,6 +6,7 @@ It does something my iPhone/handphone camera can't. Take 360 photos/videos, and 
 
 Cons:
 
+* No remote, have to use voice commands
 * Remember to rest camera on its side
 * iOS issues:
   * iOS doesn't support saving 360 photos/videos to the native Photos app
@@ -17,15 +18,39 @@ Cons:
   * PowerPano upload doesn't view in Pano
     * Doesn't work on iOS or Desktop 
 * Google Photos:
-  * Doesn't handle 360 files
+  * Doesn't handle 360 photo files
     * [https://photos.google.com/photo/AF1QipPrwtqBJhRstiurEw4mJQA010mnjikMVdYL-P7R](https://photos.google.com/photo/AF1QipPrwtqBJhRstiurEw4mJQA010mnjikMVdYL-P7R)
   * Doesn't properly Power Pano either
+* YouTube
+  * Doesn't natively support the .360 video files
+  * Have to export to .mp4 and then upload
+  * YouTube compression doesn't seem that good, will have to experiment
 
 Manuals:
 
 * [https://gopro.com/help/productmanuals](https://gopro.com/help/productmanuals)
 * [https://gopro.com/content/dam/help/max/manuals/MAX\_UM\_ENG\_REVA.pdf](https://gopro.com/content/dam/help/max/manuals/MAX_UM_ENG_REVA.pdf)
 * [https://gopro.com/content/dam/help/max/quick-start-guides/MAX\_QSG\_REVC.pdf](https://gopro.com/content/dam/help/max/quick-start-guides/MAX_QSG_REVC.pdf)
+
+Notes:
+
+* Voice Commands, alternative for a remote
+  * GoPro, capture
+  * GoPro, stop capture
+  * GoPro, start recording
+  * GoPro, HiLight
+  * GoPro, stop recording
+  * GoPro, take a photo
+  * GoPro, start time lapse
+  * GoPro, stop time lapse
+  * GoPro, turn off
+  * GoPro, Video mode
+  * GoPro, Photo mode
+  * GoPro, Time lapse mode
+* TimeWarp
+  * 360 does not have "auto" mode
+  * 10x setting
+    * Not good for casual walking
 
 Apps:
 
