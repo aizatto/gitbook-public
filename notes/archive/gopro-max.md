@@ -106,6 +106,26 @@ Resources:
   * [https://www.lizardq.com/en/viewer/](https://www.lizardq.com/en/viewer/)
   * [http://www.fsoft.it/FSPViewer/](http://www.fsoft.it/FSPViewer/)
 
+Editors:
+
+* Final Cut Pro X
+  * $299
+  * [https://apps.apple.com/us/app/final-cut-pro/id424389933?mt=12](https://apps.apple.com/us/app/final-cut-pro/id424389933?mt=12)
+  * [https://support.apple.com/en-us/HT208212](https://support.apple.com/en-us/HT208212)
+  * [https://www.apple.com/final-cut-pro/specs/](https://www.apple.com/final-cut-pro/specs/)
+  * [https://9to5mac.com/2018/04/02/final-cut-pro-x-360-degree-video/](https://9to5mac.com/2018/04/02/final-cut-pro-x-360-degree-video/)
+  * [https://www.youtube.com/results?search\_query=final+cut+pro+360](https://www.youtube.com/results?search_query=final+cut+pro+360)
+  * Motion
+    * [https://apps.apple.com/us/app/motion/id434290957?mt=12](https://apps.apple.com/us/app/motion/id434290957?mt=12)
+    * [https://support.apple.com/en-sg/guide/motion/welcome/mac](https://support.apple.com/en-sg/guide/motion/welcome/mac)
+    * [https://help.apple.com/motion/mac/5.4/\#/motnfccf9e10](https://help.apple.com/motion/mac/5.4/#/motnfccf9e10)
+* Adobe Premier Pro
+  * $239.88/year \( @ $20.99/month\) or $31.49/mo 
+  * VR Mode
+  * [https://www.adobe.com/products/premiere.html](https://www.adobe.com/products/premiere.html?promoid=PQ7SQBYQ&mv=other)
+  * [https://helpx.adobe.com/premiere-pro/using/VRSupport.html](https://helpx.adobe.com/premiere-pro/using/VRSupport.html)
+  * [https://studio.knightlab.com/results/storytelling-layers-on-360-video/how-to-edit-360-video-in-premiere/](https://studio.knightlab.com/results/storytelling-layers-on-360-video/how-to-edit-360-video-in-premiere/)
+
 Accessories:
 
 * [GoPro Max Grip + Tripod](https://www.amazon.com/GoPro-Max-Grip-Tripod-Official/dp/B07WRMQD69/ref=sr_1_3?crid=2RL86O7MHCYOE&keywords=gopro+max+tripod&qid=1573637133&sprefix=gopro+max+t%2Caps%2C366&sr=8-3)
