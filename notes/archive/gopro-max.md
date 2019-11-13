@@ -21,6 +21,9 @@ Cons:
     *  doesn't do vertical/landscape orientation well
       * Sometimes it goes vertical, when I want landscape
   * Wish you can speed up or slow down a video
+  * YouTube 90 second limit when exporting from the iOS/iPadOS app 
+    * Workaround: AirDrop the file to your macOS, this will export it into an mp4 file.
+    * Upload the mp4 file.
 * Facebook issues:
   * Cannot upload 360 from iOS
     * Works ok when uploading file from Desktop
