@@ -2,6 +2,8 @@
 
 I got the GoPro MAX as my introduction into 360 cameras.
 
+* [https://amzn.to/2X8SRRa](https://amzn.to/2X8SRRa)
+
 It does something my iPhone/handphone camera can't. Take 360 photos/videos, and so I felt that gave me something new that I previously never really had.
 
 Pros:
@@ -45,6 +47,14 @@ Cons:
 * Memory Card
   * You need to take battery out to take the memory card out
   * May consider putting a tape on the memory card so I can yank it out
+* GoPro Player \(macOS Desktop App\)
+  * Cannot stitch videos together
+  * 5.6k and 4k export is only available without reframing
+    * 5.6k ProRes, 10min file took 22mins to render on a MacBook Pro 2017 16GB ram, 2.9 GHz Quad-Core Intel Core i7
+      * FileSize: 49.38GB
+  * Reframing
+    * Limits exports to either: 1080p or 720p
+  * Cannot speed up videos either
 
 Manuals:
 
@@ -77,6 +87,8 @@ Notes:
   * Splits video at 6mins 40seconds \(600 seconds\)
     * Raw .360 file size: 4.01GB
     * AirDropped mp4 file size: 3.33GB
+* GoPro Plus
+  * If you are buying accessories, it may make sense to get GoPro Plus because you'd make back the same money
 
 Apps:
 
@@ -93,6 +105,13 @@ Resources:
   * [https://apps.apple.com/us/app/gopro-player/id1460836908?ls=1&mt=12](https://apps.apple.com/us/app/gopro-player/id1460836908?ls=1&mt=12)
   * [https://www.lizardq.com/en/viewer/](https://www.lizardq.com/en/viewer/)
   * [http://www.fsoft.it/FSPViewer/](http://www.fsoft.it/FSPViewer/)
+
+Accessories:
+
+* [GoPro Max Grip + Tripod](https://www.amazon.com/GoPro-Max-Grip-Tripod-Official/dp/B07WRMQD69/ref=sr_1_3?crid=2RL86O7MHCYOE&keywords=gopro+max+tripod&qid=1573637133&sprefix=gopro+max+t%2Caps%2C366&sr=8-3)
+  * Great for simply setting up and capturing 360
+* [GoPro Fusion Case](https://amzn.to/33GtSqY)
+  * Harder case to protect your GoPro Max
 
 ## Technical Notes
 
