@@ -4,6 +4,13 @@ I got the GoPro MAX as my introduction into 360 cameras.
 
 It does something my iPhone/handphone camera can't. Take 360 photos/videos, and so I felt that gave me something new that I previously never really had.
 
+Pros:
+
+* No need to worry about:
+  * framing
+  * stabilization
+  * horizontal leveling
+
 Cons:
 
 * No remote, have to use voice commands
@@ -25,6 +32,7 @@ Cons:
   * Doesn't natively support the .360 video files
   * Have to export to .mp4 and then upload
   * YouTube compression doesn't seem that good, will have to experiment
+  * 90 second limit when exporting from the iOS/iPadOS app 
 
 Manuals:
 
