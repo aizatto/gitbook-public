@@ -17,13 +17,17 @@ Cons:
 * Remember to rest camera on its side
 * iOS issues:
   * iOS doesn't support saving 360 photos/videos to the native Photos app
-  * iPad App doesn't do vertical/landscape orientation well
-    * Sometimes it goes vertical, when I want landscape
+  * iPadOS
+    *  doesn't do vertical/landscape orientation well
+      * Sometimes it goes vertical, when I want landscape
+  * Wish you can speed up or slow down a video
 * Facebook issues:
   * Cannot upload 360 from iOS
     * Works ok when uploading file from Desktop
   * PowerPano upload doesn't view in Pano
     * Doesn't work on iOS or Desktop 
+* Instagram:
+  * No support for 360 photos or videos
 * Google Photos:
   * Doesn't handle 360 photo files
     * [https://photos.google.com/photo/AF1QipPrwtqBJhRstiurEw4mJQA010mnjikMVdYL-P7R](https://photos.google.com/photo/AF1QipPrwtqBJhRstiurEw4mJQA010mnjikMVdYL-P7R)
