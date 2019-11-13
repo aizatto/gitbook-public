@@ -23,7 +23,9 @@ Cons:
   * Wish you can speed up or slow down a video
   * YouTube 90 second limit when exporting from the iOS/iPadOS app 
     * Workaround: AirDrop the file to your macOS, this will export it into an mp4 file.
-    * Upload the mp4 file.
+    * Upload the mp4 file
+  * Cannot stitch videos on iOS/iPadOS
+    * Sucks when TimeWarp splits videos at 6m40sec 
 * Facebook issues:
   * Cannot upload 360 from iOS
     * Works ok when uploading file from Desktop
@@ -39,7 +41,10 @@ Cons:
   * Doesn't natively support the .360 video files
   * Have to export to .mp4 and then upload
   * YouTube compression doesn't seem that good, will have to experiment
-  * 90 second limit when exporting from the iOS/iPadOS app 
+  * 90 second limit when exporting from the iOS/iPadOS app
+* Memory Card
+  * You need to take battery out to take the memory card out
+  * May consider putting a tape on the memory card so I can yank it out
 
 Manuals:
 
@@ -69,6 +74,9 @@ Notes:
   * No sound
   * Might be better to record in video mode, and then speed it up manually in an editor \(not GoPro's app\) or YouTube \(max Playback is 2x\)
     * This will at least include sound
+  * Splits video at 6mins 40seconds \(600 seconds\)
+    * Raw .360 file size: 4.01GB
+    * AirDropped mp4 file size: 3.33GB
 
 Apps:
 
