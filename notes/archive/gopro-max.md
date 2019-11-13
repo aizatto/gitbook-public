@@ -55,6 +55,11 @@ Cons:
   * Reframing
     * Limits exports to either: 1080p or 720p
   * Cannot speed up videos either
+* Video Mode
+  * 360 @ night, walking
+    * Jitters around the lights
+      * No stabilization?
+    * A lot of visual noise, doesn't do well in low light
 
 Manuals:
 
@@ -78,15 +83,20 @@ Notes:
   * GoPro, Photo mode
   * GoPro, Time lapse mode
 * TimeWarp
-  * 360 does not have "auto" mode
-  * 10x setting
-    * Not good for casual walking
-  * No sound
-  * Might be better to record in video mode, and then speed it up manually in an editor \(not GoPro's app\) or YouTube \(max Playback is 2x\)
-    * This will at least include sound
-  * Splits video at 6mins 40seconds \(600 seconds\)
-    * Raw .360 file size: 4.01GB
-    * AirDropped mp4 file size: 3.33GB
+  * 360
+    * 360 does not have "auto" mode
+    * 10x setting
+      * Not good for casual walking
+    * No sound
+    * Might be better to record in video mode, and then speed it up manually in an editor \(not GoPro's app\) or YouTube \(max Playback is 2x\)
+      * This will at least include sound
+    * Splits video at 6mins 40seconds \(600 seconds\)
+      * Raw .360 file size: 4.01GB
+      * AirDropped mp4 file size: 3.33GB
+* Video
+  * 360
+    * No stabilization
+    * Splits video at 8mins 2 seconds \( 482 seconds\)
 * GoPro Plus
   * If you are buying accessories, it may make sense to get GoPro Plus because you'd make back the same money
 
@@ -103,6 +113,7 @@ Resources:
 
 * macOS
   * [https://apps.apple.com/us/app/gopro-player/id1460836908?ls=1&mt=12](https://apps.apple.com/us/app/gopro-player/id1460836908?ls=1&mt=12)
+  * [http://videolan.org/](http://videolan.org/)
   * [https://www.lizardq.com/en/viewer/](https://www.lizardq.com/en/viewer/)
   * [http://www.fsoft.it/FSPViewer/](http://www.fsoft.it/FSPViewer/)
 
