@@ -90,7 +90,7 @@
 * [Archive](notes/archive/README.md)
   * [Amazon Echo Dot \(3rd Gen\) with clock](notes/archive/amazon-echo-dot-3rd-gen-with-clock.md)
   * [Apple](notes/archive/apple/README.md)
-    * [AirPods](notes/archive/apple/airpods.md)
+    * [AirPods Pro](notes/archive/apple/airpods.md)
     * [Apple Notes](notes/archive/apple/apple-notes.md)
     * [Apple Watch Series 4](notes/archive/apple/apple-watch.md)
     * [iPad Pro 11" 2018](notes/archive/apple/ipad-pro.md)
