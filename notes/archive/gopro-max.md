@@ -3,6 +3,7 @@
 I got the GoPro MAX as my introduction into 360 cameras.
 
 * [https://amzn.to/2X8SRRa](https://amzn.to/2X8SRRa)
+* [https://gopro.com/en/us/shop/cameras/max/CHDHZ-201-master.html](https://gopro.com/en/us/shop/cameras/max/CHDHZ-201-master.html)
 
 It does something my iPhone/handphone camera can't. Take 360 photos/videos, and so I felt that gave me something new that I previously never really had.
 
@@ -229,4 +230,21 @@ Megapixels                      : 8.4
 Avg Bitrate                     : 66.7 Mbps
 Rotation                        : 0
 ```
+
+## Filming
+
+When filming, you have to consider where the content is going to be consumed.
+
+Two perspectives
+
+* VR mode
+  * Facebook
+  * YouTube
+  * GoPro Player
+* Spherical
+  * GoPro Player
+
+## VR Mode
+
+Hold the camera mostly at eye level, you'll get a more comfortable view of yourself when rewatching the videos.
 
