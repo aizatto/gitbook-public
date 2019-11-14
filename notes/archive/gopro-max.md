@@ -90,13 +90,14 @@ Notes:
     * No sound
     * Might be better to record in video mode, and then speed it up manually in an editor \(not GoPro's app\) or YouTube \(max Playback is 2x\)
       * This will at least include sound
-    * Splits video at 6mins 40seconds \(600 seconds\)
+    * Splits video at 6mins 40seconds \(400 seconds\)
       * Raw .360 file size: 4.01GB
       * AirDropped mp4 file size: 3.33GB
 * Video
   * 360
     * No stabilization
-    * Splits video at 8mins 2 seconds \( 482 seconds\)
+    * Splits video at 8mins 2 seconds \(482 seconds\)
+      * Raw: 4GB
 * GoPro Plus
   * If you are buying accessories, it may make sense to get GoPro Plus because you'd make back the same money
 
@@ -141,6 +142,12 @@ Accessories:
 
 * [GoPro Max Grip + Tripod](https://www.amazon.com/GoPro-Max-Grip-Tripod-Official/dp/B07WRMQD69/ref=sr_1_3?crid=2RL86O7MHCYOE&keywords=gopro+max+tripod&qid=1573637133&sprefix=gopro+max+t%2Caps%2C366&sr=8-3)
   * Great for simply setting up and capturing 360
+  * Tightener can be on the opposite side of battery access
+  * [https://gopro.com/en/my/shop/mounts-accessories/max-grip-plus-tripod/ASBHM-002.html](https://gopro.com/en/my/shop/mounts-accessories/max-grip-plus-tripod/ASBHM-002.html)
+* [GoPro 3-Way Grip](https://amzn.to/32MQ1Cq)
+  * Tightener blocks access to the battery
+    * Requires you taking the GoPro off
+  * [https://gopro.com/en/my/shop/mounts/3-way/AFAEM-001.html](https://gopro.com/en/my/shop/mounts/3-way/AFAEM-001.html)
 * [GoPro Fusion Case](https://amzn.to/33GtSqY)
   * Harder case to protect your GoPro Max
 
