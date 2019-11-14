@@ -12,6 +12,7 @@ Pros:
   * framing
   * stabilization
   * horizontal leveling
+* Capturing the atmosphere, feel, and experience of a place
 
 Cons:
 
