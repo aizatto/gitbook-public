@@ -138,6 +138,7 @@
   * [GoPro MAX](notes/archive/gopro-max.md)
   * [Headsets](notes/archive/headsets.md)
   * [Hiking](notes/archive/hiking/README.md)
+    * [Chamang Waterfalls](notes/archive/hiking/chamang-waterfalls.md)
     * [Kanching Waterfalls](notes/archive/hiking/kanching-waterfalls.md)
     * [Kota Damansara Community Forest Reserve](notes/archive/hiking/kota-damansara-community-forest-reserve.md)
     * [Sungai Chilling](notes/archive/hiking/sungai-chilling.md)

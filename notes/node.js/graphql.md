@@ -40,8 +40,7 @@ Naming:
 * Postfix function names with `Resolver`
 * Pass in all the args: `root, args, context, info`
 
-{% tabs %}
-{% tab title="Entry.ts" %}
+{% code title="Entry.ts" %}
 ```typescript
 // For the connections
 `query {
@@ -76,8 +75,7 @@ export async function EntryTagsResolver(root, args, context, info) {
   ...
 }
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 ```typescript
 export async function EntryResolver(
@@ -114,15 +112,13 @@ Environment: Lerna with multiple `graphql` packages installed
 
 Solution specify `resolutions` in local `package.json`:
 
-{% tabs %}
-{% tab title="package.json" %}
+{% code title="package.json" %}
 ```text
 "resolutions": {
   "graphql": $your_version
 }
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 Worse case, nuke your `node_modules`:
 

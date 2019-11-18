@@ -16,14 +16,12 @@ Properties:
 
 Example:
 
-{% tabs %}
-{% tab title=".env" %}
+{% code title=".env" %}
 ```bash
 NODE_ENV=production
 PORT=3001
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 ### JSON or JSON5
 
@@ -41,8 +39,7 @@ Properties:
 
 Example:
 
-{% tabs %}
-{% tab title="example.json5" %}
+{% code title="example.json5" %}
 ```javascript
 {
   // comments
@@ -57,8 +54,7 @@ No \\n's!",
   "backwardsCompatible": "with JSON",
 }
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 ### XML
 

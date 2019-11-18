@@ -13,7 +13,10 @@ Hiking to the top: Less than 1hour
 * Unpaved:
   * Jungle and mossy rocks
 
-Entrance fee \(paid at parking entrance\): RM3/person
+Entrance fee \(paid at parking entrance\): 
+
+* RM2/car
+* RM2/person
 
 Resources:
 

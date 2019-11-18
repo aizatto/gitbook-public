@@ -14,8 +14,7 @@ yarn run knex migrate:rollback
 
 Update your `package.json`:
 
-{% tabs %}
-{% tab title="package.json" %}
+{% code title="package.json" %}
 ```javascript
 {
   "scripts": {
@@ -24,8 +23,7 @@ Update your `package.json`:
   },
 }
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 ## Migrations
 
@@ -65,8 +63,7 @@ Also see [Engineering Code &gt; Naming](../../engineering-code/naming.md#common-
 
 ### Promises:
 
-{% tabs %}
-{% tab title="20190424104046\_createTable\_users.js" %}
+{% code title="20190424104046\_createTable\_users.js" %}
 ```javascript
 exports.up = function(knex, Promise) {
   return knex.schema
@@ -101,6 +98,5 @@ exports.down = function(knex, Promise) {
     .dropTable('users');
 };
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 

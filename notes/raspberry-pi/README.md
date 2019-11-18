@@ -59,8 +59,7 @@ Create empty file: `/boot/ssh`
 
 Create file: `/boot/wpa_supplicant.conf`
 
-{% tabs %}
-{% tab title="/boot/wpa\_supplicant.conf" %}
+{% code title="/boot/wpa\_supplicant.conf" %}
 ```text
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
 update_config=1
@@ -71,20 +70,17 @@ network={
     psk="YOUR_PASSWORD"
 }
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 ### Enable UART by default
 
 Append to: `/boot/config.txt`
 
-{% tabs %}
-{% tab title="/boot/config.txt" %}
+{% code title="/boot/config.txt" %}
 ```text
 enable_uart=1
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 ## Tips
 

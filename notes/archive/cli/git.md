@@ -10,8 +10,7 @@ From my [.gitconfig](https://github.com/aizatto/dotfiles/blob/master/gitconfig)
 
 * Includes typos.
 
-{% tabs %}
-{% tab title=".gitconfig" %}
+{% code title=".gitconfig" %}
 ```text
 [color]
   diff = auto
@@ -29,8 +28,7 @@ From my [.gitconfig](https://github.com/aizatto/dotfiles/blob/master/gitconfig)
   ll = log -p
   stauts = status
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 ### Bash
 
@@ -51,8 +49,7 @@ Pros:
 
 From my [.bash\_profile](https://github.com/aizatto/dotfiles/blob/master/bash_profile#L48-L73)
 
-{% tabs %}
-{% tab title=".bash\_profile" %}
+{% code title=".bash\_profile" %}
 ```bash
 alias ga='git add'
 alias gb='git branch'
@@ -81,8 +78,7 @@ alias gsr='git svn rebase'
 alias gsrgf='git svn rebase && git fetch && git svn rebase'
 alias gf='git diff-tree --no-commit-id --name-only -r HEAD'
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 ## Commands
 

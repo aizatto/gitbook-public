@@ -53,8 +53,7 @@ url-shortener-dev-lambdas
 url-shortener-dev-dynamodb
 ```
 
-{% tabs %}
-{% tab title="serverless.yml" %}
+{% code title="serverless.yml" %}
 ```yaml
 service:
   name: naming-lambdas
@@ -86,8 +85,7 @@ functions:
     handler: handler.hello
     name: ${self:provider.stackName}-init
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 ### One or many \`serverless.yml\`
 
@@ -162,8 +160,7 @@ provider:
 
 Dynamic table names
 
-{% tabs %}
-{% tab title="serverless.yml" %}
+{% code title="serverless.yml" %}
 ```yaml
 provider:
   environment:
@@ -173,11 +170,9 @@ provider:
 custom:
   DYNAMODB: ${file(./tables.js)}
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
-{% tabs %}
-{% tab title="tables.js" %}
+{% code title="tables.js" %}
 ```javascript
 module.exports = (serverless) => {
   const tables = {
@@ -203,8 +198,7 @@ module.exports = (serverless) => {
   return deployed_tables;
 }
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 ### Gotchas
 
