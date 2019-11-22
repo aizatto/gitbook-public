@@ -35,3 +35,7 @@ The Making of a Manager
 
 * [https://amzn.to/2P6oFUI](https://amzn.to/2P6oFUI)
 
+Random:
+
+* [https://github.com/charlax/engineering-management](https://github.com/charlax/engineering-management)
+
