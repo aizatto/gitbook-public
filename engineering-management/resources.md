@@ -35,6 +35,10 @@ The Making of a Manager
 
 * [https://amzn.to/2P6oFUI](https://amzn.to/2P6oFUI)
 
+An Elegant Puzzle: Systems of Engineering Management
+
+* [https://amzn.to/35U7Ilw](https://amzn.to/35U7Ilw)
+
 Random:
 
 * [https://github.com/charlax/engineering-management](https://github.com/charlax/engineering-management)
