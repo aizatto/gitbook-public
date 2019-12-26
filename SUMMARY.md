@@ -32,6 +32,7 @@
   * [Hiring](engineering-management/hiring.md)
   * [New Reports](engineering-management/new-reports.md)
   * [1:1s](engineering-management/1-1s.md)
+  * [Interviewing Candidates](engineering-management/interviewing-candidates.md)
   * [Resources](engineering-management/resources.md)
 * [Why GitBook?](why-gitbook.md)
 * [Getting into Tech](getting-into-tech/README.md)
