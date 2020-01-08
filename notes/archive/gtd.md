@@ -84,6 +84,14 @@ Cons:
 
 ### [Github Projects](https://help.github.com/articles/about-project-boards/)
 
+Pros:
+
+* Not all cards have to be issues
+* Cards can be:
+  * PR
+  * Issue
+* Cards can have individual links but open to the board page
+
 Cons:
 
 * Cannot move card across projects
@@ -91,6 +99,7 @@ Cons:
 * Kanban
   * No swim lanes
 * No Google Sign in
+* You can't subscribe to a project
 
 ### [invision](https://www.invisionapp.com)
 
@@ -138,6 +147,24 @@ Pros:
 * ACL on boards
 
 Cons:
+
+### [Notion.so](https://www.notion.so/)
+
+Pros:
+
+* Items have a URL
+* Items can be given a status and assign
+
+Cons:
+
+* No swim lanes
+* Default Kanban doesn't even fit nicely in a 1280 window
+* Lots of white space
+
+Notes:
+
+* Item "Status" is the same as Column
+* You have to click "Open as Page" to take the full screen of the page...
 
 ### [Pivotal Tracker](https://www.pivotaltracker.com/)
 
