@@ -86,13 +86,11 @@ Cons:
 
 Cons:
 
-* Cannot set owner
 * Cannot move card across projects
 * No card history
-
-Cons:
-
-* No Google Signin
+* Kanban
+  * No swim lanes
+* No Google Sign in
 
 ### [invision](https://www.invisionapp.com)
 
