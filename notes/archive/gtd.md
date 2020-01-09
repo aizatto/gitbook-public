@@ -30,7 +30,7 @@
   * Subtasks
   * Archive task
     * Does not mean a task is closed.
-    * When a task is closed, it doesn't mean its completed. It means its acrhived.
+    * When a task is closed, it doesn't mean its completed. It means its archived.
   * Progress tracker
     * Track task state
     * Tasks should not be in multiple states
