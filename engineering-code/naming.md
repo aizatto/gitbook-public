@@ -28,6 +28,20 @@ $product-$stage-$name
 $major.$minor.$patch
 ```
 
+#### Calendar Versioning \(CalVer\)
+
+[https://calver.org/](https://calver.org/)
+
+```bash
+YYYY.MM.DD
+```
+
+Mix:
+
+```bash
+$major.$minor.YYYYMMDD.$patch
+```
+
 ## Common Names
 
 #### content

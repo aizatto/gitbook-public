@@ -97,7 +97,7 @@ file="payroll.dat"
 
 ## Should you mix formats?
 
-### Yes
+### Reasons to mix: Yes
 
 Example: mixing .env and JSON5
 
@@ -109,7 +109,7 @@ Environment variables can be read multiple times in the system.
 
 Limit it to just two.
 
-### No
+### Reasons not to mix: No
 
 Don't mix too many formats. Too many different rules to remember. Or use different format for communication between services \(ie: JSON, or XML files\)
 
