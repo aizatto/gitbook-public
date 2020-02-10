@@ -1,5 +1,9 @@
 # Reviewing Code
 
+Reviews should always provide constructive feedback.
+
+When reviewing, always suggest a better possible state.
+
 Review for clarity.
 
 Review knowing that it will be read later.
@@ -35,12 +39,12 @@ To write about:
 
 * Consider the architecture.
 * Are they using the descriptive names \(variables, functions, classes, etc...\)?
-* Check the directory structure. Its really easy to miss this.
+* Check the directory structure. It's really easy to miss this.
 * Dont blame break history.
 
 ### Death by a thousand cuts/commits/diffs
 
-Becareful of death by a thousand cuts/commits/diffs. It is very easy to lose track of the architecture of a library
+Becareful of death by a thousand cuts/commits/diffs. It is very easy to lose track of the architecture of a code base.
 
 ### Don't pollute commit history
 
