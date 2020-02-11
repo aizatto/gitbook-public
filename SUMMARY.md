@@ -165,6 +165,7 @@
   * [Referral Codes](notes/archive/referral-codes.md)
   * [Remote Work](notes/archive/remote-work.md)
   * [Road Trips](notes/archive/road-trips.md)
+  * [Ruby](notes/archive/ruby.md)
   * [Scraping](notes/archive/scraping.md)
   * [Stripe](notes/archive/stripe.md)
   * [Singapore](notes/archive/singapore.md)
