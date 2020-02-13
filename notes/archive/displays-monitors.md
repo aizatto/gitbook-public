@@ -14,7 +14,7 @@ Reviews:
   * [The Best 27" Monitors](https://thewirecutter.com/reviews/best-27-inch-monitor/)
   * [The Best 4K Monitors](https://thewirecutter.com/reviews/best-4k-monitors/)
 
-My Preference: Ultrawide &gt; 27" \(2560x1440\) &gt; 4K
+My Preference: 38" 3880 x1600
 
 ## Work
 
