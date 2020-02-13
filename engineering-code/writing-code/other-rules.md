@@ -38,7 +38,7 @@ Input/Output:
 Process:
 
 * How long did it take
-* How mucch processing time is used
+* How much processing time is used
 * How much memory did it use
 * How much bandwidth was used
 
