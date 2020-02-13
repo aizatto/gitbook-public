@@ -7,6 +7,7 @@
 * Long functions
 * Spaghetti code
 * Bad naming
+* Magic constants
 
 
 
