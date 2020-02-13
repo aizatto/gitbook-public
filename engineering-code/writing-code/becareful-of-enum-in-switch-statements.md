@@ -1,4 +1,4 @@
-# Becareful of enum in switch statements
+# Be careful of enum in switch statements
 
 If an `enum` is in more than one `switch` statement. Consider making a factory class which returns singleton class for the enum value.
 
