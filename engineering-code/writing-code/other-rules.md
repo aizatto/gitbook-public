@@ -14,10 +14,6 @@ description: Rules I haven't formatted properly
 
 #### Avoid Single Letter Variable Names
 
-## Write Code Knowing It Will Be Refactored
-
-Code will always be refactored. Accept this.
-
 ## Leave It Better Than You Left It
 
 ## Small Functions
