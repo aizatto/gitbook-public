@@ -1,6 +1,6 @@
 # Writing Code
 
-* The moment you write code, its already technical debt.
+* The moment you write code, it is already technical debt.
 * Every new line of code is an investment
   * How do you manage your investment?
 
@@ -22,7 +22,7 @@ More time will be spent reading and understanding code, than writing it. Reading
 
 Write so that it is easy to understand.
 
-Write to reduce "WTFs/minute". \[WTFs/minute is the only valid measurement of code quality\]\([http://www.osnews.com/story/19266/WTFs\_m](http://www.osnews.com/story/19266/WTFs_m)"\).
+Write to reduce "WTFs/minute". source: [WTFs/minute is the only valid measurement of code quality](http://www.osnews.com/story/19266/WTFs_m)
 
 Write with the aim to reduce surprises.
 
