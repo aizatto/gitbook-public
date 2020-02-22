@@ -100,6 +100,7 @@
   * [Working with Multiple Raspberry Pis](notes/raspberry-pi/working-with-multiple-raspberry-pis.md)
 * [Serverless](notes/serverless.md)
 * [Software Engineering](notes/software-engineering/README.md)
+  * [Pair Programming](notes/software-engineering/pair-programming.md)
   * [Software Architectures](notes/software-engineering/software-architectures/README.md)
     * [Monolithic](notes/software-engineering/software-architectures/monolithic.md)
     * [Non-Monolithic](notes/software-engineering/software-architectures/non-monolithic/README.md)
