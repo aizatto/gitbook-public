@@ -33,6 +33,7 @@
     * [Make It Easy To Reproduce](engineering-code/writing-code/make-it-easy-to-reproduce.md)
     * [Scripts](engineering-code/writing-code/scripts.md)
     * [80 character limit](engineering-code/writing-code/80-character-limit.md)
+    * [Exit Early](engineering-code/writing-code/exit-early.md)
     * [Be careful of enum in switch statements](engineering-code/writing-code/becareful-of-enum-in-switch-statements.md)
     * [Be careful about chaining conditions](engineering-code/writing-code/be-careful-about-chaining-conditions.md)
     * [Be careful of chaining ternary operators](engineering-code/writing-code/becareful-of-chains-of-ternary-operators.md)
