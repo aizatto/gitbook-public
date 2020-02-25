@@ -7,6 +7,8 @@ Things to have a discussion on:
 * Architecture
 * Data Structures
 * Things which can create technical debt
+* Hacks
+* Exception/niche cases
 
 Things to not have a discussion on:
 
@@ -15,7 +17,9 @@ Things to not have a discussion on:
 * Technical debt that is easy to fix
   * using prettiers/linters/formatting tools
 
-## Commit first, then make changes
+## Communication Templates
+
+### Commit first, then make changes
 
 Message:
 
