@@ -36,7 +36,7 @@ hub browse
 
 ### Cons
 
-* Doesn't show size of pull requests
+* On the "Pull Requests" page, it doesn't show size of pull requests
   * Makes it easier to quickly gauge which PRs to review
 * Pull Requests
   * Code comments don't span multiple lines
