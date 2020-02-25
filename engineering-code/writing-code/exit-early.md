@@ -31,6 +31,9 @@ Reasons to exit early:
 * Reduces cognitive load
 * Reduces indents
 * We know success will always be at the end
+* Structures your functions:
+  * Validation/error handling at the beginning
+  * Successful at the end
 
 Resources
 
