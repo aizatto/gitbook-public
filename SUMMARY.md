@@ -160,6 +160,7 @@
   * [Fiverr](notes/archive/fiverr.md)
   * [Flights](notes/archive/flights.md)
   * [Gaming Tablet](notes/archive/gaming-tablet.md)
+  * [GitHub](notes/archive/github.md)
   * [GTD](notes/archive/gtd.md)
   * [Go Lang](notes/archive/go-lang.md)
   * [GoPro MAX](notes/archive/gopro-max.md)
