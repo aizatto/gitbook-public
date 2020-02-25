@@ -1,6 +1,8 @@
 # GitHub
 
-See [character-length](https://github.com/aizatto/character-length)
+* See [character-length](https://github.com/aizatto/character-length)
+  * Learn more about GitHub UI limitations
+* See [git](cli/git.md)
 
 ## Notifications
 
@@ -12,29 +14,11 @@ See [character-length](https://github.com/aizatto/character-length)
     * Automatically watch repositories
     * Change notification custom routing to your "other" email
 
-## Pull Requests
-
-## [Hub](https://github.com/github/hub)
-
-```bash
-brew install hub
-```
-
-[https://github.com/github/hub/issues/435](https://github.com/github/hub/issues/435)
-
-Disable 2factor temporarily
-
-Open current repository in your browser
-
-```bash
-hub browse
-```
-
-### Pros
+## GitHub Pros
 
 * Searching [https://help.github.com/articles/searching-code/](https://help.github.com/articles/searching-code/)
 
-### Cons
+## GitHub Cons
 
 * On the "Pull Requests" page, it doesn't show size of pull requests
   * Makes it easier to quickly gauge which PRs to review
@@ -52,7 +36,7 @@ hub browse
 * [https://github.com/dear-github/dear-github](https://github.com/dear-github/dear-github)
 * [https://www.reddit.com/r/golang/comments/71g6c8/proposal\_just\_use\_github\_issue\_21956\_golanggo/](https://www.reddit.com/r/golang/comments/71g6c8/proposal_just_use_github_issue_21956_golanggo/)
 
-### Notes
+## Notes
 
 * Go is on GitHub, but they use Gerrit for code review
 
@@ -62,4 +46,22 @@ hub browse
 * Upsource
 * Phabricator
 * Critque \(Used at Google\)
+
+## Tooling
+
+### [Hub](https://github.com/github/hub)
+
+```bash
+brew install hub
+```
+
+[https://github.com/github/hub/issues/435](https://github.com/github/hub/issues/435)
+
+Disable 2factor temporarily
+
+Open current repository in your browser
+
+```bash
+hub browse
+```
 
