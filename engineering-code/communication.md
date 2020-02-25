@@ -5,12 +5,15 @@ The goal of this page is to provide template messages you can use to operate fas
 Things to have a discussion on:
 
 * Architecture
+* Data Structures
 * Things which can create technical debt
 
 Things to not have a discussion on:
 
 * Things which can be automatically fixed
   * ie: styles
+* Technical debt that is easy to fix
+  * using prettiers/linters/formatting tools
 
 ## Commit first, then make changes
 
