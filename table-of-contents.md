@@ -75,7 +75,7 @@ View document in [GitHub](https://github.com/aizatto/gitbook-public/blob/master/
 | `8.1` Terminology | [aizatto.com](https://www.aizatto.com/getting-into-tech/terminology) | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/getting-into-tech/terminology.md) | [GitBook](https://app.gitbook.com/@aizatto/s/public/getting-into-tech/terminology) | `57` |
 | `9` Personal Goals | [aizatto.com](https://www.aizatto.com/personal-goals) | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/personal-goals.md) | [GitBook](https://app.gitbook.com/@aizatto/s/public/personal-goals) | `58` |
 
-## Notes
+### Notes
 
 | Name | aizatto.com | GitHub | GitBook | Page |
 | :--- | :--- | :--- | :--- | :--- |

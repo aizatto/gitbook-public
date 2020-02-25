@@ -2,6 +2,16 @@
 
 The goal of this page is to provide template messages you can use to operate faster. By knowing how to communicate, one can move faster
 
+Things to have a discussion on:
+
+* Architecture
+* Things which can create technical debt
+
+Things to not have a discussion on:
+
+* Things which can be automatically fixed
+  * ie: styles
+
 ## Commit first, then make changes
 
 Message:
