@@ -27,6 +27,8 @@
   * You cannot comment on files outside modified lines \(within a window\), this is useful for pointing out other errors in the file.
   * Commit Message is not prefilled with 1st comment. You can have Pull Request Templates, but it's not the same. That is a "post" event. we should be able to edit the message before merging.
   * Styling. The Headers \(h1\) make it feel like such a heavy code.
+  * Can't compare with the last commit in a PR
+    * Hard to see fixes between commits in a PR
 * Comments can't be made on branch comparisons
   * You have to make a PR first
   * [https://github.com/aizatto/git-mv/compare/compare\#diff-c3d57eb88086a04b1e04d06a9b6188e5R3](https://github.com/aizatto/git-mv/compare/compare#diff-c3d57eb88086a04b1e04d06a9b6188e5R3)
