@@ -7,6 +7,7 @@ Things to have a discussion on:
 * Architecture
 * Data Structures
 * Things which can create technical debt
+* When we break rules/conventions
 * Hacks
 * Exception/niche cases
 
