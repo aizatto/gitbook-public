@@ -6,6 +6,8 @@
 
 ## Notifications
 
+Important to configure this when joining a company
+
 * Add your "other" email to GitHub emails
   * [https://github.com/settings/emails](https://github.com/settings/emails)
 * Notifications
