@@ -29,6 +29,7 @@
   * Styling. The Headers \(h1\) make it feel like such a heavy code.
   * Can't compare with the last commit in a PR
     * Hard to see fixes between commits in a PR
+  * Conversations can be "resolved", hiding conversations, no way to prevent this from happening
 * Comments can't be made on branch comparisons
   * You have to make a PR first
   * [https://github.com/aizatto/git-mv/compare/compare\#diff-c3d57eb88086a04b1e04d06a9b6188e5R3](https://github.com/aizatto/git-mv/compare/compare#diff-c3d57eb88086a04b1e04d06a9b6188e5R3)
