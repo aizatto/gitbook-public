@@ -162,6 +162,7 @@
   * [eCommerce](notes/archive/ecommerce.md)
   * [Empire Building](notes/archive/empire-building.md)
   * [Facebook for Developers](notes/archive/facebook-for-developers.md)
+  * [Fever](notes/archive/fever.md)
   * [Fiverr](notes/archive/fiverr.md)
   * [Flights](notes/archive/flights.md)
   * [Gaming Tablet](notes/archive/gaming-tablet.md)
