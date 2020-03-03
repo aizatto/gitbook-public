@@ -243,6 +243,7 @@ git config --add commit.message FILE
 * [Open Source Templates](https://www.talater.com/open-source-templates/#/)
 * [Kernel Newbies: Patch Philosophy](https://kernelnewbies.org/PatchPhilosophy)
 * [https://github.com/RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide)
+* [ESLint Commit Messages](https://eslint.org/docs/developer-guide/contributing/pull-requests#step2)
 
 ### Angular
 
