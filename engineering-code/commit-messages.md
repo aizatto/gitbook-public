@@ -97,7 +97,7 @@ Contains succinct description of the change.
 
 **Semantic Release**
 
-Adapted from Angular:
+Adapted from [Angular](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit):
 
 Types:
 
@@ -105,13 +105,17 @@ Types:
 * `ci`: Changes to our CI configuration files and scripts \(example scopes: Travis, Circle, BrowserStack, SauceLabs\)
 * `config`: Changes to any configurations.
 * `docs`: Documentation only changes
-* `feat`: A new feature
+* `feature`: A new feature
 * `fix`: A bug fix
 * `perf`: A code change that improves performance
 * `refactor`: A code change that neither fixes a bug nor adds a feature
 * `revert`: The summary of the commit that was reverted
 * `style`: Changes that do not affect the meaning of the code \(white-space, formatting, missing semi-colons, etc\)
 * `test`: Adding missing tests or correcting existing tests
+* `typos`: Fixing typos in flavor text
+* `ux`: Improvements to User Experiences \(ie: changes to color\)
+  * Not to be confused with `ui`.
+  * Using `ux` to emphasis the impact of the `ui`
 
 #### Summary
 
