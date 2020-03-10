@@ -36,4 +36,13 @@ Notes:
 
 * Python recommends [79 characters](https://www.python.org/dev/peps/pep-0008/#maximum-line-length)
 * I've [tested out character length](https://github.com/aizatto/character-length) on different sites
+* AirBNB
+  * [JavaScript](https://github.com/airbnb/javascript#strings--line-length): 100 characters
+  * [Ruby](https://github.com/airbnb/ruby/blob/master/rationales.md#line-length): 100 characters
+* Google
+  * [C++](https://google.github.io/styleguide/cppguide.html#Line_Length): 80 characters
+  * [Java](https://google.github.io/styleguide/javaguide.html#s4.4-column-limit): 100 characters
+  * [JavaScript](https://google.github.io/styleguide/jsguide.html#formatting-column-limit): 80 characters
+  * [Python](https://google.github.io/styleguide/pyguide.html#32-line-length): 80 characters
+  * [Swift](https://google.github.io/swift/#column-limit): 100 characters
 
