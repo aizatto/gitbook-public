@@ -119,6 +119,7 @@
   * [React](notes/web-development/react.md)
   * [SSO Providers](notes/web-development/sso-providers.md)
 * [Archive](notes/archive/README.md)
+  * [Slack](notes/archive/slack.md)
   * [Amazon Echo Dot \(3rd Gen\) with clock](notes/archive/amazon-echo-dot-3rd-gen-with-clock.md)
   * [Apple](notes/archive/apple/README.md)
     * [AirPods Pro](notes/archive/apple/airpods.md)

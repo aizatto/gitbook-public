@@ -90,3 +90,7 @@ Pros:
 
 ### D: Non Monolithic and Multirepo
 
+Cons:
+
+* Increased operaitonal complexity and cognitive load
+

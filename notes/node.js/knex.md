@@ -59,7 +59,7 @@ This explains what the file does.
   * Follows [JavaScript Style Guides](../javascript/style-guides.md) for local variables
   * Exception relational id, for example: `entryID`
 
-Also see [Engineering Code &gt; Naming](../../engineering-code/naming.md#common-names)
+Also see [Engineering Code &gt; Naming](../../engineering-code/writing-code/naming/#common-names)
 
 ### Promises:
 

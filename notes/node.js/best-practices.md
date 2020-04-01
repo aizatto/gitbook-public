@@ -135,6 +135,12 @@ require('dotenv').config()
 
 TypeScript:
 
+```bash
+ts-node -r dotenv/config scripts/test.sh
+```
+
+Or
+
 ```typescript
 import { config: dotenv } from "dotenv"
 dotenv();

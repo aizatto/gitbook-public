@@ -20,3 +20,8 @@ printf(
 );
 ```
 
+Resolution:
+
+* Always leave trailing commas
+* For long arguments, consider splitting them over multiple lines
+

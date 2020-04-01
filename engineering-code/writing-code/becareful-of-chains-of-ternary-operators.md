@@ -1,4 +1,4 @@
-# Be careful of chains of ternary operators
+# Be careful of chaining ternary operators
 
 A chain of ternary operators make it hard to judge what is happening.
 
