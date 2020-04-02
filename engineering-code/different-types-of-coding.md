@@ -119,8 +119,10 @@ Needed for an early stage startup.
 ## Digital Agency Engineer
 
 * Continually starts projects from scratch
+* May have surface level experience with lots of different technologies
 
 Cons:
 
 * No experience with dealing with technical debt, or reducing it
+* No experience with scaling
 

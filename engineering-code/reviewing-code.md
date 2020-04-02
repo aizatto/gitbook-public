@@ -79,6 +79,12 @@ Check for:
 
 ### Don't create technical debt
 
+## Things to communicate as a reviewer
+
+* If things are a nonblocker
+* If things can be fixed in another PR
+  * This allows them to maintain momentum
+
 ## Resources
 
 * [https://mtlynch.io/human-code-reviews-1/](https://mtlynch.io/human-code-reviews-1/)
