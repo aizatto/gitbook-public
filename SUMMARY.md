@@ -41,7 +41,6 @@
     * [Hacks](engineering-code/writing-code/hacks.md)
     * [Bad Practices](engineering-code/writing-code/bad-practices.md)
     * [Logs](engineering-code/writing-code/logs.md)
-    * [Time](engineering-code/writing-code/time.md)
     * [Other rules](engineering-code/writing-code/other-rules.md)
   * [Engineering Code](engineering-code/engineering-code-1.md)
   * [Engineering Data](engineering-code/engineering-data.md)
