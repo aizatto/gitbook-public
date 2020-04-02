@@ -116,3 +116,11 @@ Needed for an early stage startup.
     * How many machines?
     * How many queries can each machine handle?
 
+## Digital Agency Engineer
+
+* Continually starts projects from scratch
+
+Cons:
+
+* No experience with dealing with technical debt, or reducing it
+
