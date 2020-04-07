@@ -121,6 +121,7 @@ Needed for an early stage startup.
 * Continually starts projects from scratch
 * May have surface level experience with lots of different technologies
 * Most likely to have breadth over depth
+* Most likely not used to firefighting in a product company
 
 Cons:
 
