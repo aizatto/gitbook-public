@@ -153,7 +153,7 @@
     * [The Problematic CTO](notes/archive/company/the-problematic-cto.md)
     * [Organizational Structure](notes/archive/company/organizational-structure.md)
   * [Content Creation](notes/archive/content-creation.md)
-  * [Corona Virus](notes/archive/corona-virus.md)
+  * [COVID 19/Corona Virus](notes/archive/corona-virus.md)
   * [Coworking Spaces](notes/archive/coworking-spaces.md)
   * [Daily Routine](notes/archive/daily-routine.md)
   * [Dating](notes/archive/dating.md)

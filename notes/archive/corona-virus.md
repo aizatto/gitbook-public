@@ -1,4 +1,25 @@
-# Corona Virus
+# COVID 19/Corona Virus
+
+## Stay at Home Recommendations
+
+* Knowing this is long term, I've rearranged my furniture making it more comfortable to move around, preparing for long term
+  * I've made my balcony more comfortable, I haven't spent as much time on it as I have now
+* Shipments from China take much longer now, this means online deliveries may take longer. If possibly can order locally
+  * Order things knowing they may 1-2+ weeks to arrive
+* Prices for non essential has gone up. Nintendo Switches have increased in price in Malaysia
+* Great time to learn something! I've been learning DevOps, Docker, Kubernetes, Helm, GoCD
+  * Great time to learn cooking!
+* It's a great time to rearrange your house~
+* Exercise at home, lots of people doing online fitness exercises
+* Online delivery of food is fully booked for the week+
+* You’ll eat more, since there is nothing else to do
+
+Boyfriends/husbands, don't know what grocery is what? These guide may help you out
+
+* [https://www.facebook.com/TescoMY/posts/3021709417866945](https://www.facebook.com/TescoMY/posts/3021709417866945)
+* [https://www.facebook.com/TescoMY/posts/3030061550365065](https://www.facebook.com/TescoMY/posts/3030061550365065)
+
+There are a lot of learning resources available online for free now~That's all I remember for now, will share more as I remember
 
 ## FAQ
 
