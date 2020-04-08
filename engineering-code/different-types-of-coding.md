@@ -122,6 +122,7 @@ Needed for an early stage startup.
 * May have surface level experience with lots of different technologies
 * Most likely to have breadth over depth
 * Most likely not used to firefighting in a product company
+* Because they always start on new code, they dont have the ability to inherit code from others, and thus dont know how to share code to be handed over
 
 Cons:
 
