@@ -100,6 +100,21 @@ Controlling Sound \(to HDMI/DisplayPort/USB-C\)
 * Node.js: [nvm](https://github.com/creationix/nvm)
 * Ruby: [rvm](https://rvm.io/)
 
+nvm:
+
+```bash
+nvm install --lts
+nvm alias default v12.16.2
+nvm use default
+```
+
+rvm:
+
+```text
+rvm list known
+rvm install ruby-2.7
+```
+
 ### System Preferences
 
 In macOS Catalina \(top left to bottom right\)
