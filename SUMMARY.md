@@ -150,6 +150,7 @@
   * [Cloud Providers](notes/archive/cloud-providers/README.md)
     * [GCP](notes/archive/cloud-providers/gcp.md)
   * [Communication](notes/archive/communication/README.md)
+    * [Asks / Making Requests](notes/archive/communication/asks-making-requests.md)
     * [Synchronous  vs Asynchronous](notes/archive/communication/synchronous-vs-asynchronous.md)
     * [Change Management](notes/archive/communication/change-management.md)
     * [Problem Definition](notes/archive/communication/problem-definition.md)
