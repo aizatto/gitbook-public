@@ -1,5 +1,9 @@
 # Slack
 
+Plugins
+
+* [Hangout](https://xfers.slack.com/services/B011RK43YJZ)
+
 Leaving / Archiving channels
 
 ## Archiving
