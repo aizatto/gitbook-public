@@ -1,4 +1,4 @@
-# Asks / Making Requests
+# Asking Questions / Making Requests
 
 * Be specific about what you are asking for
 * If there is a priority,  state it
