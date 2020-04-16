@@ -6,9 +6,14 @@
 
 ## Examples
 
-Example of a bad request:
+### Example of a bad request:
 
 > Could you get me that?
 
 What is "that"?
+
+### Example good question:
+
+> Hi, may I get access to X?  
+> I need access to X to do Y to achieve Z purpose.
 
