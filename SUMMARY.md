@@ -79,6 +79,7 @@
 * [JavaScript](notes/javascript/README.md)
   * [Array](notes/javascript/array.md)
   * [Async & Await / Promises](notes/javascript/async-and-await-promises.md)
+  * [Booleans](notes/javascript/booleans.md)
   * [Collections](notes/javascript/collections.md)
   * [Cons/Dislikes](notes/javascript/cons-dislikes.md)
   * [fetch](notes/javascript/fetch.md)
