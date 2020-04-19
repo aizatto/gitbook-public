@@ -1,5 +1,7 @@
 # Board Games
 
+## Games
+
 * Catan
 * Citadels
 * Dixit
@@ -12,6 +14,18 @@
 * Power Grid
 * Code names
 * Ghost blitz
+
+## Board Games in General
+
+I like playing card/board games, they teach:
+
+* strategy
+  * putting your opponents at a disadvantage
+* risk / reward
+* resource management
+* faith / hope 
+
+They don’t have the pressure of a video game and Fast reflexes
 
 ## Learning Rules
 
