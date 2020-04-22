@@ -196,6 +196,7 @@
   * [Musicals](notes/archive/musicals.md)
   * [Movies](notes/archive/movies.md)
   * [Password Managers](notes/archive/password-managers.md)
+  * [Phabricator](notes/archive/phabricator.md)
   * [Physical Health](notes/archive/physical-health/README.md)
     * [Cardio](notes/archive/physical-health/cardio.md)
   * [Podcasts](notes/archive/podcasts.md)
