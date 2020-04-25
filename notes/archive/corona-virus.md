@@ -28,8 +28,11 @@ Wearing a mask
 * You should a mask only if you are sick.
   * The mask protects other people from yourself
   * It doesn't protect you from others
+  * Unfortunately, requires sick people to wear the mask
 
+Quarantine Games
 
+* [https://docs.google.com/document/d/10iOD7Wy\_YU4NmkPU7ZH7YTrq11qJAANjZZ0PAotKhR8/preview?fbclid=IwAR3E011IDjQ--tkrSPh1SRXHBN\_yaGINld93RqM1\_FAHl4i4Tkoa3QQKmFA](https://docs.google.com/document/d/10iOD7Wy_YU4NmkPU7ZH7YTrq11qJAANjZZ0PAotKhR8/preview?fbclid=IwAR3E011IDjQ--tkrSPh1SRXHBN_yaGINld93RqM1_FAHl4i4Tkoa3QQKmFA)
 
 Resources
 
