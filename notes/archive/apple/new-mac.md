@@ -75,6 +75,7 @@ curl https://sdk.cloud.google.com | bash
 * [Docker](https://store.docker.com/editions/community/docker-ce-desktop-mac)
 * [Dropbox](https://www.dropbox.com/downloading?src=index)
 * [iTerm](https://www.iterm2.com)
+* [GeekBench](https://www.geekbench.com/download/)
 * [Google Chrome](https://www.google.com/chrome/)
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 * Logitech
