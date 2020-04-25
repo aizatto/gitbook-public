@@ -22,6 +22,8 @@ brew install \
   watch \
   watchman \
   yarn
+  
+brew install MisterTea/et/et
 ```
 
 dotfiles [https://github.com/aizatto/dotfiles](https://github.com/aizatto/dotfiles)
@@ -90,6 +92,7 @@ curl https://sdk.cloud.google.com | bash
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [VLC](http://www.videolan.org)
 * [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
+* [Eternal Terminal](https://eternalterminal.dev/download/)
 
 Controlling Sound \(to HDMI/DisplayPort/USB-C\)
 
@@ -104,6 +107,7 @@ Controlling Sound \(to HDMI/DisplayPort/USB-C\)
 nvm:
 
 ```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 nvm install --lts
 nvm alias default v12.16.2
 nvm use default
@@ -112,6 +116,7 @@ nvm use default
 rvm:
 
 ```text
+curl -sSL https://get.rvm.io | bash -s stable
 rvm list known
 rvm install ruby-2.7
 ```
