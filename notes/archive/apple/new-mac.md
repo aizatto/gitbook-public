@@ -91,6 +91,7 @@ curl https://sdk.cloud.google.com | bash
 * [Spotify](https://www.spotify.com/my-en/download/)
 * [Sonos](https://www.sonos.com/en/support)
 * [Visual Studio Code](https://code.visualstudio.com/)
+* [Visual Studio Code \(Insiders\)](https://code.visualstudio.com/insiders/)
 * [VLC](http://www.videolan.org)
 * [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 * [Eternal Terminal](https://eternalterminal.dev/download/)
@@ -101,6 +102,8 @@ Controlling Sound \(to HDMI/DisplayPort/USB-C\)
 * [https://github.com/the0neyouseek/MonitorControl/releases](https://github.com/the0neyouseek/MonitorControl/releases)
 
 ### Programming
+
+#### Virtual Environments
 
 * Node.js: [nvm](https://github.com/creationix/nvm)
 * Python: [pyenv](https://github.com/pyenv/pyenv)
@@ -128,6 +131,18 @@ rvm install ruby-2.7
 ```bash
 pyenv install --ls
 pyenv install $LATEST # 3.8.2
+pip3 install iterm2 # for use with iterm
+```
+
+#### Visual Studio Code
+
+Fix VSCode with vim plugin
+
+[https://stackoverflow.com/questions/39972335/how-do-i-press-and-hold-a-key-and-have-it-repeat-in-vscode](https://stackoverflow.com/questions/39972335/how-do-i-press-and-hold-a-key-and-have-it-repeat-in-vscode)
+
+```text
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
+defaults write com.microsoft.VSCodeInsiders ApplePressAndHoldEnabled -bool false
 ```
 
 ### System Preferences
