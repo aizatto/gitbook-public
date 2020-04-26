@@ -19,6 +19,7 @@ brew install \
   hub \
   macvim \
   mosh \
+  pyenv \
   watch \
   watchman \
   yarn
@@ -31,7 +32,7 @@ dotfiles [https://github.com/aizatto/dotfiles](https://github.com/aizatto/dotfil
 ```bash
 mkdir src
 cd src
-git clone https://github.com/aizatto/dotfiles.git
+git clone git@github.com:aizatto/dotfiles.git
 cd dotfiles
 ./install.sh
 ```
@@ -102,6 +103,7 @@ Controlling Sound \(to HDMI/DisplayPort/USB-C\)
 ### Programming
 
 * Node.js: [nvm](https://github.com/creationix/nvm)
+* Python: [pyenv](https://github.com/pyenv/pyenv)
 * Ruby: [rvm](https://rvm.io/)
 
 nvm:
@@ -109,7 +111,7 @@ nvm:
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 nvm install --lts
-nvm alias default v12.16.2
+nvm alias default $LATEST # v12.16.2
 nvm use default
 ```
 
@@ -119,6 +121,13 @@ rvm:
 curl -sSL https://get.rvm.io | bash -s stable
 rvm list known
 rvm install ruby-2.7
+```
+
+[pyenv](https://github.com/pyenv/pyenv):
+
+```bash
+pyenv install --ls
+pyenv install $LATEST # 3.8.2
 ```
 
 ### System Preferences
