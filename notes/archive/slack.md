@@ -6,6 +6,14 @@ Plugins
 
 Leaving / Archiving channels
 
+
+
+Reminders:
+
+```text
+/remind "@here Daily Standup @ 12pm  SGT / 11am JKT XXX" every weekday at 11.00am
+```
+
 ## Archiving
 
 > Archiving this channel, please see URL for more information. Will unarchive as needed.
