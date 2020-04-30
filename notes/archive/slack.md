@@ -11,7 +11,7 @@ Leaving / Archiving channels
 Reminders:
 
 ```text
-/remind "@here Daily Standup @ 12pm  SGT / 11am JKT XXX" every weekday at 11.00am
+/remind #channel "@here Daily Standup @ 12pm  SGT / 11am JKT XXX" every weekday at 11.00am
 ```
 
 ## Archiving
