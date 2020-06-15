@@ -73,7 +73,9 @@
       </td>
     </tr>
   </tbody>
-</table>* You can use identity pools and user pools separately or together.
+</table>
+
+* You can use identity pools and user pools separately or together.
 * To save user profile information, your identity pool needs to be integrated with a user pool.
 * [https://docs.aws.amazon.com/cognito/index.html](https://docs.aws.amazon.com/cognito/index.html)
 

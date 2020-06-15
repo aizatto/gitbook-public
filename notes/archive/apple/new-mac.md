@@ -41,13 +41,15 @@ cd dotfiles
 
 ```bash
 brew cask install \
-    docker \
-    iterm2 \
-    kitematic \
-    postman \
-    spotify \
-    visual-studio-code \
-    vlc
+  docker \
+  iglance \
+  iterm2 \
+  kitematic \
+  ngrok \
+  postman \
+  spotify \
+  visual-studio-code \
+  vlc
     
 # Issues with these
 brew cask install \

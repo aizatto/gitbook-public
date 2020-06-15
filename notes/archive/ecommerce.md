@@ -59,7 +59,9 @@
       </td>
     </tr>
   </tbody>
-</table>## Shopify
+</table>
+
+## Shopify
 
 * Podcast: Shopify Masters
   * [https://castbox.fm/channel/Shopify-Masters-%7C-The-ecommerce-business-and-marketing-podcast-for-ambitious-entrepreneurs-id491553?country=us](https://castbox.fm/channel/Shopify-Masters-%7C-The-ecommerce-business-and-marketing-podcast-for-ambitious-entrepreneurs-id491553?country=us)
