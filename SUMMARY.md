@@ -189,6 +189,7 @@
   * [Home Device Calling](notes/archive/home-device-calling.md)
   * [iCalendar](notes/archive/icalendar.md)
   * [Keyboards](notes/archive/keyboards.md)
+  * [Ergodox Ez](notes/archive/ergodox-ez.md)
   * [Malaysia Insurance](notes/archive/malaysia-insurance.md)
   * [Mental Health Malaysia](notes/archive/mental-health-malaysia.md)
   * [Migraine](notes/archive/migraine.md)
