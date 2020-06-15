@@ -8,6 +8,8 @@ Thoughts:
 * Require rewiring your muscle memory
 * Wish there was an FN row
 * Maybe custom qwerty layout, with customizable keys
+* Keys feel a little rough, not polished
+* Also key caps feel a little soft
 
 ## Costs to Malaysia
 
