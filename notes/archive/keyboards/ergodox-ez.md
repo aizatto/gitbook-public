@@ -10,6 +10,10 @@ Thoughts:
 * Maybe custom qwerty layout, with customizable keys
 * Keys feel a little rough, not polished
 * Also key caps feel a little soft
+* Need a larger desktop resolution than 1280 to modify keys
+* Tilt kit can be of higher quality
+* I feel in general it be higher quality
+* Expected LEdS to be brighter
 
 ## Costs to Malaysia
 
