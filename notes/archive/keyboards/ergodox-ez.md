@@ -16,6 +16,9 @@ Thoughts:
 * Expected LED to be brighter
 * Wished it was USB-C
 * Wish the USB Port was on the left side.
+* Status LEDs are super bright, can't seem to dim them
+* Not all keys are lit up
+* Chonky
 
 ## Costs to Malaysia
 
