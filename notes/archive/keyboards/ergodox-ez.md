@@ -1,6 +1,13 @@
 # Ergodox Ez
 
-[https://ergodox-ez.com/](https://ergodox-ez.com/)
+* [https://ergodox-ez.com/](https://ergodox-ez.com/)
+* [Layout ](https://configure.ergodox-ez.com/ergodox-ez/layouts/9wKPo/latest/0)
+
+Thoughts:
+
+* Require rewiring your muscle memory
+* Wish there was an FN row
+* Maybe custom qwerty layout, with customizable keys
 
 ## Costs to Malaysia
 
