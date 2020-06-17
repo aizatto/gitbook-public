@@ -19,6 +19,7 @@ Thoughts:
 * Status LEDs are super bright, can't seem to dim them
 * Not all keys are lit up
 * Chonky
+* Ortholinear
 
 ## Costs to Malaysia
 
