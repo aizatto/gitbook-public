@@ -195,6 +195,7 @@
   * [Migraine](notes/archive/migraine.md)
   * [Multiroom Wireless Speaker System](notes/archive/multiroom-wireless-speaker-system.md)
   * [Musicals](notes/archive/musicals.md)
+  * [Mouse](notes/archive/mouse.md)
   * [Movies](notes/archive/movies.md)
   * [Password Managers](notes/archive/password-managers.md)
   * [Phabricator](notes/archive/phabricator.md)
