@@ -65,6 +65,7 @@
 * [Getting into Tech](getting-into-tech/README.md)
   * [Terminology](getting-into-tech/terminology.md)
 * [Personal Goals](personal-goals.md)
+* [Daily Drivers](daily-drivers.md)
 
 ## Notes
 
