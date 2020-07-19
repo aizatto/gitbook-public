@@ -4,7 +4,8 @@ Links
 
 1. [http://www.dvgiochi.net/bang/bang\_rules.pdf](http://www.dvgiochi.net/bang/bang_rules.pdf)
 2. [http://www.dvgiochi.net/bang/bang\_faq\_eng.pdf](http://www.dvgiochi.net/bang/bang_faq_eng.pdf)
-3. [https://www.ultraboardgames.com/bang/cards.php](https://www.ultraboardgames.com/bang/cards.php)
+3. [https://www.dvgiochi.com/giochi/Bang-TheDuel/download/BANGTheDuel\_faq\_eng.pdf](https://www.dvgiochi.com/giochi/Bang-TheDuel/download/BANGTheDuel_faq_eng.pdf)
+4. [https://www.ultraboardgames.com/bang/cards.php](https://www.ultraboardgames.com/bang/cards.php)
 
 Keywords:
 
@@ -45,6 +46,15 @@ You can use BANG! as many times as you want.
 > With this card in play you may play any number of BANG! cards during your turn. These BANG! cards can be aimed at the same or different targets, but are limited to a distance of 1
 
 ### Playing Cards
+
+#### Beer
+
+> The Beer can be played in two ways:
+>
+> 1. As usual, during your turn
+> 2. out of turn, but only if you have received a hit that is lethal \(i.e. a hit that takes away your last life point\), and not if you are simply hit.
+>
+> Beer has no effect if there are only 2 players left in the game
 
 #### Panic! _Panico!_
 
