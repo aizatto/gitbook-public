@@ -208,6 +208,7 @@
   * [Property](notes/archive/property.md)
   * [Productivity](notes/archive/productivity/README.md)
     * [Note Taking](notes/archive/productivity/note-taking.md)
+  * [Redang](notes/archive/redang.md)
   * [Relationships](notes/archive/relationships.md)
   * [Referral Codes](notes/archive/referral-codes.md)
   * [Remote Calls](notes/archive/remote-calls.md)
