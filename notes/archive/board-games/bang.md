@@ -39,6 +39,8 @@ Renegade: he wants to be the new Sheriff; his goal is to be the last character i
 
 ### Weapons
 
+You always have a Colt.45 \(distance  of 1\)
+
 #### Volcanic
 
 You can use BANG! as many times as you want.
@@ -47,7 +49,7 @@ You can use BANG! as many times as you want.
 
 ### Playing Cards
 
-#### Beer
+#### Beer / _Birra_
 
 > The Beer can be played in two ways:
 >
@@ -55,17 +57,6 @@ You can use BANG! as many times as you want.
 > 2. out of turn, but only if you have received a hit that is lethal \(i.e. a hit that takes away your last life point\), and not if you are simply hit.
 >
 > Beer has no effect if there are only 2 players left in the game
-
-#### Panic! _Panico!_
-
-> The symbols state: "Draw a card" from "a player at distance 1". Remember that this distance is not modified by weapons, but only by cards such as Mustang and/or scope.
-
-Can be used to take any card in play. Dynamite, Jail, Barrel.
-
-[https://boardgames.stackexchange.com/questions/48162/should-the-barrel-being-discarded-when-hit-bang](https://boardgames.stackexchange.com/questions/48162/should-the-barrel-being-discarded-when-hit-bang)
-
-> Q28. Can I use **Panic!** or **Cat Balou** on cards in play?  
-> A. Of course yes. You can play the Cat Balou on a card in an opponent’s hand \(randomly choosing which card to pick\) or on any one card in play, at your choice. The same for Panic!, with the following differences: you can target only cards of a player at distance 1, and the card you choose goes in your hand even if it was already in play. When that card is in your hand, you can play it as any other card.
 
 #### Cat Balou
 
@@ -78,6 +69,12 @@ Can be used to discard any card in play. Dynamite, Jail, Barrel.
 > Q28. Can I use **Panic!** or **Cat Balou** on cards in play?  
 > A. Of course yes. You can play the Cat Balou on a card in an opponent’s hand \(randomly choosing which card to pick\) or on any one card in play, at your choice. The same for Panic!, with the following differences: you can target only cards of a player at distance 1, and the card you choose goes in your hand even if it was already in play. When that card is in your hand, you can play it as any other card.
 
+#### Dynamite
+
+Also see: Jail
+
+> Players keep passing the Dynamite around until it explodes with the effect explained above, or it is draw or discarded by a Panic! or Cat Balou!If you have both the Dynamite and a Jail in play, check the Dynamite first. If you are damaged \(or even eliminated!\) by a Dynamite, this damage is not considered to be caused by any player.
+
 #### Gatling
 
 > It is not considered a BANG! cad
@@ -86,7 +83,16 @@ Can be used to discard any card in play. Dynamite, Jail, Barrel.
 
 > Jail cannot be played on the Sheriff
 
-#### Dynamite
+#### Panic! _Panico!_
 
-> Players keep passing the Dynamite around until it explodes with the effect explained above, or it is draw or discarded by a Panic! or Cat Balou!If you have both the Dynamite and a Jail in play, check the Dynamite first. If you are damaged \(or even eliminated!\) by a Dynamite, this damage is not considered to be caused by any player.
+Also see: Cat Balou
+
+> The symbols state: "Draw a card" from "a player at distance 1". Remember that this distance is not modified by weapons, but only by cards such as Mustang and/or scope.
+
+Can be used to take any card in play. Dynamite, Jail, Barrel.
+
+[https://boardgames.stackexchange.com/questions/48162/should-the-barrel-being-discarded-when-hit-bang](https://boardgames.stackexchange.com/questions/48162/should-the-barrel-being-discarded-when-hit-bang)
+
+> Q28. Can I use **Panic!** or **Cat Balou** on cards in play?  
+> A. Of course yes. You can play the Cat Balou on a card in an opponent’s hand \(randomly choosing which card to pick\) or on any one card in play, at your choice. The same for Panic!, with the following differences: you can target only cards of a player at distance 1, and the card you choose goes in your hand even if it was already in play. When that card is in your hand, you can play it as any other card.
 
