@@ -62,7 +62,7 @@ You can use BANG! as many times as you want.
 
 > Force "any one player" to "discard a card", regardless of the distance
 
-Can be used to discard any card in play. Dynamite, Jail, Barrel.
+Can be used to **discard** any card in play. Dynamite, Jail, Barrel.
 
 [https://boardgames.stackexchange.com/questions/48162/should-the-barrel-being-discarded-when-hit-bang](https://boardgames.stackexchange.com/questions/48162/should-the-barrel-being-discarded-when-hit-bang)
 
@@ -73,15 +73,17 @@ Can be used to discard any card in play. Dynamite, Jail, Barrel.
 
 Also see: Jail
 
-> Players keep passing the Dynamite around until it explodes with the effect explained above, or it is draw or discarded by a Panic! or Cat Balou!If you have both the Dynamite and a Jail in play, check the Dynamite first. If you are damaged \(or even eliminated!\) by a Dynamite, this damage is not considered to be caused by any player.
+> Players keep passing the Dynamite around until it explodes with the effect explained above, or it is draw or discarded by a Panic! or Cat Balou! If you have both the Dynamite and a Jail in play, check the Dynamite first. If you are damaged \(or even eliminated!\) by a Dynamite, this damage is not considered to be caused by any player.
 
 #### Gatling
 
-> It is not considered a BANG! cad
+> It is not considered a BANG! card
 
 #### Jail
 
 > Jail cannot be played on the Sheriff
+>
+> If you have both the Dynamite and a Jail in play, check the Dynamite first.
 
 #### Panic! _Panico!_
 
@@ -89,7 +91,9 @@ Also see: Cat Balou
 
 > The symbols state: "Draw a card" from "a player at distance 1". Remember that this distance is not modified by weapons, but only by cards such as Mustang and/or scope.
 
-Can be used to take any card in play. Dynamite, Jail, Barrel.
+Can be used to **take any card** in play. Dynamite, Jail, Barrel.
+
+Cards go into your hand, and you can play it as any other card.
 
 [https://boardgames.stackexchange.com/questions/48162/should-the-barrel-being-discarded-when-hit-bang](https://boardgames.stackexchange.com/questions/48162/should-the-barrel-being-discarded-when-hit-bang)
 
