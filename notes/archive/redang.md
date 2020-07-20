@@ -64,3 +64,7 @@ Their weekends are: Friday and Saturday
 
 Recommended: Arena Boutique Hotel
 
+## Advisory
+
+* Bring Oral Rehydration Salts \(ORS\)
+
