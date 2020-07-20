@@ -4,6 +4,15 @@ description: 'Last updated: July 2020'
 
 # Redang
 
+## About Redang
+
+The island is split into two sections:
+
+1. Village Jetty / Kampung Jetty
+2. Long Beach
+
+Each section is only accessible via Water Taxi / Ferry
+
 ## Getting There
 
 ### [Shahbandar Jetty](https://maps.google.com/?cid=4928973722589136690)
