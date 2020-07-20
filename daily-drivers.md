@@ -13,8 +13,7 @@ My Daily Drivers
 * PC
   * AMD Ryzen 5 2600
   * Nvidia GTX 1660S
-* MacBook Pro 16" 2019
-  * 1TB
+* MacBook Pro 16" 2019 A2141
 * iPhone 11 Pro 256GB
 
 Monitor:
@@ -44,4 +43,12 @@ Misc:
 * Synology DS218+
   * 6TB Seagate Ironwolf
 * Awair Element
+
+Programming Languages / Frameworks:
+
+* Go Lang
+* TypeScript / JavaScript
+* GraphQL
+* Relay
+* React
 
