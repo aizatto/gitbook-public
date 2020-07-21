@@ -52,3 +52,9 @@ Programming Languages / Frameworks:
 * Relay
 * React
 
+Software:
+
+* IDE:
+  * Visual Studio Code
+  * vim
+
