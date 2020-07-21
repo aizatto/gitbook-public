@@ -13,9 +13,34 @@ The island is split into two sections:
 
 Each section is only accessible via Water Taxi / Ferry
 
+## How Long?
+
+* Recommended: 4 days, 3 nights
+* Optional: : 5 days, 4 nights. Spend a night in Kuala Terengganu
+
 ## Getting There
 
-### [Shahbandar Jetty](https://maps.google.com/?cid=4928973722589136690)
+### Fly
+
+Fly to:
+
+* Kuala Terengganu Airport / Sultan Mahmud Airport
+  * Get transport to the ferry, then take  ferry
+* Redang Airport
+  * Only supports Berjaya Air
+  * Extremely expensive
+  * On the Village Jetty section
+
+### Drive
+
+Drive and take the ferry at either:
+
+* Shahbandar Jetty
+* Merang Jetty
+
+### Ferry
+
+#### [Shahbandar Jetty](https://maps.google.com/?cid=4928973722589136690)
 
 Cannot book online.
 
@@ -27,7 +52,7 @@ Arrive 30 minutes early
 
 Price RM 55 Adult
 
-### [Merang Jetty](https://maps.google.com/?cid=18423667183007647679)
+#### [Merang Jetty](https://maps.google.com/?cid=18423667183007647679)
 
 Can book online: [https://www.merangjetty.com/](https://www.merangjetty.com/)
 
@@ -51,6 +76,13 @@ My recommendation: [Laguna Island Resort](https://www.lagunaredang.com.my/)
 |  | I found a roach in the cafeteria |
 | [Website](https://www.lagunaredang.com.my/) | [Website](https://www.thetaaras.com/) |
 
+## Eating in Redang
+
+Village Jetty Section
+
+* [Redang De' Rimba](https://maps.google.com/?cid=16713781312032130414)
+  * Order Crab \(Butter Fried\)
+
 ## Kuala Terengganu
 
 Their weekends are: Friday and Saturday
@@ -64,7 +96,13 @@ Their weekends are: Friday and Saturday
 
 Recommended: Arena Boutique Hotel
 
+### Eating in Kuala Terengganu
+
+* [Mak Ngah Nasi Dagang](https://maps.google.com/?cid=2142133214227182570)
+* [Fauzi Nasi Kerabu](https://maps.google.com/?cid=321866952740435630)
+
 ## Advisory
 
 * Bring Oral Rehydration Salts \(ORS\)
+* Bring "Water Shoes"
 
