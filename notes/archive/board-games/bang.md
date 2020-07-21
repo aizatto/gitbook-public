@@ -37,7 +37,13 @@ Renegade: he wants to be the new Sheriff; his goal is to be the last character i
 
 > Card with symbols on two lines have two simultaneous effects, one for each line.
 
-### Weapons
+Colors:
+
+* Blue Border \(weapons and other objects\)
+* Brown border \(play and discard\)
+* Green border \(Expansion\)
+
+### Blue-bordered Cards \(Weapons and other objects\)
 
 You always have a Colt.45 \(distance  of 1\)
 
@@ -47,7 +53,7 @@ You can use BANG! as many times as you want.
 
 > With this card in play you may play any number of BANG! cards during your turn. These BANG! cards can be aimed at the same or different targets, but are limited to a distance of 1
 
-### Playing Cards
+### Brown-bordered Cards \(Play and Discard\)
 
 #### Beer / _Birra_
 
@@ -99,4 +105,24 @@ Cards go into your hand, and you can play it as any other card.
 
 > Q28. Can I use **Panic!** or **Cat Balou** on cards in play?  
 > A. Of course yes. You can play the Cat Balou on a card in an opponent’s hand \(randomly choosing which card to pick\) or on any one card in play, at your choice. The same for Panic!, with the following differences: you can target only cards of a player at distance 1, and the card you choose goes in your hand even if it was already in play. When that card is in your hand, you can play it as any other card.
+
+### Green-bordered Cards
+
+> These cards are played in front of you, face up, like the blue bordered cards. To use an effect you must take the card from in front of you and discard it. How ever you cannot use the green bordered cards on the same turn in which you have played them.
+
+> Only the cards with a Missed! symbol can be used out of turn
+
+> Green bordered cards in front of the players are also defined to be "in play" and can be removed through the play of a Cat Balou, Panic!, Can Can, etc, just like the blue-bordered cards
+
+#### Derringer
+
+Bang someone within a shooting distance of one, and draw a card.
+
+#### Knife / _Pugnale_
+
+_Bang someone within a shooting distance of one_
+
+#### Pepperbox
+
+Bang anyone within your shooting distance.
 
