@@ -1,6 +1,6 @@
 # Remote Calls
 
-Now that we are all WFH, some remote video meetings tips
+Now that we are all WFH, some remote video meetings tips:
 
 * Try to use a microphone
 * Turn on your webcam
@@ -20,6 +20,8 @@ Now that we are all WFH, some remote video meetings tips
 ```
 
 * Can't hear someone? Try to use visual cues to get their attention \(thumbs up/ thumbs down\)
+* Waiting for people?
+  * Use a timer, and share it on screen so that everyone is in sync, an overlay would be nice
 
 Any other tips/suggestions I missed out?
 
