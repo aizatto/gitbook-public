@@ -88,4 +88,6 @@ Check for:
 ## Resources
 
 * [https://mtlynch.io/human-code-reviews-1/](https://mtlynch.io/human-code-reviews-1/)
+* [https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/)
+* [https://google.github.io/eng-practices/review/reviewer/](https://google.github.io/eng-practices/review/reviewer/)
 
