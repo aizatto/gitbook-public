@@ -133,6 +133,8 @@ Pros:
 Cons:
 
 * Exporting isn't easy
+* No history
+* No automatic export
 
 ### 
 
