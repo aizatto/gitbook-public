@@ -116,3 +116,23 @@ Tabs
 {% endtab %}
 {% endtabs %}
 
+## Alternatives
+
+### Notion
+
+[https://www.notion.so/aizatto/Public-Notes-fbcb9e6b66784c5c96b8e2a5613927b9](https://www.notion.so/aizatto/Public-Notes-fbcb9e6b66784c5c96b8e2a5613927b9)
+
+Tree structure doesn't work so well for content which can exist in multiple branches.
+
+I put everything in a single table and use tags.
+
+Pros:
+
+* WYSIWYG
+
+Cons:
+
+* Exporting isn't easy
+
+### 
+
