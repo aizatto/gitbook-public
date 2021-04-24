@@ -10,6 +10,8 @@ View the [Table of Contents](table-of-contents.md) to quickly see all available 
 
 Part of the purpose of this site is to provide quick references for myself, and other people. Document the knowledge I know, so that I can scale myself.
 
+I also keep other public notes in [Notion](https://www.notion.so/aizatto/Public-Notes-fbcb9e6b66784c5c96b8e2a5613927b9).
+
 ## Services I Offer
 
 * Technical Due Diligence
