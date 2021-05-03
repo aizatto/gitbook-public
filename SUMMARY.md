@@ -67,6 +67,7 @@
   * [Terminology](getting-into-tech/terminology.md)
 * [Personal Goals](personal-goals.md)
 * [Daily Drivers](daily-drivers.md)
+* [Contacting Me](contacting-me.md)
 
 ## Notes
 

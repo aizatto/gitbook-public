@@ -6,35 +6,37 @@ description: >-
 
 # Daily Drivers
 
-Last updated: Sunday July 12th 2020
+Last updated: Monday May 3rd 2021
 
 My Daily Drivers
 
 * PC
-  * AMD Ryzen 5 2600
-  * Nvidia GTX 1660S
-* MacBook Pro 16" 2019 A2141
+  * AMD Ryzen 5 5600X
+  * Nvidia GTX 2060S
+* MacBook Air M1 
 * iPhone 11 Pro 256GB
 
 Monitor:
 
-* Dell U3818DW
-* Dell S2417DG
+* Dell S3221QS
+* Dell S2721QS
+* Dell S2415Q
 
 Hardware:
 
 * Keyboard:
+  * Logitech G913 TKL Lightspeed
   * Code Keyboard
-  * Logitech MX Master Keys
 * Mouse:
-  * Logitech MX Master 3 \(for work\)
-  * Logitech G502 Lightspeed \(for gaming\)
+  * Logitech MX Anywhere 3 \(for work\)
+  * Logitech G Pro X Superlight \(for gaming\)
 * Webcam:
-  * Logitech 922
+  * Logitech Brio
 
 Headsets:
 
 * Bose NC 700
+* Powerbeats Pro
 * Corsair Virtuoso RGB
 
 Misc:
