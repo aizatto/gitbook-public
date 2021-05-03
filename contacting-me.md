@@ -18,6 +18,7 @@ My recommendations for reaching out to me:
 
 * Please be kind, courteous.
 * Introduce yourself. Tell me who you are and a bit of background about you.
+* Tell me how you found me.
 * Tell me directly what you want. Be it help, advice, internship, etc. Please do not beat around the bush.
 * You don't need to be formal.
 * If you email me, do share your phone number, or preferred way of texting you so that we can keep conversations casual. \(WhatsApp, Messenger, Telegram\)
