@@ -224,3 +224,7 @@
   * [Old Hardware](notes/archive/old-hardware/README.md)
     * [Netgear R7000P](notes/archive/old-hardware/netgear-r7000p.md)
 
+---
+
+* [More on Notion](https://www.notion.so/aizatto/Public-Notes-fbcb9e6b66784c5c96b8e2a5613927b9)
+
