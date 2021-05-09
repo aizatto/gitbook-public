@@ -242,3 +242,9 @@ View document in [GitHub](https://github.com/aizatto/gitbook-public/blob/master/
 | `7.75` Old Hardware | [aizatto.com](https://www.aizatto.com/notes/archive/old-hardware/) | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/old-hardware/README.md) | [GitBook](https://app.gitbook.com/@aizatto/s/public/notes/archive/old-hardware/) | `219` |
 | `7.75.1` Netgear R7000P | [aizatto.com](https://www.aizatto.com/notes/archive/old-hardware/netgear-r7000p) | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/notes/archive/old-hardware/netgear-r7000p.md) | [GitBook](https://app.gitbook.com/@aizatto/s/public/notes/archive/old-hardware/netgear-r7000p) | `220` |
 
+---
+
+| Name | aizatto.com | GitHub | GitBook | Page |
+| :--- | :--- | :--- | :--- | :--- |
+| `1` More on Notion | [aizatto.com](https://www.aizatto.com/https://www.notion.so/aizatto/Public-Notes-fbcb9e6b66784c5c96b8e2a561392) | [GitHub](https://github.com/aizatto/gitbook-public/blob/master/https://www.notion.so/aizatto/Public-Notes-fbcb9e6b66784c5c96b8e2a5613927b9) | [GitBook](https://app.gitbook.com/@aizatto/s/public/https://www.notion.so/aizatto/Public-Notes-fbcb9e6b66784c5c96b8e2a561392) | `221` |
+
