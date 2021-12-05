@@ -9,7 +9,7 @@ From my [.gitconfig](https://github.com/aizatto/dotfiles/blob/master/gitconfig)
 * Includes typos.
 
 {% code title=".gitconfig" %}
-```text
+```
 [color]
   diff = auto
   status = auto
@@ -37,7 +37,7 @@ git config user.email email@example.com
 
 #### Version
 
-Include branch in [shell](https://github.com/aizatto/dotfiles/blob/master/bash/dotfiles_scm_info.sh).
+Include branch in [shell](https://github.com/aizatto/dotfiles/blob/master/bash/dotfiles\_scm\_info.sh).
 
 Pros:
 
@@ -45,9 +45,9 @@ Pros:
 
 #### Aliases
 
-From my [.bash\_profile](https://github.com/aizatto/dotfiles/blob/master/bash_profile#L48-L73)
+From my [.bash\_profile](https://github.com/aizatto/dotfiles/blob/master/bash\_profile#L48-L73)
 
-{% code title=".bash\_profile" %}
+{% code title=".bash_profile" %}
 ```bash
 alias ga='git add'
 alias gb='git branch'
@@ -126,7 +126,7 @@ git rebase -i master..
 ## Best Practices
 
 * [https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/best-practices](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/best-practices)
-* [https://www.git-tower.com/learn/git/ebook/en/command-line/branching-merging/branching-can-change-your-life\#start](https://www.git-tower.com/learn/git/ebook/en/command-line/branching-merging/branching-can-change-your-life#start)
+* [https://www.git-tower.com/learn/git/ebook/en/command-line/branching-merging/branching-can-change-your-life#start](https://www.git-tower.com/learn/git/ebook/en/command-line/branching-merging/branching-can-change-your-life#start)
 * [https://chriskottom.com/blog/2014/02/a-few-modest-best-practices-for-git/](https://chriskottom.com/blog/2014/02/a-few-modest-best-practices-for-git/)
 * [https://services.github.com/on-demand/](https://services.github.com/on-demand/)
 * [https://github.com/github/gitignore](https://github.com/github/gitignore)
@@ -166,7 +166,7 @@ Inside `vim`:
 
 In command mode, will open a browser pointing to the file in GitHub
 
-```text
+```
 :Gbrowse
 ```
 
@@ -174,7 +174,7 @@ This works when lines are highlighted as well.
 
 ## Resources
 
-* [Engineering Code: Commit Messages](/engineering-code/commit-messages/)
+* [Engineering Code: Commit Messages](https://app.gitbook.com/engineering-code/commit-messages/)
 
 ## Browsers
 
@@ -184,5 +184,4 @@ This works when lines are highlighted as well.
 
 ### IDEs
 
-* [WebStorm](https://www.jetbrains.com/webstorm/) \(paid\)
-
+* [WebStorm](https://www.jetbrains.com/webstorm/) (paid)

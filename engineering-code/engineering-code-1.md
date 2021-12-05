@@ -21,19 +21,19 @@ If you can't measure it. You can't improve it.
 
 Build it into a chart.
 
-See [Pipelines](/engineering-code/pipelines/)
+See [Pipelines](https://app.gitbook.com/engineering-code/pipelines/)
 
 ### Funnel Data Structure
 
 #### Table
 
-| Source | Destination | Time |
-| :--- | :--- | :--- |
-| 1 | 2 | 2015-11-05 12:33:41 |
-| 1a | 2 |  |
-| 1b | 2 |  |
-| 2 | 3 |  |
-| 2 | 4 |  |
+| Source | Destination | Time                |
+| ------ | ----------- | ------------------- |
+| 1      | 2           | 2015-11-05 12:33:41 |
+| 1a     | 2           |                     |
+| 1b     | 2           |                     |
+| 2      | 3           |                     |
+| 2      | 4           |                     |
 
 Having such a table means you can generate a graph.
 
@@ -87,4 +87,3 @@ Maintaining/managing states is a PITA. When there are more states to maintain, i
   * We should engineer reproducible steps.
 * Synchronous Knowledge Sharing
   * We should engineer asynchronous knowledge sharing.
-

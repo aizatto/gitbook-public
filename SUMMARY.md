@@ -48,7 +48,7 @@
   * [Engineering Data](engineering-code/engineering-data.md)
   * [Pipelines](engineering-code/pipelines.md)
   * [Configuration Files](engineering-code/configuration-files.md)
-  * [Site Reliability Engineering \(SRE\)](engineering-code/site-reliability-engineering-sre.md)
+  * [Site Reliability Engineering (SRE)](engineering-code/site-reliability-engineering-sre.md)
   * [Best Engineers](engineering-code/best-engineers.md)
 * [Engineering Management](engineering-management/README.md)
   * [Hiring](engineering-management/hiring.md)
@@ -108,7 +108,7 @@
     * [Monolithic](notes/software-engineering/software-architectures/monolithic.md)
     * [Non-Monolithic](notes/software-engineering/software-architectures/non-monolithic/README.md)
       * [Microservice](notes/software-engineering/software-architectures/non-monolithic/microservice.md)
-      * [FaaS \(Functions as a Service\) or Serverless](notes/software-engineering/software-architectures/non-monolithic/faas-functions-as-a-service-or-serverless.md)
+      * [FaaS (Functions as a Service) or Serverless](notes/software-engineering/software-architectures/non-monolithic/faas-functions-as-a-service-or-serverless.md)
   * [Repository Management](notes/software-engineering/repository-management.md)
 * [Technical Due Diligence](notes/technical-due-diligence.md)
 * [Web Development](notes/web-development/README.md)
@@ -116,7 +116,7 @@
   * [React](notes/web-development/react.md)
   * [SSO Providers](notes/web-development/sso-providers.md)
 * [Archive](notes/archive/README.md)
-  * [Amazon Echo Dot \(3rd Gen\) with clock](notes/archive/amazon-echo-dot-3rd-gen-with-clock.md)
+  * [Amazon Echo Dot (3rd Gen) with clock](notes/archive/amazon-echo-dot-3rd-gen-with-clock.md)
   * [Apple](notes/archive/apple/README.md)
     * [AirPods Pro](notes/archive/apple/airpods.md)
     * [Apple Notes](notes/archive/apple/apple-notes.md)
@@ -186,7 +186,6 @@
     * [Ergodox Ez](notes/archive/keyboards/ergodox-ez.md)
   * [Malaysia Insurance](notes/archive/malaysia-insurance.md)
   * [Mental Health Malaysia](notes/archive/mental-health-malaysia.md)
-  * [Migraine](notes/archive/migraine.md)
   * [Multiroom Wireless Speaker System](notes/archive/multiroom-wireless-speaker-system.md)
   * [Musicals](notes/archive/musicals.md)
   * [Mouse](notes/archive/mouse.md)
@@ -224,7 +223,6 @@
   * [Old Hardware](notes/archive/old-hardware/README.md)
     * [Netgear R7000P](notes/archive/old-hardware/netgear-r7000p.md)
 
----
+***
 
 * [More on Notion](https://www.notion.so/aizatto/Public-Notes-fbcb9e6b66784c5c96b8e2a5613927b9)
-

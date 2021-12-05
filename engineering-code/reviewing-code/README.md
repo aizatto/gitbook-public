@@ -12,7 +12,7 @@ More time will be spent reading and understanding code, than writing it. Reading
 
 Review so that it is easier to understand.
 
-Review to reduce "WTFs/minute". [WTFs/minute is the only valid measurement of code quality.](http://www.osnews.com/story/19266/WTFs_m)
+Review to reduce "WTFs/minute". [WTFs/minute is the only valid measurement of code quality.](http://www.osnews.com/story/19266/WTFs\_m)
 
 Review with the aim to reduce surprises.
 
@@ -24,7 +24,7 @@ Becareful of death by a thousand cuts/commits/diffs. It is very easy to lose tra
 
 Don't create technical debt.
 
-See ["Writing Code"](/writing-code/).
+See ["Writing Code"](https://app.gitbook.com/writing-code/).
 
 ## Overview
 
@@ -38,7 +38,7 @@ Reviewing code is hard because:
 To write about:
 
 * Consider the architecture.
-* Are they using the descriptive names \(variables, functions, classes, etc...\)?
+* Are they using the descriptive names (variables, functions, classes, etc...)?
 * Check the directory structure. It's really easy to miss this.
 * Dont blame break history.
 
@@ -72,7 +72,7 @@ How easy is it to reproduce the commit/diff? The easier it is to reproduce, the 
 
 Check for:
 
-* screenshots \(if applicable\)
+* screenshots (if applicable)
 * URLs to anything relevant
 * what configurations need to be changed
 * shell commands ran
@@ -90,4 +90,3 @@ Check for:
 * [https://mtlynch.io/human-code-reviews-1/](https://mtlynch.io/human-code-reviews-1/)
 * [https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/)
 * [https://google.github.io/eng-practices/review/reviewer/](https://google.github.io/eng-practices/review/reviewer/)
-

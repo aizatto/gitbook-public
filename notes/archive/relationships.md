@@ -13,63 +13,63 @@ These are easy to say, hard to do.
 
 Communication:
 
-* [Communication](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#communication) [\#](https://www.deepthoughtapp.com/en/topics/communication/)
-* [Conversations](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#conversations) [\#](https://www.deepthoughtapp.com/en/topics/conversations/)
-* [Sharing](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#sharing) [\#](https://www.deepthoughtapp.com/en/topics/sharing/)
+* [Communication](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#communication) [#](https://www.deepthoughtapp.com/en/topics/communication/)
+* [Conversations](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#conversations) [#](https://www.deepthoughtapp.com/en/topics/conversations/)
+* [Sharing](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#sharing) [#](https://www.deepthoughtapp.com/en/topics/sharing/)
 
 Values:
 
-* [Alignment](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#align) [\#](https://www.deepthoughtapp.com/en/topics/align/)
-* [Boundaries](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#boundaries) [\#](https://www.deepthoughtapp.com/en/topics/boundaries/)
+* [Alignment](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#align) [#](https://www.deepthoughtapp.com/en/topics/align/)
+* [Boundaries](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#boundaries) [#](https://www.deepthoughtapp.com/en/topics/boundaries/)
 * Safety
-* [Expectations](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#expectations) [\#](https://www.deepthoughtapp.com/en/topics/expectations/)
+* [Expectations](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#expectations) [#](https://www.deepthoughtapp.com/en/topics/expectations/)
 * Non Judgement
-* [Reciprocate](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#reciprocation) [\#](https://www.deepthoughtapp.com/en/topics/reciprocation/)
+* [Reciprocate](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#reciprocation) [#](https://www.deepthoughtapp.com/en/topics/reciprocation/)
 * Self Awareness
-* [Values](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#values) [\#](https://www.deepthoughtapp.com/en/topics/values/)
-* [Rhythm](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#rhythm) [\#](https://www.deepthoughtapp.com/en/topics/rhythm/)
+* [Values](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#values) [#](https://www.deepthoughtapp.com/en/topics/values/)
+* [Rhythm](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#rhythm) [#](https://www.deepthoughtapp.com/en/topics/rhythm/)
 * Vulnerability
-* [Compromise](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#compromise) [\#](https://www.deepthoughtapp.com/en/topics/compromise/)
-* [Sacrifice](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#sacrifice) [\#](https://www.deepthoughtapp.com/en/topics/sacrifice/)
-* [Team](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#team) [\#](https://www.deepthoughtapp.com/en/topics/team/)
+* [Compromise](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#compromise) [#](https://www.deepthoughtapp.com/en/topics/compromise/)
+* [Sacrifice](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#sacrifice) [#](https://www.deepthoughtapp.com/en/topics/sacrifice/)
+* [Team](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#team) [#](https://www.deepthoughtapp.com/en/topics/team/)
 
 Dependability:
 
-* [Accountability](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#accountable) [\#](https://www.deepthoughtapp.com/en/topics/accountability/)
-* [Dependability](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#dependability) [\#](https://www.deepthoughtapp.com/en/topics/dependability//)
-* [Trust](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#trust)  [\#](https://www.deepthoughtapp.com/en/topics/trust/)
+* [Accountability](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#accountable) [#](https://www.deepthoughtapp.com/en/topics/accountability/)
+* [Dependability](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#dependability) [#](https://www.deepthoughtapp.com/en/topics/dependability/)
+* [Trust](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#trust)  [#](https://www.deepthoughtapp.com/en/topics/trust/)
 
 Empathy:
 
-* [Acceptance](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#acceptance) [\#](https://www.deepthoughtapp.com/en/topics/acceptance/)
-* [Compassion](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#compassion) [\#](https://www.deepthoughtapp.com/en/topics/compassion/)
-* [Empathy](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#empathy) [\#](https://www.deepthoughtapp.com/en/topics/empathy/)
-* [Forgiveness](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#forgiveness) [\#](https://www.deepthoughtapp.com/en/topics/forgiveness/)
-* [Gratitude](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#gratitude) [\#](https://www.deepthoughtapp.com/en/topics/gratitude/)
-* [Patience](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#patience) [\#](https://www.deepthoughtapp.com/en/topics/patience/)
-* [Sentimental](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#sentimental) [\#](https://www.deepthoughtapp.com/en/topics/sentimental/)
-* [Tenderness](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#tenderness) [\#](https://www.deepthoughtapp.com/en/topics/tenderness/)
+* [Acceptance](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#acceptance) [#](https://www.deepthoughtapp.com/en/topics/acceptance/)
+* [Compassion](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#compassion) [#](https://www.deepthoughtapp.com/en/topics/compassion/)
+* [Empathy](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#empathy) [#](https://www.deepthoughtapp.com/en/topics/empathy/)
+* [Forgiveness](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#forgiveness) [#](https://www.deepthoughtapp.com/en/topics/forgiveness/)
+* [Gratitude](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#gratitude) [#](https://www.deepthoughtapp.com/en/topics/gratitude/)
+* [Patience](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#patience) [#](https://www.deepthoughtapp.com/en/topics/patience/)
+* [Sentimental](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#sentimental) [#](https://www.deepthoughtapp.com/en/topics/sentimental/)
+* [Tenderness](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#tenderness) [#](https://www.deepthoughtapp.com/en/topics/tenderness/)
 
 Fun:
 
-* [Chemistry](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#chemistry) [\#](https://www.deepthoughtapp.com/en/topics/chemistry/)
-* [Flirt](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#flirt) [\#](https://www.deepthoughtapp.com/en/topics/flirt/)
-* [Foreplay](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#foreplay) [\#](https://www.deepthoughtapp.com/en/topics/foreplay/)
-* [Tease](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#tease) [\#](https://www.deepthoughtapp.com/en/topics/tease/)
-* [Laughter](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#laughter) [\#](https://www.deepthoughtapp.com/en/topics/laughter/)
-* [Play](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#play) [\#](https://www.deepthoughtapp.com/en/topics/play/)
-* [Fun](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#fun) [\#](https://www.deepthoughtapp.com/en/topics/fun/)
-* [Magic](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#magic) [\#](https://www.deepthoughtapp.com/en/topics/magic/)
-* [Serendipity](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#serendipity) [small\[\#\]\(https://www.deepthoughtapp.com/en/topics/serendipity/\)&lt;/small](small[#]%28https://www.deepthoughtapp.com/en/topics/serendipity/%29%3C/small)
-* [Affection](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#affection) [small \[\#\]\(https://www.deepthoughtapp.com/en/topics/affection/\)](small[#]%28https://www.deepthoughtapp.com/en/topics/affection/%29%3C/small)
+* [Chemistry](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#chemistry) [#](https://www.deepthoughtapp.com/en/topics/chemistry/)
+* [Flirt](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#flirt) [#](https://www.deepthoughtapp.com/en/topics/flirt/)
+* [Foreplay](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#foreplay) [#](https://www.deepthoughtapp.com/en/topics/foreplay/)
+* [Tease](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#tease) [#](https://www.deepthoughtapp.com/en/topics/tease/)
+* [Laughter](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#laughter) [#](https://www.deepthoughtapp.com/en/topics/laughter/)
+* [Play](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#play) [#](https://www.deepthoughtapp.com/en/topics/play/)
+* [Fun](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#fun) [#](https://www.deepthoughtapp.com/en/topics/fun/)
+* [Magic](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#magic) [#](https://www.deepthoughtapp.com/en/topics/magic/)
+* [Serendipity](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#serendipity) [small\[#\](https://www.deepthoughtapp.com/en/topics/serendipity/)\</small](https://app.gitbook.com/s/-LXM7nhPZxoUNd83TuNl/notes/archive/small\[#]\(https://www.deepthoughtapp.com/en/topics/serendipity/\)%3C/small)
+* [Affection](https://www.deepthoughtapp.com/en/topics/romantic-relationships/#affection) [small \[#\](https://www.deepthoughtapp.com/en/topics/affection/)](https://app.gitbook.com/s/-LXM7nhPZxoUNd83TuNl/notes/archive/small\[#]\(https://www.deepthoughtapp.com/en/topics/affection/\)%3C/small)
 
 ## General
 
 * Know your boundaries.
 * Make each other laugh, always.
 * Chemistry is important.
-* Short term is important. \(Honeymoon, Chemistry, Energy\)
-* Long term is important. \(Sustainably\)
+* Short term is important. (Honeymoon, Chemistry, Energy)
+* Long term is important. (Sustainably)
 * If you don't have the short term, then you have to figure out how to survive the long term.
 * Its ok to put pressure on each other, you both can grow from it. Be aware of the pressure you apply on each other.
 * What childhood pains are you both going through?
@@ -257,7 +257,7 @@ Keywords:
 * Share burden.
 * Share sorrows.
 
-## Long Distance Relationships \(LDR\)
+## Long Distance Relationships (LDR)
 
 * Communication is key.
 * Communication is even more important.
@@ -267,7 +267,7 @@ Keywords:
 * Time Zone Difference:
   * Cons: Different energies when you connect
   * Reciprocation is harder
-  * Harder to be in sync \(energy, emotions, intellectually, etc...\)
+  * Harder to be in sync (energy, emotions, intellectually, etc...)
   * Harder to share things
 * You can't "invite" the person out.
   * The power of invitation: Makes them feel wanted.
@@ -285,7 +285,7 @@ Keywords:
 * Best is complete silence. Clean cut.
 * Consider it as mostly final.
   * Yes there are success stories of people getting back together.
-* Going on and off repeatedly is painful. \(Breaks\)
+* Going on and off repeatedly is painful. (Breaks)
   * Leaves the relationship open ended.
   * Status is unknown.
   * Drags on the relationship.
@@ -381,9 +381,9 @@ Do these **together**.
 
 If you don't want to work together, your relationship is going to fail. You have to work as a team.
 
-* Getting The Love You Want [\(kindle\)](http://amzn.to/2qP5RxU) [\(audible\)](http://amzn.to/2ro8aoU) -  18 exercises.
+* Getting The Love You Want [(kindle)](http://amzn.to/2qP5RxU) [(audible)](http://amzn.to/2ro8aoU) -  18 exercises.
 * [5 Love Languages](http://www.5lovelanguages.com)
-* [DEAR MAN](http://www.dbtselfhelp.com/html/interpersonal_effectiveness1.html) - Interpersonal Skill
+* [DEAR MAN](http://www.dbtselfhelp.com/html/interpersonal\_effectiveness1.html) - Interpersonal Skill
 * [22 Questions to Reignite Love](http://www.thebookoflife.org/22-questions-to-reignite-love/)
 
 #### For the Romantics
@@ -416,29 +416,28 @@ If you don't want to work together, your relationship is going to fail. You have
 
 ### Books
 
-* Getting The Love You Want [\(kindle\)](http://amzn.to/2qP5RxU) [\(audible\)](http://amzn.to/2ro8aoU)
-* Mating in Captivity [\(kindle\)](http://amzn.to/2pU8Yjf) [\(audible\)](http://amzn.to/2qOHGzJ)
-* 5 Love Languages [\(kindle\)](http://amzn.to/2rcSnvW) [\(audible\)](http://amzn.to/2qtsUvi)
+* Getting The Love You Want [(kindle)](http://amzn.to/2qP5RxU) [(audible)](http://amzn.to/2ro8aoU)
+* Mating in Captivity [(kindle)](http://amzn.to/2pU8Yjf) [(audible)](http://amzn.to/2qOHGzJ)
+* 5 Love Languages [(kindle)](http://amzn.to/2rcSnvW) [(audible)](http://amzn.to/2qtsUvi)
 * [The Book Of Life](http://www.thebookoflife.org/category/relationships/)
 
 ### The School Of Life
 
 * [Playlist: Relationships](https://www.youtube.com/playlist?list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
-* [An Instruction Manual To One Self](https://www.youtube.com/watch?v=VgGDwYYfayI&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
-* [Can Exes Be Friends?](https://www.youtube.com/watch?v=uTuDks4ogs0&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
-* [How Love Stories Ruin Our Love Lives](https://www.youtube.com/watch?v=78LxbUuUdr8&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
-* [How To Choose A Partner Wisely](https://www.youtube.com/watch?v=IuV80wYRld0&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
-* [How To End A Relationship](https://www.youtube.com/watch?v=VPXIzJcfAMk&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
-* [How To Help Those We Love](https://www.youtube.com/watch?v=bY3As3lKMno&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
-* [Humor In Relationships](https://www.youtube.com/watch?v=ehIiWha1oU8&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
-* [Love And Self Love](https://www.youtube.com/watch?v=CMGtCBEe1NM&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
-* [The Importance Of Affectionate Teasing](https://www.youtube.com/watch?v=U6n3Hz3jDik&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
-* [What Our Wedding Vows Should Say](https://www.youtube.com/watch?v=qb0LIvuyaOU&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
+* [An Instruction Manual To One Self](https://www.youtube.com/watch?v=VgGDwYYfayI\&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
+* [Can Exes Be Friends?](https://www.youtube.com/watch?v=uTuDks4ogs0\&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
+* [How Love Stories Ruin Our Love Lives](https://www.youtube.com/watch?v=78LxbUuUdr8\&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
+* [How To Choose A Partner Wisely](https://www.youtube.com/watch?v=IuV80wYRld0\&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
+* [How To End A Relationship](https://www.youtube.com/watch?v=VPXIzJcfAMk\&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
+* [How To Help Those We Love](https://www.youtube.com/watch?v=bY3As3lKMno\&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
+* [Humor In Relationships](https://www.youtube.com/watch?v=ehIiWha1oU8\&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
+* [Love And Self Love](https://www.youtube.com/watch?v=CMGtCBEe1NM\&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
+* [The Importance Of Affectionate Teasing](https://www.youtube.com/watch?v=U6n3Hz3jDik\&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
+* [What Our Wedding Vows Should Say](https://www.youtube.com/watch?v=qb0LIvuyaOU\&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
 * [Why It’s OK to Compromise in Love](https://www.youtube.com/watch?v=b3ebIebpttk)
-* [Why Love Involves Teaching](https://www.youtube.com/watch?v=pICXY_6p45o&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
-* [Why Love Is Never As Nice As It Should Be](https://www.youtube.com/watch?v=X7hKC01e-NQ&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
-* [Why Only the Happily Single Find True Love](https://www.youtube.com/watch?v=0waMV_4Fc9s&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
-* [Why Our Partners Drive Us Mad](https://www.youtube.com/watch?v=NZthaua46l0&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
-* [Why We Could Not Love Anyone](https://www.youtube.com/watch?v=pRbV8Pjlsow&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
-* [Why We Go Cold On Our Partners](https://www.youtube.com/watch?v=WRaaqN2Atxw&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
-
+* [Why Love Involves Teaching](https://www.youtube.com/watch?v=pICXY\_6p45o\&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
+* [Why Love Is Never As Nice As It Should Be](https://www.youtube.com/watch?v=X7hKC01e-NQ\&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
+* [Why Only the Happily Single Find True Love](https://www.youtube.com/watch?v=0waMV\_4Fc9s\&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
+* [Why Our Partners Drive Us Mad](https://www.youtube.com/watch?v=NZthaua46l0\&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
+* [Why We Could Not Love Anyone](https://www.youtube.com/watch?v=pRbV8Pjlsow\&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)
+* [Why We Go Cold On Our Partners](https://www.youtube.com/watch?v=WRaaqN2Atxw\&list=PLwxNMb28XmpcEwc0qydf2jSszQFSht81E)

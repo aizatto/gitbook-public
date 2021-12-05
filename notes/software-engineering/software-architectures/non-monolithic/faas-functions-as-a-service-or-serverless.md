@@ -1,4 +1,4 @@
-# FaaS \(Functions as a Service\) or Serverless
+# FaaS (Functions as a Service) or Serverless
 
 Pros:
 
@@ -19,11 +19,11 @@ Good for:
 When to use FaaS?
 
 * Unpredictable demands
-  * Competing products \(Ec2\) can leveraged auto scaling
+  * Competing products (Ec2) can leveraged auto scaling
 * Small work loads that don’t require an always on machine
 * Isolated processes
 
 Examples:
 
-* Low traffic url shortener [https://github.com/aizatto/url-shortener/](https://github.com/aizatto/url-shortener/)
-
+* Low traffic url shortener\
+  [https://github.com/aizatto/url-shortener/](https://github.com/aizatto/url-shortener/)

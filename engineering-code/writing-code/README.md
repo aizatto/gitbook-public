@@ -22,7 +22,7 @@ More time will be spent reading and understanding code, than writing it. Reading
 
 Write so that it is easy to understand.
 
-Write to reduce "WTFs/minute". source: [WTFs/minute is the only valid measurement of code quality](http://www.osnews.com/story/19266/WTFs_m)
+Write to reduce "WTFs/minute". source: [WTFs/minute is the only valid measurement of code quality](http://www.osnews.com/story/19266/WTFs\_m)
 
 Write with the aim to reduce surprises.
 
@@ -36,7 +36,7 @@ Becareful of death by a thousand cuts/commits/diffs. It is very easy to lose tra
 
 Reduce create technical debt.
 
-See [Reviewing Code](/engineering-code/reviewing-code/).
+See [Reviewing Code](https://app.gitbook.com/engineering-code/reviewing-code/).
 
 ## What is clarity?
 
@@ -55,4 +55,3 @@ Goals:
 Examples:
 
 * You should not be wasting time, energy, and resource discussing style. Quickly come to an agreement and stick with it. Use a linter. Don't increase noise.
-

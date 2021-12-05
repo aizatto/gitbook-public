@@ -10,20 +10,20 @@
 
 1 Read Request Unit: Maximum of 4KB
 
-| Read Type | Units |
-| :--- | :--- |
-| Strongly Consistent | 1 Unit |
+| Read Type                  | Units    |
+| -------------------------- | -------- |
+| Strongly Consistent        | 1 Unit   |
 | Eventually Consistent Read | 1/2 Unit |
-| Transactional Read | 2 Units |
+| Transactional Read         | 2 Units  |
 
 ### Writes
 
 1 Write Request Unit: Maximum of 1KB
 
-| Write Type | Units |
-| :--- | :--- |
-| Standard Write Request | 1 Unit |
-| Transactional Write | 2 Units |
+| Write Type             | Units   |
+| ---------------------- | ------- |
+| Standard Write Request | 1 Unit  |
+| Transactional Write    | 2 Units |
 
 ## Node.js
 
@@ -144,7 +144,7 @@ Examples of Reserved Words:
 * `uuid`
 * `value`
 
-### Promises \(async/await\)
+### Promises (async/await)
 
 ```javascript
 const { promisify } = require('util');
@@ -159,7 +159,7 @@ result = await dynamodb.getPromise({});
 
 ```
 
-### [GetItem](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_GetItem.html)
+### [GetItem](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API\_GetItem.html)
 
 ```javascript
 // Does not throw an exception if record does not exist
@@ -172,11 +172,11 @@ if (!result.Item) {
 
 `GetItem` cannot be preformed on a `Global Secondary Index`. You can't use `IndexName`.
 
-### [PutItem](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_PutItem.html)
+### [PutItem](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API\_PutItem.html)
 
 Will overwrite values if the key is the same; unless you define a ConditionalExpression
 
-> If an item that has the same primary key as the new item already exists in the specified table, the new item completely replaces the existing item. You can perform a conditional put operation \(add a new item if one with the specified primary key doesn't exist\), or replace an existing item if it has certain attribute values. You can return the item's attribute values in the same operation, using the `ReturnValues`parameter.
+> &#x20;If an item that has the same primary key as the new item already exists in the specified table, the new item completely replaces the existing item. You can perform a conditional put operation (add a new item if one with the specified primary key doesn't exist), or replace an existing item if it has certain attribute values. You can return the item's attribute values in the same operation, using the `ReturnValues`parameter.
 
 #### [ConditionalExpression](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Expressions.ConditionExpressions.html)
 
@@ -215,12 +215,12 @@ Sample error:
 
 ### Query vs Scan
 
-[https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API\_Query.html](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_Query.html)  
-[https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API\_Scan.html](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_Scan.html)
+[https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API\_Query.html](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API\_Query.html)\
+[https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API\_Scan.html](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API\_Scan.html)
 
-| Query | Scan |
-| :--- | :--- |
-| The Query operation finds items based on primary key values. You can query any table or secondary index that has a composite primary key \(a partition key and a sort key\). | The `Scan` operation returns one or more items and item attributes by accessing every item in a table or a secondary index. To have DynamoDB return fewer items, you can provide a `FilterExpression` operation.  |
+| Query                                                                                                                                                                      | Scan                                                                                                                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The Query operation finds items based on primary key values. You can query any table or secondary index that has a composite primary key (a partition key and a sort key). | <p>The <code>Scan</code> operation returns one or more items and item attributes by accessing every item in a table or a secondary index. To have DynamoDB return fewer items, you can provide a <code>FilterExpression</code> operation.<br></p> |
 
 ## Indexes
 
@@ -230,15 +230,15 @@ Have to partition wisely.
 
 [https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-indexes-general.html](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-indexes-general.html)[https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html)
 
-| Global Secondary Index | Local Secondary Index |
-| :--- | :--- |
-| An index with a partition key and a sort key that can be different from those on the base table. | An index that has the same partition key as the base table, but a different sort key. |
+| Global Secondary Index                                                                                                                                                  | Local Secondary Index                                                                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| An index with a partition key and a sort key that can be different from those on the base table.                                                                        | An index that has the same partition key as the base table, but a different sort key.                                                                                                                                            |
 | A global secondary index has no size limitations and has its own provisioned throughput settings for read and write activity that are separate from those of the table. | As a result, the total size of indexed items for any one partition key value can't exceed 10 GB. Also, a local secondary index shares provisioned throughput settings for read and write activity with the table it is indexing. |
-| Each table in DynamoDB is limited to 20 global secondary indexes \(default limit\) | Each table in DynamoDB is limited to 5 local secondary indexes. |
+| Each table in DynamoDB is limited to 20 global secondary indexes (default limit)                                                                                        | Each table in DynamoDB is limited to 5 local secondary indexes.                                                                                                                                                                  |
 
 ### Global Secondary Index
 
-Cannot perform `GetItem`. Use `Query` or `Scan`.  
+Cannot perform `GetItem`. Use `Query` or `Scan`.\
 [https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-indexes-general.html](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-indexes-general.html)
 
 ## Reducing DynamoDB costs
@@ -255,4 +255,3 @@ Cannot perform `GetItem`. Use `Query` or `Scan`.
 * [Google Cloud Bigtable](https://cloud.google.com/bigtable/)
 * [Google Cloud Datastore](https://cloud.google.com/datastore/)
 * [Azure Table Storage](https://azure.microsoft.com/en-us/services/storage/tables/)
-

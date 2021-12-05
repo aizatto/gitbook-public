@@ -22,19 +22,19 @@ Cons:
 * iOS issues:
   * iOS doesn't support saving 360 photos/videos to the native Photos app
   * iPadOS
-    *  doesn't do vertical/landscape orientation well
+    * &#x20;doesn't do vertical/landscape orientation well
       * Sometimes it goes vertical, when I want landscape
   * Wish you can speed up or slow down a video
-  * YouTube 90 second limit when exporting from the iOS/iPadOS app 
+  * YouTube 90 second limit when exporting from the iOS/iPadOS app&#x20;
     * Workaround: AirDrop the file to your macOS, this will export it into an mp4 file.
     * Upload the mp4 file
   * Cannot stitch videos on iOS/iPadOS
-    * Sucks when TimeWarp splits videos at 6m40sec 
+    * Sucks when TimeWarp splits videos at 6m40sec&#x20;
 * Facebook issues:
   * Cannot upload 360 from iOS
     * Works ok when uploading file from Desktop
   * PowerPano upload doesn't view in Pano
-    * Doesn't work on iOS or Desktop 
+    * Doesn't work on iOS or Desktop&#x20;
 * Instagram:
   * No support for 360 photos or videos
 * Google Photos:
@@ -49,7 +49,7 @@ Cons:
 * Memory Card
   * You need to take battery out to take the memory card out
   * May consider putting a tape on the memory card so I can yank it out
-* GoPro Player \(macOS Desktop App\)
+* GoPro Player (macOS Desktop App)
   * Cannot stitch videos together
   * 5.6k and 4k export is only available without reframing
     * 5.6k ProRes, 10min file took 22mins to render on a MacBook Pro 2017 16GB ram, 2.9 GHz Quad-Core Intel Core i7
@@ -66,8 +66,8 @@ Cons:
 Manuals:
 
 * [https://gopro.com/help/productmanuals](https://gopro.com/help/productmanuals)
-* [https://gopro.com/content/dam/help/max/manuals/MAX\_UM\_ENG\_REVA.pdf](https://gopro.com/content/dam/help/max/manuals/MAX_UM_ENG_REVA.pdf)
-* [https://gopro.com/content/dam/help/max/quick-start-guides/MAX\_QSG\_REVC.pdf](https://gopro.com/content/dam/help/max/quick-start-guides/MAX_QSG_REVC.pdf)
+* [https://gopro.com/content/dam/help/max/manuals/MAX\_UM\_ENG\_REVA.pdf](https://gopro.com/content/dam/help/max/manuals/MAX\_UM\_ENG\_REVA.pdf)
+* [https://gopro.com/content/dam/help/max/quick-start-guides/MAX\_QSG\_REVC.pdf](https://gopro.com/content/dam/help/max/quick-start-guides/MAX\_QSG\_REVC.pdf)
 
 Notes:
 
@@ -90,15 +90,15 @@ Notes:
     * 10x setting
       * Not good for casual walking
     * No sound
-    * Might be better to record in video mode, and then speed it up manually in an editor \(not GoPro's app\) or YouTube \(max Playback is 2x\)
+    * Might be better to record in video mode, and then speed it up manually in an editor (not GoPro's app) or YouTube (max Playback is 2x)
       * This will at least include sound
-    * Splits video at 6mins 40seconds \(400 seconds\)
+    * Splits video at 6mins 40seconds (400 seconds)
       * Raw .360 file size: 4.01GB
       * AirDropped mp4 file size: 3.33GB
 * Video
   * 360
     * No stabilization
-    * Splits video at 8mins 2 seconds \(482 seconds\)
+    * Splits video at 8mins 2 seconds (482 seconds)
       * Raw: 4GB
 * GoPro Plus
   * If you are buying accessories, it may make sense to get GoPro Plus because you'd make back the same money
@@ -106,7 +106,7 @@ Notes:
 Apps:
 
 * iOS/iPadOS [https://apps.apple.com/us/app/gopro/id561350520](https://apps.apple.com/us/app/gopro/id561350520)
-* macOS [https://apps.apple.com/us/app/gopro-player/id1460836908?ls=1&mt=12](https://apps.apple.com/us/app/gopro-player/id1460836908?ls=1&mt=12)
+* macOS [https://apps.apple.com/us/app/gopro-player/id1460836908?ls=1\&mt=12](https://apps.apple.com/us/app/gopro-player/id1460836908?ls=1\&mt=12)
 
 Resources:
 
@@ -115,8 +115,8 @@ Resources:
 360 viewers:
 
 * macOS
-  * [https://apps.apple.com/us/app/gopro-player/id1460836908?ls=1&mt=12](https://apps.apple.com/us/app/gopro-player/id1460836908?ls=1&mt=12)
-  * [http://videolan.org/](http://videolan.org/)
+  * [https://apps.apple.com/us/app/gopro-player/id1460836908?ls=1\&mt=12](https://apps.apple.com/us/app/gopro-player/id1460836908?ls=1\&mt=12)
+  * [http://videolan.org/](http://videolan.org)
   * [https://www.lizardq.com/en/viewer/](https://www.lizardq.com/en/viewer/)
   * [http://www.fsoft.it/FSPViewer/](http://www.fsoft.it/FSPViewer/)
 
@@ -128,21 +128,21 @@ Editors:
   * [https://support.apple.com/en-us/HT208212](https://support.apple.com/en-us/HT208212)
   * [https://www.apple.com/final-cut-pro/specs/](https://www.apple.com/final-cut-pro/specs/)
   * [https://9to5mac.com/2018/04/02/final-cut-pro-x-360-degree-video/](https://9to5mac.com/2018/04/02/final-cut-pro-x-360-degree-video/)
-  * [https://www.youtube.com/results?search\_query=final+cut+pro+360](https://www.youtube.com/results?search_query=final+cut+pro+360)
+  * [https://www.youtube.com/results?search\_query=final+cut+pro+360](https://www.youtube.com/results?search\_query=final+cut+pro+360)
   * Motion
     * [https://apps.apple.com/us/app/motion/id434290957?mt=12](https://apps.apple.com/us/app/motion/id434290957?mt=12)
     * [https://support.apple.com/en-sg/guide/motion/welcome/mac](https://support.apple.com/en-sg/guide/motion/welcome/mac)
-    * [https://help.apple.com/motion/mac/5.4/\#/motnfccf9e10](https://help.apple.com/motion/mac/5.4/#/motnfccf9e10)
+    * [https://help.apple.com/motion/mac/5.4/#/motnfccf9e10](https://help.apple.com/motion/mac/5.4/#/motnfccf9e10)
 * Adobe Premier Pro
-  * $239.88/year \( @ $20.99/month\) or $31.49/mo 
+  * $239.88/year ( @ $20.99/month) or $31.49/mo&#x20;
   * VR Mode
-  * [https://www.adobe.com/products/premiere.html](https://www.adobe.com/products/premiere.html?promoid=PQ7SQBYQ&mv=other)
+  * [https://www.adobe.com/products/premiere.html](https://www.adobe.com/products/premiere.html?promoid=PQ7SQBYQ\&mv=other)
   * [https://helpx.adobe.com/premiere-pro/using/VRSupport.html](https://helpx.adobe.com/premiere-pro/using/VRSupport.html)
   * [https://studio.knightlab.com/results/storytelling-layers-on-360-video/how-to-edit-360-video-in-premiere/](https://studio.knightlab.com/results/storytelling-layers-on-360-video/how-to-edit-360-video-in-premiere/)
 
 Accessories:
 
-* [GoPro Max Grip + Tripod](https://www.amazon.com/GoPro-Max-Grip-Tripod-Official/dp/B07WRMQD69/ref=sr_1_3?crid=2RL86O7MHCYOE&keywords=gopro+max+tripod&qid=1573637133&sprefix=gopro+max+t%2Caps%2C366&sr=8-3)
+* [GoPro Max Grip + Tripod](https://www.amazon.com/GoPro-Max-Grip-Tripod-Official/dp/B07WRMQD69/ref=sr\_1\_3?crid=2RL86O7MHCYOE\&keywords=gopro+max+tripod\&qid=1573637133\&sprefix=gopro+max+t%2Caps%2C366\&sr=8-3)
   * Great for simply setting up and capturing 360
   * Tightener can be on the opposite side of battery access
   * [https://gopro.com/en/my/shop/mounts-accessories/max-grip-plus-tripod/ASBHM-002.html](https://gopro.com/en/my/shop/mounts-accessories/max-grip-plus-tripod/ASBHM-002.html)
@@ -157,7 +157,7 @@ Accessories:
 
 AirDrop from iPadOS to macOS:
 
-```text
+```
 ExifTool Version Number         : 11.70
 File Name                       : output_11-13-2019_14_08_21.MP4
 Directory                       : /Users/aizat/Downloads
@@ -247,4 +247,3 @@ Two perspectives
 ## VR Mode
 
 Hold the camera mostly at eye level, you'll get a more comfortable view of yourself when rewatching the videos.
-

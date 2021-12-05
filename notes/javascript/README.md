@@ -1,27 +1,27 @@
 # JavaScript
 
 * [http://stateofjs.com](http://stateofjs.com)
-* [Reference: Node.js](/nodejs/)
+* [Reference: Node.js](https://app.gitbook.com/nodejs/)
 
 ## Resources
 
-| Type | MDN |
-| :--- | :--- |
-| Array | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) |
-| Date | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) |
-| Object | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object) |
-| String | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) |
-| JSON | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON) |
-| Set | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set) |
-| RegExp | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp) |
-| Destructuring Assignment | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) |
-| const | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const) |
-| let | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) |
-| export | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export) |
+| Type                     | MDN                                                                                                          |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| Array                    | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array)               |
+| Date                     | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Date)                |
+| Object                   | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Object)              |
+| String                   | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String)              |
+| JSON                     | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/JSON)                |
+| Set                      | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Set)                 |
+| RegExp                   | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/RegExp)              |
+| Destructuring Assignment | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring\_assignment) |
+| const                    | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)                    |
+| let                      | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)                      |
+| export                   | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)                   |
 
-* [parseInt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
-* [parseFloat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseFloat)
-* [runkit.com](https://runkit.com/)
+* [parseInt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/parseInt)
+* [parseFloat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/parseFloat)
+* [runkit.com](https://runkit.com)
 
 ## strict mode
 
@@ -31,7 +31,7 @@ Begin files with:
 'use strict';
 ```
 
-[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict\_mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict\_mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict\_mode)
 
 ## Arrow functions: `() => {}`
 
@@ -44,11 +44,11 @@ const a = (param1, param2) => {
 const b = (param1, param2) => param1 + param2;
 ```
 
-[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow\_functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow\_functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow\_functions)
 
 ## String
 
-[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String)
 
 ### UTF Support
 
@@ -64,7 +64,7 @@ console.log(window.location.hash);
 
 Results:
 
-```text
+```
 #array
 ```
 
@@ -80,7 +80,7 @@ window.location.hash = '#object'
 
 ## trailing commas
 
-[http://exploringjs.com/es2016-es2017/ch\_trailing-comma-parameters.html](http://exploringjs.com/es2016-es2017/ch_trailing-comma-parameters.html)
+[http://exploringjs.com/es2016-es2017/ch\_trailing-comma-parameters.html](http://exploringjs.com/es2016-es2017/ch\_trailing-comma-parameters.html)
 
 
 
@@ -114,7 +114,7 @@ assert(expected2, input2);
 assert(expected3, input3);
 ```
 
-## \`\`[`querystring`](https://nodejs.org/api/querystring.html)\`\`
+## ``[`querystring`](https://nodejs.org/api/querystring.html)``
 
 Warning:  `querystring.stringify` does not stringify deeply nested objects.
 
@@ -137,7 +137,7 @@ class Cat extends Animal {
 
 ## Flow vs TypeScript
 
-* [http://djcordhose.github.io/flow-vs-typescript/elm-flow-typescript.html\#/](http://djcordhose.github.io/flow-vs-typescript/elm-flow-typescript.html#/)
+* [http://djcordhose.github.io/flow-vs-typescript/elm-flow-typescript.html#/](http://djcordhose.github.io/flow-vs-typescript/elm-flow-typescript.html#/)
 
 #### Flow
 
@@ -150,7 +150,7 @@ class Cat extends Animal {
 ## Alternatives
 
 * Go
-* [Elixir](/elixir/)
+* [Elixir](https://app.gitbook.com/elixir/)
 
 ## Frameworks
 
@@ -163,4 +163,3 @@ class Cat extends Animal {
 
 * [http://docs.sequelizejs.com/en/v3/](http://docs.sequelizejs.com/en/v3/)
 * [http://bookshelfjs.org](http://bookshelfjs.org)
-

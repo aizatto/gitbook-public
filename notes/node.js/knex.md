@@ -1,6 +1,6 @@
 # Knex
 
-[https://knexjs.org/](https://knexjs.org/)
+[https://knexjs.org/](https://knexjs.org)
 
 ## CLI
 
@@ -59,11 +59,11 @@ This explains what the file does.
   * Follows [JavaScript Style Guides](../javascript/style-guides.md) for local variables
   * Exception relational id, for example: `entryID`
 
-Also see [Engineering Code &gt; Naming](../../engineering-code/writing-code/naming/#common-names)
+Also see [Engineering Code > Naming](../../engineering-code/writing-code/naming/#common-names)
 
 ### Promises:
 
-{% code title="20190424104046\_createTable\_users.js" %}
+{% code title="20190424104046_createTable_users.js" %}
 ```javascript
 exports.up = function(knex, Promise) {
   return knex.schema
@@ -99,4 +99,3 @@ exports.down = function(knex, Promise) {
 };
 ```
 {% endcode %}
-
