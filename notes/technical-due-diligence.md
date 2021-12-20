@@ -6,7 +6,7 @@ description: >-
 
 # Technical Due Diligence
 
-When conduction a Technical Due Diligence \(DD or TDD\), the question I am trying to answer is:
+When conducting a Technical Due Diligence (DD or TDD), the question I am trying to answer is:
 
 > What are the deal breakers in this investment?
 
@@ -14,7 +14,7 @@ To answer this, I need to identify:
 
 * What does the investor consider a dealbreaker?
   * What are potential dealbreakers they may not even realize?
-  * What is an investors investment thesis?
+  * What is the investors investment thesis?
 * What are the potential dealbreakers in this company?
 * Is there anything specific you'd like me to investigate?
 * How would they like me to deliver findings?
@@ -100,4 +100,3 @@ Examples:
 * Are you investing into it being a profitable business?
   * These business may still be making money.
 * Are you investing into the company into building their technical expertise?
-
