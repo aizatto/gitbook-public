@@ -14,7 +14,7 @@ In general:
 
 * Join a rocket ship company
 
-Eric Schmidt \(as CEO of Google\) to Sheryl Sandberg when deciding to join Google, and now COO of Facebook:
+Eric Schmidt (as CEO of Google) to Sheryl Sandberg when deciding to join Google, and now COO of Facebook:
 
 > 'If you're offered a seat on a rocket ship, get on, don't ask what seat.' I tell people in their careers, ‘look for growth.’ Look for the teams that are growing quickly. Look for the companies that are doing well. Look for a place where you feel that you can have a lot of impact.”
 
@@ -28,7 +28,7 @@ I'm interested in companies with products I used, so I reached out:
 * [GitHub](https://github.com/about/careers)
 * [Gitlab](https://about.gitlab.com/jobs/apply/)
 * [Reddit](https://www.redditinc.com/careers)
-* Bloombuilt \(for their DayOne Journaling app\)
+* Bloombuilt (for their DayOne Journaling app)
 
 As you will be someone who is going through the job application process, you could focus on companies.
 
@@ -103,4 +103,9 @@ From ex Facebook Software Engineer:
 ## Evaluating Companies
 
 * How much risk are you willing to take?
-
+* What is the company culture?
+  * Do they have a work from home policy?
+  * Do they allow anyone to take vacation?
+* Who/what will you be learning at the company?
+* Who is going to mentor you?
+* What is the company's expectation of you?
