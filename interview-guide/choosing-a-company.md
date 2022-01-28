@@ -23,7 +23,7 @@ Lists:
 * [Breakout List](https://breakoutlist.com): List of companies with a breakout trajectory.
 * [Wealthfront 2017 Career Launching Companies List](https://blog.wealthfront.com/2017-career-launching-companies-list/)
 
-I'm interested in companies with products I used, so I reached out:
+I'm interested in companies with products I use, so I reached out to:
 
 * [GitHub](https://github.com/about/careers)
 * [Gitlab](https://about.gitlab.com/jobs/apply/)
@@ -79,6 +79,7 @@ Cons:
 * Don't expect much mentorship, or good mentorship
   * Unless the other people in your team have experience as well
 * High risk, potentially high reward
+* Most likely a Cowboy organization
 
 ### Large: Series C+, Public
 
@@ -86,6 +87,8 @@ Pros:
 
 * Large number of people you can potentially learn from
 * Low risk, good pay
+* FAANGs
+  * Mature organizations
 
 Cons:
 
