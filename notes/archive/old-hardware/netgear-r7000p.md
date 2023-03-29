@@ -6,7 +6,7 @@
 
 Access your router (either):
 
-* [http://192.168.1.1/ ](http://192.168.1.1)
+* [http://192.168.1.1/ ](http://192.168.1.1/)
 * http://www.routerlogin.net/
 
 Default password ([Google query](https://www.google.com/search?q=default+password+Netgear+R7000P))
@@ -16,8 +16,8 @@ Default password ([Google query](https://www.google.com/search?q=default+passwor
 
 So maybe one of these would work:
 
-* [http://admin:password@192.168.1.1/](http://admin:password@192.168.1.1)
-* [http://admin:password@www.routerlogin.net/](http://admin:password@www.routerlogin.net)
+* [http://admin:password@192.168.1.1/](http://admin:password@192.168.1.1/)
+* [http://admin:password@www.routerlogin.net/](http://admin:password@www.routerlogin.net/)
 
 ### Enable Dynamic DNS
 
@@ -35,7 +35,7 @@ Clients will use this VPN connection to access All sites on the Internet & Home 
 
 Download: "OpenVPN configuration package download" "For Smart Phone"
 
-* Downloads a [smartphone.zip](http://smartphone.zip)
+* Downloads a [smartphone.zip](http://smartphone.zip/)
 * Unzip file
 * Locate client3.ovpn
 
@@ -44,7 +44,7 @@ Download: "OpenVPN configuration package download" "For Smart Phone"
 ### Download OpenVPN Client for Desktop
 
 * [https://openvpn.net/vpn-server-resources/connecting-to-access-server-with-macos/](https://openvpn.net/vpn-server-resources/connecting-to-access-server-with-macos/)
-* [https://tunnelblick.net/](https://tunnelblick.net)
+* [https://tunnelblick.net/](https://tunnelblick.net/)
 
 Official Open VPN client
 

@@ -21,7 +21,7 @@
 
 * [parseInt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/parseInt)
 * [parseFloat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/parseFloat)
-* [runkit.com](https://runkit.com)
+* [runkit.com](https://runkit.com/)
 
 ## strict mode
 

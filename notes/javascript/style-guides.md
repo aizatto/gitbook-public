@@ -7,7 +7,7 @@
 * [https://google.github.io/styleguide/jsguide.html](https://google.github.io/styleguide/jsguide.html)
 * [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 * [https://developer.mozilla.org/en-US/docs/Mozilla/Developer\_guide/Coding\_Style#JavaScript\_objects](https://developer.mozilla.org/en-US/docs/Mozilla/Developer\_guide/Coding\_Style#JavaScript\_objects)
-* [http://standardjs.com/](http://standardjs.com)
+* [http://standardjs.com/](http://standardjs.com/)
 
 |                 | Personal Opinion | Google                                                                                          | AirBNB                                                            | jQuery                                                               | Standard                                                     |
 | --------------- | ---------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------ |

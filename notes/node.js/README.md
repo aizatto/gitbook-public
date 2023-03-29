@@ -20,7 +20,7 @@ yarn add -g prettyjson
 | yarn               | npm install         |
 | yarn add `package` | npm -i -S `package` |
 
-* [https://yarnpkg.com/](https://yarnpkg.com)
+* [https://yarnpkg.com/](https://yarnpkg.com/)
 * [https://www.sitepoint.com/yarn-vs-npm/](https://www.sitepoint.com/yarn-vs-npm/)
 * [https://yarnpkg.com/lang/en/docs/migrating-from-npm/](https://yarnpkg.com/lang/en/docs/migrating-from-npm/)
 * [https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc)

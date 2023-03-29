@@ -1,6 +1,6 @@
 # Knex
 
-[https://knexjs.org/](https://knexjs.org)
+[https://knexjs.org/](https://knexjs.org/)
 
 ## CLI
 
